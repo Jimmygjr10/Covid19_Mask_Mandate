@@ -19,5 +19,5 @@ can be culled.
 data from other countries that we’re not interested in. This will require a fair amount of
 clean-up.
 ### Machine Learning
-We will be using the JIMMY GREER method to cluster our data on “Restaurant” and TEKISHA
+We will be using the JIMMY GREER method to cluster our data on “CostOFLiving” and TEKISHA
 SAMPSON
