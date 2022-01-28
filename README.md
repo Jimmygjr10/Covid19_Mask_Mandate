@@ -4,7 +4,6 @@
 
 ### Members: Jimmy Greer, Ben Altshur, TeKisha Sampson &amp; Jason Goddard
 
-### Analysis Project: Real Estate Projections
 
 ### Objective: Did Counties with COVID Mandates see improved outcomes or numbers of deaths / infections than those without?
 
