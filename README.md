@@ -4,7 +4,7 @@
 ### Members: Jimmy Greer, Ben Altshur, Tekeisha Sampson &amp; Jason Goddard
 ### Analysis Project: Real Estate Projections
 ### Objective: Out of a sample of cities, will the property value go up or down?
-## **Data Sets**
+## ***Data Sets***
  Redfin home values 2017-2018
  Kaggle cost of living index 2017-2018
 Real estate values are historically volatile, and we’d like to identify indicators that may be able
