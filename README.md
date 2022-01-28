@@ -1,7 +1,7 @@
 # Real-Estate-Predicition
 
 ## Team: Red Zone
-### Members: Jimmy Greer, Ben Altshur, Tekeisha Sampson &amp; Jason Goddard
+### Members: Jimmy Greer, Ben Altshur, TeKisha Sampson &amp; Jason Goddard
 ### Analysis Project: Real Estate Projections
 ### Objective: Out of a sample of cities, will the property value go up or down?
 ## ***Data Sets***
