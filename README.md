@@ -29,4 +29,4 @@ Pandas used to clean both sets.
 Merging on *county*
 
 ## Machine Learning
-We will cluster counties based on mandate and deaths using K-means **(TBD)** in an effort to see how communties fared across the state (does the data group by state or county size, or were the counties simply grouped by the mandate).  Because of the manageable size of the data, we believe that we can employ K-means **(TBD)** from the start.  
+We will cluster counties based on mandate and deaths using **(TBD)** in an effort to see how communties fared across the state (does the data group by state or county size, or were the counties simply grouped by the mandate).  Because of the manageable size of the data, we believe that we can employ **(TBD)** from the start.  
