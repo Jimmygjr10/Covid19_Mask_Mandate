@@ -24,6 +24,9 @@ Pandas used to clean both sets.
 &nbsp;&nbsp;-dropping multiple columns <br>
 &nbsp;&nbsp;-groupby *counties* to get sum of cases and deaths
 
+- Co Est2020 <br>
+&nbsp;&nbsp;-concantenate state and county codes into *fips*
+
 ## ***SQL***
 
 Merging on *county*
