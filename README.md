@@ -4,6 +4,11 @@
 
 **Members:** Jimmy Greer, Ben Altshur, TeKisha Sampson &amp; Jason Goddard
 
+## Comm Protocol
+- Trello for PM, Slack, Group-Text, email
+- Use one of the above as heads-up on working status, new branches, major commits, new files, pull requests, and merge conflicts
+
+
 
 **Objective:** Did counties with mask mandates see fewer COVID-19 cases / deaths than those without?  The analysis will be a function of the cases / deaths as a percentage of the population.  
 
