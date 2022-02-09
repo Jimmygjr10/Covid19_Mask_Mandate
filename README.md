@@ -14,7 +14,7 @@
 *elec_results_2020.csv:*.  designation of red/blue states by 2020 presidential election 
 
 ## ***EDA***
-Pandas used to clean both sets.
+Pandas used to clean datasets.
 
 - County Mask Mandate <br>
 &nbsp;&nbsp;-dropping multiple columns <br>
