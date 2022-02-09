@@ -10,7 +10,8 @@
 ## ***Data Sets***
 *co-est2020.csv:*   population in 2020 by county in the United States <br>
 *us-counties.csv:*  the cumulative daily 2020 cases and deaths by county taken on the last day of the year <br>
-*county_mask_mandate_data.csv:*   mask mandates in counties in the United States defined by whether a mask mandate was implemented
+*county_mask_mandate_data.csv:*   mask mandates in counties in the United States defined by whether a mask mandate was implemented <br>
+*elec_results_2020.csv:*.  designation of red/blue states by 2020 presidential election 
 
 ## ***EDA***
 Pandas used to clean both sets.
@@ -26,6 +27,9 @@ Pandas used to clean both sets.
 
 - Co Est2020 <br>
 &nbsp;&nbsp;-concantenate state and county codes into *fips*
+
+- Election Results <br>
+&nbsp;&nbsp;-merge by category into County Mask Mandate data on *state_name*
 
 ## ***SQL***
 
