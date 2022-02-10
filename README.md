@@ -7,6 +7,8 @@
 
 **Objective:** Did counties with mask mandates see fewer COVID-19 cases / deaths than those without?  Can we find other more relevant features that suggest a relation between factors and death rate?  The analysis will be a function of the cases / deaths as a percentage of the population.  
 
+**Intro Deck:** [Red Zone's COVID-19 Mask Mandate Intro](https://docs.google.com/presentation/d/16n0RSISNJ638HoVZlOlderMXyFtMTKz3fehBtG4oSqQ/edit#slide=id.p "Red Zone's COVID-19 Mask Mandate Intro") 
+
 ## ***Datasets***
 
 | CSV | Keys | Summary | *OTHER?* | 
