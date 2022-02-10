@@ -41,6 +41,8 @@ Pandas used to clean datasets.
 
 Merging on *fips* keys
 
+![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/Database/database_covid_rev2.png "Data ERD")
+
 ## ***Machine Learning***
 We will cluster counties based on mandate and deaths using **(a Classification model / Logistical Regression TBD)** in an effort to see how communties fared across the state (does the data group by **state (string would have to be converted (perhaps red/blue on last election, east/west or size on median)** or county size, or were the counties simply grouped by the mandate).  Because of the manageable size of the data, we believe that we can employ **(TBD)** from the start.  
 
