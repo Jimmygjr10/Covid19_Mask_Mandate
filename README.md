@@ -22,19 +22,19 @@
 ## ***EDA***
 Pandas used to clean datasets.
 
-- County Mask Mandate <br>
+- **County Mask Mandate** <br>
 &nbsp;&nbsp;-dropping multiple columns <br>
 &nbsp;&nbsp;-*county_start_date* to 1 or 0 <br>
 &nbsp;&nbsp;-add column for duration 
 
-- US Counties <br>
+- **US Counties** <br>
 &nbsp;&nbsp;-dropping multiple columns <br>
 &nbsp;&nbsp;-groupby *counties* to get sum of cases and deaths
 
-- Co Est2020 <br>
+- **Co Est2020** <br>
 &nbsp;&nbsp;-concantenate state and county codes into *fips*
 
-- Election Results <br>
+- **Election Results** <br>
 &nbsp;&nbsp;-merge by category into County Mask Mandate data on *state_fips*
 
 ## ***SQL***
