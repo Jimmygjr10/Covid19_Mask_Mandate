@@ -35,6 +35,7 @@ Pandas used to clean datasets.
 &nbsp;&nbsp;-concantenate state and county codes into *fips*
 
 - **Election Results** <br>
+&nbsp;&nbsp;-ETL strip 
 &nbsp;&nbsp;-merge by category into County Mask Mandate data on *state_fips*
 
 ## ***SQL***
