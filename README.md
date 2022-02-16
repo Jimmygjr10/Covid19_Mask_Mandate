@@ -47,6 +47,8 @@ Merging on *fips* keys
 ## ***Machine Learning***
 We will cluster counties based on mandate and deaths using **(a Classification model / Logistical Regression TBD)** in an effort to see how communties fared across the state (does the data group by **state (string would have to be converted (perhaps red/blue on last election, east/west or size on median)** or county size, or were the counties simply grouped by the mandate).  Because of the manageable size of the data, we believe that we can employ **(TBD)** from the start.  
 
+We ran Logistical Regression on *Deaths* and *Cases*, and as expected Cases made more sense for our research and our goals.  
+
 ## ***Exported CSV***
 - *POPULATION_TEST.csv* <br>
 &nbsp;&nbsp;-via XXXX <br>
