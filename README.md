@@ -22,19 +22,22 @@
 ## ***EDA***
 Pandas used to clean datasets.
 
-- County Mask Mandate <br>
+- **County Mask Mandate** <br>
 &nbsp;&nbsp;-dropping multiple columns <br>
 &nbsp;&nbsp;-*county_start_date* to 1 or 0 <br>
 &nbsp;&nbsp;-add column for duration 
 
-- US Counties <br>
+- **US Counties** <br>
 &nbsp;&nbsp;-dropping multiple columns <br>
 &nbsp;&nbsp;-groupby *counties* to get sum of cases and deaths
 
-- Co Est2020 <br>
+- **Co Est2020** <br>
 &nbsp;&nbsp;-concantenate state and county codes into *fips*
 
-- Election Results <br>
+
+- **Election Results** <br>
+&nbsp;&nbsp;-ETL strip <br>
+
 &nbsp;&nbsp;-merge by category into County Mask Mandate data on *state_fips*
 
 ## ***SQL***
@@ -45,6 +48,10 @@ Merging on *fips* keys
 
 ## ***Machine Learning***
 We will cluster counties based on mandate and deaths using **(a Classification model / Logistical Regression TBD)** in an effort to see how communties fared across the state (does the data group by **state (string would have to be converted (perhaps red/blue on last election, east/west or size on median)** or county size, or were the counties simply grouped by the mandate).  Because of the manageable size of the data, we believe that we can employ **(TBD)** from the start.  
+
+
+We ran Logistical Regression on *Deaths* and *Cases*, and as expected Cases made more sense for our research and our goals.  
+
 
 ## ***Exported CSV***
 - *POPULATION_TEST.csv* <br>
