@@ -1,0 +1,3143 @@
+﻿county_name,fips,state_name,lat,lng
+Los Angeles,06037,California,34.3207,-118.2248
+Cook,17031,Illinois,41.8401,-87.8168
+Harris,48201,Texas,29.8577,-95.3936
+Maricopa,04013,Arizona,33.349,-112.4915
+San Diego,06073,California,33.0341,-116.7353
+Orange,06059,California,33.703,-117.7611
+Miami-Dade,12086,Florida,25.615,-80.5623
+Dallas,48113,Texas,32.7666,-96.7779
+Kings,36047,New York,40.6395,-73.9385
+Riverside,06065,California,33.7437,-115.9938
+Queens,36081,New York,40.7023,-73.8203
+King,53033,Washington,47.4902,-121.8052
+Clark,32003,Nevada,36.2152,-115.0135
+San Bernardino,06071,California,34.8414,-116.1784
+Tarrant,48439,Texas,32.7716,-97.2912
+Bexar,48029,Texas,29.4489,-98.52
+Santa Clara,06085,California,37.2318,-121.6951
+Broward,12011,Florida,26.1523,-80.4871
+Wayne,26163,Michigan,42.2819,-83.2821
+Alameda,06001,California,37.6469,-121.8889
+New York,36061,New York,40.7781,-73.9675
+Middlesex,25017,Massachusetts,42.4856,-71.3918
+Philadelphia,42101,Pennsylvania,40.0077,-75.1339
+Sacramento,06067,California,38.4493,-121.3443
+Suffolk,36103,New York,40.8686,-72.8448
+Palm Beach,12099,Florida,26.6476,-80.4655
+Bronx,36005,New York,40.85,-73.866
+Hillsborough,12057,Florida,27.9291,-82.3092
+Nassau,36059,New York,40.7328,-73.5864
+Orange,12095,Florida,28.5144,-81.3235
+Franklin,39049,Ohio,39.9695,-83.0093
+Oakland,26125,Michigan,42.6604,-83.3858
+Cuyahoga,39035,Ohio,41.4245,-81.6586
+Hennepin,27053,Minnesota,45.0046,-93.4769
+Travis,48453,Texas,30.3347,-97.782
+Allegheny,42003,Pennsylvania,40.4688,-79.9812
+Fairfax,51059,Virginia,38.8368,-77.277
+Contra Costa,06013,California,37.9191,-121.9278
+Salt Lake,49035,Utah,40.6673,-111.9236
+Mecklenburg,37119,North Carolina,35.2467,-80.8328
+Wake,37183,North Carolina,35.7903,-78.6503
+Montgomery,24031,Maryland,39.1363,-77.2042
+Fulton,13121,Georgia,33.7903,-84.467
+Pima,04019,Arizona,32.0974,-111.7899
+St. Louis,29189,Missouri,38.6405,-90.4433
+Honolulu,15003,Hawaii,21.5008,-158.1053
+Fresno,06019,California,36.7582,-119.6493
+Collin,48085,Texas,33.1879,-96.5724
+Westchester,36119,New York,41.1623,-73.7561
+Pinellas,12103,Florida,27.9196,-82.7256
+Marion,18097,Indiana,39.7817,-86.1385
+Milwaukee,55079,Wisconsin,43.0072,-87.9668
+Fairfield,09001,Connecticut,41.2708,-73.3894
+Shelby,47157,Tennessee,35.184,-89.8955
+Duval,12031,Florida,30.3316,-81.6708
+Bergen,34003,New Jersey,40.9596,-74.0742
+DuPage,17043,Illinois,41.852,-88.0856
+Erie,36029,New York,42.764,-78.7323
+Gwinnett,13135,Georgia,33.9617,-84.0236
+Prince George's,24033,Maryland,38.8295,-76.8473
+Hartford,09003,Connecticut,41.8064,-72.7329
+Kern,06029,California,35.3429,-118.7299
+Pierce,53053,Washington,47.0241,-122.1046
+San Francisco,06075,California,37.7562,-122.443
+Macomb,26099,Michigan,42.6955,-82.9323
+New Haven,09009,Connecticut,41.4105,-72.9321
+Hidalgo,48215,Texas,26.3969,-98.1812
+Ventura,06111,California,34.4565,-119.0836
+El Paso,48141,Texas,31.7686,-106.2348
+Denton,48121,Texas,33.2052,-97.117
+Baltimore,24005,Maryland,39.4627,-76.6393
+Middlesex,34023,New Jersey,40.4391,-74.4117
+Worcester,25027,Massachusetts,42.3514,-71.9077
+Montgomery,42091,Pennsylvania,40.2108,-75.3673
+Hamilton,39061,Ohio,39.1955,-84.5428
+Multnomah,41051,Oregon,45.5468,-122.4147
+Snohomish,53061,Washington,48.0475,-121.6975
+Suffolk,25025,Massachusetts,42.3336,-71.0709
+Essex,34013,New Jersey,40.7872,-74.247
+Oklahoma,40109,Oklahoma,35.5515,-97.4072
+Essex,25009,Massachusetts,42.6731,-70.952
+San Mateo,06081,California,37.4229,-122.329
+Jefferson,21111,Kentucky,38.1872,-85.6591
+Fort Bend,48157,Texas,29.5275,-95.7709
+Cobb,13067,Georgia,33.9415,-84.5767
+DeKalb,13089,Georgia,33.7715,-84.2264
+Monroe,36055,New York,43.1464,-77.6961
+San Joaquin,06077,California,37.9348,-121.2714
+Lee,12071,Florida,26.5778,-81.8337
+Denver,08031,Colorado,39.7621,-104.8759
+Lake,17097,Illinois,42.3233,-88.0037
+Norfolk,25021,Massachusetts,42.1607,-71.2111
+El Paso,08041,Colorado,38.8321,-104.5255
+Jackson,29095,Missouri,39.0085,-94.3461
+District of Columbia,11001,District of Columbia,38.9047,-77.0163
+Will,17197,Illinois,41.445,-87.9786
+Davidson,47037,Tennessee,36.1695,-86.7848
+Polk,12105,Florida,27.9489,-81.6976
+Bernalillo,35001,New Mexico,35.0513,-106.6701
+Hudson,34017,New Jersey,40.7351,-74.0777
+Jefferson,01073,Alabama,33.5543,-86.8964
+Kent,26081,Michigan,43.0322,-85.5493
+Tulsa,40143,Oklahoma,36.1211,-95.9415
+Arapahoe,08005,Colorado,39.6498,-104.3392
+Providence,44007,Rhode Island,41.8721,-71.58
+Bucks,42017,Pennsylvania,40.337,-75.1069
+Monmouth,34025,New Jersey,40.2603,-74.2213
+Baltimore,24510,Maryland,39.3051,-76.6144
+Utah,49049,Utah,40.1199,-111.6703
+Ocean,34029,New Jersey,39.8855,-74.2813
+Johnson,20091,Kansas,38.8838,-94.8223
+Washington,41067,Oregon,45.5601,-123.0984
+Brevard,12009,Florida,28.2937,-80.7323
+Jefferson,08059,Colorado,39.5864,-105.2505
+Montgomery,48339,Texas,30.3002,-95.503
+Anne Arundel,24003,Maryland,39.0065,-76.6051
+Delaware,42045,Pennsylvania,39.9167,-75.3991
+Bristol,25005,Massachusetts,41.7972,-71.1144
+Douglas,31055,Nebraska,41.2953,-96.1543
+New Castle,10003,Delaware,39.5768,-75.6527
+Union,34039,New Jersey,40.66,-74.3085
+Williamson,48491,Texas,30.648,-97.6008
+Ramsey,27123,Minnesota,45.0171,-93.0996
+Stanislaus,06099,California,37.5591,-120.9977
+Summit,39153,Ohio,41.126,-81.5322
+Lancaster,42071,Pennsylvania,40.0424,-76.2477
+Volusia,12127,Florida,29.0584,-81.1819
+Dane,55025,Wisconsin,43.0673,-89.4181
+Montgomery,39113,Ohio,39.7546,-84.2906
+Kane,17089,Illinois,41.9388,-88.4286
+Guilford,37081,North Carolina,36.0795,-79.7889
+Pasco,12101,Florida,28.3091,-82.3932
+Chester,42029,Pennsylvania,39.9731,-75.7484
+Plymouth,25023,Massachusetts,41.9512,-70.8114
+Sedgwick,20173,Kansas,37.6848,-97.461
+Greenville,45045,South Carolina,34.8944,-82.3707
+Camden,34007,New Jersey,39.8035,-74.9597
+Spokane,53063,Washington,47.6207,-117.404
+Adams,08001,Colorado,39.8736,-104.3378
+Passaic,34031,New Jersey,41.0344,-74.3008
+Sonoma,06097,California,38.5283,-122.8874
+Morris,34027,New Jersey,40.862,-74.5445
+Lake,18089,Indiana,41.4171,-87.3822
+Polk,19153,Iowa,41.6855,-93.5735
+Richmond,36085,New York,40.5808,-74.1524
+Clark,53011,Washington,45.7793,-122.4825
+Hampden,25013,Massachusetts,42.1351,-72.6316
+Onondaga,36067,New York,43.0058,-76.1946
+Tulare,06107,California,36.2201,-118.8005
+Prince William,51153,Virginia,38.703,-77.4809
+Seminole,12117,Florida,28.717,-81.2363
+Knox,47093,Tennessee,35.9932,-83.9371
+Washoe,32031,Nevada,40.6657,-119.6643
+Ada,16001,Idaho,43.4511,-116.2412
+Virginia Beach,51810,Virginia,36.7335,-76.0435
+Burlington,34005,New Jersey,39.8777,-74.6681
+York,42133,Pennsylvania,39.92,-76.7265
+Santa Barbara,06083,California,34.6729,-120.0165
+East Baton Rouge,22033,Louisiana,30.5383,-91.0956
+Solano,06095,California,38.27,-121.9329
+Jefferson,22051,Louisiana,29.7872,-90.1274
+Monterey,06053,California,36.2172,-121.2392
+Pinal,04021,Arizona,32.9044,-111.3448
+Lucas,39095,Ohio,41.6199,-83.6583
+Cameron,48061,Texas,26.1334,-97.5181
+Dakota,27037,Minnesota,44.6719,-93.0654
+Sarasota,12115,Florida,27.1845,-82.3315
+Berks,42011,Pennsylvania,40.4163,-75.926
+Mobile,01097,Alabama,30.7872,-88.2058
+Hillsborough,33011,New Hampshire,42.9153,-71.7161
+Richland,45079,South Carolina,34.0218,-80.9031
+Clackamas,41005,Oregon,45.188,-122.2209
+Genesee,26049,Michigan,43.0217,-83.7067
+Charleston,45019,South Carolina,32.8346,-79.9531
+Waukesha,55133,Wisconsin,43.0182,-88.3045
+Loudoun,51107,Virginia,39.0907,-77.6357
+St. Charles,29183,Missouri,38.7819,-90.6749
+Pulaski,05119,Arkansas,34.77,-92.3119
+Orleans,22071,Louisiana,30.0687,-89.9288
+Placer,06061,California,39.0635,-120.7175
+Manatee,12081,Florida,27.4719,-82.3153
+Orange,36071,New York,41.4021,-74.3055
+Butler,39017,Ohio,39.4386,-84.5756
+Forsyth,37067,North Carolina,36.1306,-80.2563
+Lane,41039,Oregon,43.9388,-122.8475
+Allen,18003,Indiana,41.0909,-85.0666
+Stark,39151,Ohio,40.8139,-81.3656
+Collier,12021,Florida,26.1107,-81.3476
+Mercer,34021,New Jersey,40.2834,-74.7018
+Washtenaw,26161,Michigan,42.2532,-83.8388
+Lehigh,42077,Pennsylvania,40.6127,-75.5923
+Madison,01089,Alabama,34.7631,-86.5502
+Nueces,48355,Texas,27.7255,-97.6132
+Hamilton,47065,Tennessee,35.1808,-85.1648
+Brazoria,48039,Texas,29.1897,-95.4519
+Marion,12083,Florida,29.2102,-82.0567
+Westmoreland,42129,Pennsylvania,40.3107,-79.467
+Osceola,12097,Florida,28.0627,-81.1495
+Anoka,27003,Minnesota,45.2733,-93.2465
+Bell,48027,Texas,31.0377,-97.4782
+Lake,12069,Florida,28.7615,-81.7113
+Davis,49011,Utah,40.99,-112.1115
+Larimer,08069,Colorado,40.6664,-105.4611
+Chesterfield,51041,Virginia,37.3785,-77.587
+Marion,41047,Oregon,44.9033,-122.5849
+Douglas,08035,Colorado,39.3297,-104.9296
+Galveston,48167,Texas,29.3931,-94.9629
+Cumberland,37051,North Carolina,35.0486,-78.8276
+Horry,45051,South Carolina,33.9215,-78.9965
+Somerset,34035,New Jersey,40.5635,-74.6163
+Henrico,51087,Virginia,37.538,-77.4058
+Rockland,36087,New York,41.1524,-74.0241
+Hamilton,18057,Indiana,40.0725,-86.052
+Boulder,08013,Colorado,40.0925,-105.3577
+Fayette,21067,Kentucky,38.0423,-84.4587
+Howard,24027,Maryland,39.2507,-76.9312
+Luzerne,42079,Pennsylvania,41.177,-75.989
+Rutherford,47149,Tennessee,35.8427,-86.4167
+Escambia,12033,Florida,30.6689,-87.3628
+Lancaster,31109,Nebraska,40.7842,-96.6878
+St. Lucie,12111,Florida,27.3773,-80.472
+Durham,37063,North Carolina,36.036,-78.8766
+St. Louis,29510,Missouri,38.6358,-90.2451
+McHenry,17111,Illinois,42.3244,-88.4523
+Lorain,39093,Ohio,41.2956,-82.1512
+Spartanburg,45083,South Carolina,34.9312,-81.9908
+Albany,36001,New York,42.6002,-73.9736
+Rockingham,33015,New Hampshire,42.9876,-71.1254
+Weld,08123,Colorado,40.5548,-104.3925
+Lubbock,48303,Texas,33.6102,-101.8205
+Northampton,42095,Pennsylvania,40.7542,-75.3076
+Dutchess,36027,New York,41.7651,-73.7429
+Anchorage,02020,Alaska,61.1508,-149.1091
+Cumberland,23005,Maine,43.8464,-70.3988
+Gloucester,34015,New Jersey,39.7173,-75.1414
+Ingham,26065,Michigan,42.5971,-84.3735
+Lexington,45063,South Carolina,33.9023,-81.2722
+Leon,12073,Florida,30.458,-84.2779
+Greene,29077,Missouri,37.258,-93.342
+Chatham,13051,Georgia,32.0042,-81.1328
+Ottawa,26139,Michigan,42.9598,-85.9961
+Winnebago,17201,Illinois,42.3363,-89.1609
+Clayton,13063,Georgia,33.5419,-84.3576
+San Luis Obispo,06079,California,35.3871,-120.4045
+Thurston,53067,Washington,46.9258,-122.8332
+Cleveland,40027,Oklahoma,35.2031,-97.3265
+Dauphin,42043,Pennsylvania,40.4155,-76.7795
+Santa Cruz,06087,California,37.0562,-122.0018
+Erie,42049,Pennsylvania,41.9926,-80.0328
+Webb,48479,Texas,27.7611,-99.3315
+Merced,06047,California,37.1919,-120.7177
+St. Joseph,18141,Indiana,41.6167,-86.2899
+New London,09011,Connecticut,41.4866,-72.1015
+Atlantic,34001,New Jersey,39.4777,-74.661
+Kitsap,53035,Washington,47.6132,-122.6717
+York,45091,South Carolina,34.9747,-81.1844
+Benton,05007,Arkansas,36.3387,-94.2561
+Alachua,12001,Florida,29.6747,-82.3577
+Madison,17119,Illinois,38.8297,-89.9049
+Kalamazoo,26077,Michigan,42.2455,-85.5312
+St. Clair,17163,Illinois,38.4703,-89.9284
+Brown,55009,Wisconsin,44.4529,-88.0037
+Marin,06041,California,38.0734,-122.7234
+Buncombe,37021,North Carolina,35.6112,-82.5301
+Washington,27163,Minnesota,45.0387,-92.8839
+St. Tammany,22103,Louisiana,30.4102,-89.9583
+Jefferson,48245,Texas,29.8841,-94.1629
+Harford,24025,Maryland,39.5611,-76.3171
+Weber,49057,Utah,41.2698,-111.9134
+Frederick,24021,Maryland,39.4722,-77.398
+McLennan,48309,Texas,31.5524,-97.2018
+Yakima,53077,Washington,46.4571,-120.7384
+Cumberland,42041,Pennsylvania,40.1636,-77.2655
+Cherokee,13057,Georgia,34.2439,-84.4762
+Caddo,22017,Louisiana,32.5801,-93.8823
+St. Johns,12109,Florida,29.9016,-81.4407
+Norfolk,51710,Virginia,36.8945,-76.259
+Clay,29047,Missouri,39.3105,-94.4209
+Lafayette,22055,Louisiana,30.2068,-92.0639
+Chesapeake,51550,Virginia,36.6778,-76.3024
+Hinds,28049,Mississippi,32.2667,-90.4428
+Arlington,51013,Virginia,38.8786,-77.1011
+Washington,05143,Arkansas,35.9791,-94.2156
+Union,37179,North Carolina,34.9884,-80.5307
+Mahoning,39099,Ohio,41.0146,-80.7763
+Oneida,36065,New York,43.2417,-75.4359
+Lake,39085,Ohio,41.6966,-81.2373
+Warren,39165,Ohio,39.4276,-84.1668
+Saratoga,36091,New York,43.1074,-73.8639
+Forsyth,13117,Georgia,34.2255,-84.125
+Yavapai,04025,Arizona,34.5999,-112.554
+New Hanover,37129,North Carolina,34.2328,-77.8847
+Smith,48423,Texas,32.375,-95.2692
+Montgomery,01101,Alabama,32.2203,-86.2076
+Richmond,51760,Virginia,37.5295,-77.4756
+Butte,06007,California,39.6669,-121.6007
+Williamson,47187,Tennessee,35.8938,-86.8986
+Henry,13151,Georgia,33.453,-84.1542
+Sussex,10005,Delaware,38.6606,-75.39
+Jefferson,29099,Missouri,38.2611,-90.5377
+Linn,19113,Iowa,42.079,-91.599
+Brazos,48041,Texas,30.6608,-96.3024
+Whatcom,53073,Washington,48.8259,-121.7199
+Gaston,37071,North Carolina,35.2944,-81.1803
+Canyon,16027,Idaho,43.6251,-116.7093
+Yolo,06113,California,38.6866,-121.9016
+Jackson,41029,Oregon,42.4322,-122.7285
+Doña Ana,35013,New Mexico,32.3526,-106.8328
+Berkeley,45015,South Carolina,33.1973,-79.9522
+Barnstable,25001,Massachusetts,41.7242,-70.2915
+Shelby,01117,Alabama,33.2643,-86.6607
+Hays,48209,Texas,30.0581,-98.0311
+Baldwin,01003,Alabama,30.7275,-87.7226
+Clay,12019,Florida,29.9831,-81.8579
+Niagara,36063,New York,43.2001,-78.7452
+Lackawanna,42069,Pennsylvania,41.4368,-75.6092
+Champaign,17019,Illinois,40.1401,-88.1992
+Yuma,04027,Arizona,32.7695,-113.9056
+Mohave,04015,Arizona,35.7041,-113.758
+Tuscaloosa,01125,Alabama,33.2896,-87.5251
+Washington,42125,Pennsylvania,40.1894,-80.2482
+Cabarrus,37025,North Carolina,35.3868,-80.5519
+Elkhart,18039,Indiana,41.5974,-85.8587
+Harrison,28047,Mississippi,30.5118,-89.1159
+York,23031,Maine,43.4782,-70.7144
+Clermont,39025,Ohio,39.0475,-84.1519
+Okaloosa,12091,Florida,30.6913,-86.5917
+Richmond,13245,Georgia,33.3596,-82.0735
+Calcasieu,22019,Louisiana,30.2292,-93.3579
+Delaware,39041,Ohio,40.2784,-83.0049
+Trumbull,39155,Ohio,41.3172,-80.7611
+Montgomery,47125,Tennessee,36.4969,-87.3828
+St. Louis,27137,Minnesota,47.6032,-92.4706
+Hawaii,15001,Hawaii,19.5987,-155.5185
+Hall,13139,Georgia,34.3169,-83.8197
+Anderson,45007,South Carolina,34.5193,-82.6378
+Benton,53005,Washington,46.2398,-119.5112
+Johnston,37101,North Carolina,35.5178,-78.3657
+Sangamon,17167,Illinois,39.7582,-89.6589
+Muscogee,13215,Georgia,32.51,-84.8771
+Racine,55101,Wisconsin,42.7475,-88.0612
+Onslow,37133,North Carolina,34.7321,-77.4321
+Broome,36007,New York,42.1602,-75.8196
+Saginaw,26145,Michigan,43.335,-84.0532
+Tippecanoe,18157,Indiana,40.3886,-86.8941
+Livingston,26093,Michigan,42.6029,-83.9115
+Minnehaha,46099,South Dakota,43.6742,-96.7915
+El Dorado,06017,California,38.7787,-120.5247
+Butler,42019,Pennsylvania,40.9118,-79.9133
+Hernando,12053,Florida,28.5536,-82.425
+Deschutes,41017,Oregon,43.9151,-121.2281
+Beaufort,45013,South Carolina,32.3855,-80.7302
+Outagamie,55087,Wisconsin,44.4161,-88.4649
+Sumner,47165,Tennessee,36.4694,-86.4604
+Kanawha,54039,West Virginia,38.3366,-81.5281
+Peoria,17143,Illinois,40.788,-89.76
+Bay,12005,Florida,30.2652,-85.6203
+Litchfield,09005,Connecticut,41.7925,-73.2453
+Vanderburgh,18163,Indiana,38.025,-87.5858
+Sarpy,31153,Nebraska,41.1129,-96.112
+Charlotte,12015,Florida,26.9055,-81.9123
+Imperial,06025,California,33.0395,-115.3654
+Newport News,51700,Virginia,37.1051,-76.5185
+Shasta,06089,California,40.7637,-122.0405
+DeSoto,28033,Mississippi,34.8754,-89.9918
+Ulster,36111,New York,41.8881,-74.2586
+Pitt,37147,North Carolina,35.5933,-77.3745
+Medina,39103,Ohio,41.1176,-81.8997
+Shawnee,20177,Kansas,39.0415,-95.7565
+Boone,29019,Missouri,38.9906,-92.3097
+Cass,38017,North Dakota,46.933,-97.248
+Kent,10001,Delaware,39.0862,-75.5684
+Iredell,37097,North Carolina,35.807,-80.8734
+Santa Rosa,12113,Florida,30.7004,-87.022
+Ellis,48139,Texas,32.3484,-96.7945
+Licking,39089,Ohio,40.0916,-82.4831
+Muskegon,26121,Michigan,43.2912,-86.152
+McLean,17113,Illinois,40.4909,-88.8473
+Scott,19163,Iowa,41.6371,-90.6232
+Winnebago,55139,Wisconsin,44.0689,-88.6446
+Porter,18127,Indiana,41.4605,-87.0673
+Kenosha,55059,Wisconsin,42.5769,-88.0424
+Aiken,45003,South Carolina,33.5443,-81.6347
+Midland,48329,Texas,31.8691,-102.0316
+Monroe,42089,Pennsylvania,41.0581,-75.3395
+Carroll,24013,Maryland,39.5629,-77.0225
+Johnson,48251,Texas,32.379,-97.3663
+Greene,39057,Ohio,39.6915,-83.8899
+Pueblo,08101,Colorado,38.1735,-104.5128
+Maui,15009,Hawaii,20.8596,-156.5648
+Beaver,42007,Pennsylvania,40.6823,-80.3493
+Washington,49053,Utah,37.2804,-113.5048
+Kenton,21117,Kentucky,38.9334,-84.5333
+Davidson,37057,North Carolina,35.7934,-80.2127
+Wyandotte,20209,Kansas,39.1146,-94.7646
+Kent,44003,Rhode Island,41.6722,-71.593
+Hendricks,18063,Indiana,39.7695,-86.51
+Alamance,37001,North Carolina,36.0437,-79.3994
+Middlesex,09007,Connecticut,41.4632,-72.5351
+Chittenden,50007,Vermont,44.461,-73.0809
+Portage,39133,Ohio,41.1677,-81.1974
+Rock,55105,Wisconsin,42.6712,-89.0716
+Centre,42027,Pennsylvania,40.9193,-77.82
+Lee,01081,Alabama,32.6011,-85.3555
+Hampshire,25015,Massachusetts,42.3402,-72.6638
+Ector,48135,Texas,31.8692,-102.5429
+Paulding,13223,Georgia,33.9205,-84.8673
+Charles,24017,Maryland,38.5073,-76.9922
+St. Clair,26147,Michigan,42.9341,-82.6805
+Rensselaer,36083,New York,42.7111,-73.5097
+Martin,12085,Florida,27.0775,-80.4315
+Yellowstone,30111,Montana,45.9373,-108.2744
+Guadalupe,48187,Texas,29.5831,-97.9486
+Jackson,26075,Michigan,42.2485,-84.4234
+Stearns,27145,Minnesota,45.5521,-94.613
+Dorchester,45035,South Carolina,33.0793,-80.4067
+Alexandria,51510,Virginia,38.8185,-77.0861
+Catawba,37035,North Carolina,35.662,-81.2151
+Kootenai,16055,Idaho,47.6744,-116.7018
+Sullivan,47163,Tennessee,36.5129,-82.3042
+Ouachita,22073,Louisiana,32.4783,-92.1549
+Madera,06039,California,37.218,-119.7627
+Schenectady,36093,New York,42.8181,-74.0586
+Olmsted,27109,Minnesota,44.0038,-92.4018
+Fairfield,39045,Ohio,39.7516,-82.6306
+Franklin,42055,Pennsylvania,39.9274,-77.7213
+Berrien,26021,Michigan,41.9547,-86.4123
+Indian River,12061,Florida,27.6943,-80.6062
+Johnson,18081,Indiana,39.49,-86.1016
+Houston,13153,Georgia,32.459,-83.6662
+Bibb,13021,Georgia,32.8065,-83.6974
+Rankin,28121,Mississippi,32.2641,-89.9458
+Cumberland,34011,New Jersey,39.3738,-75.1108
+Penobscot,23019,Maine,45.4006,-68.6495
+Mesa,08077,Colorado,39.0183,-108.4664
+Tolland,09013,Connecticut,41.855,-72.3365
+Columbia,13073,Georgia,33.5441,-82.264
+Kings,06031,California,36.0753,-119.8155
+Washington,24043,Maryland,39.6036,-77.814
+Merrimack,33013,New Hampshire,43.2975,-71.6802
+Monroe,26115,Michigan,41.9287,-83.5375
+Santa Fe,35049,New Mexico,35.5069,-105.9763
+Johnson,19103,Iowa,41.6715,-91.5881
+Stafford,51179,Virginia,38.4207,-77.458
+Monroe,18105,Indiana,39.1609,-86.5231
+Scott,27139,Minnesota,44.6485,-93.5359
+Citrus,12017,Florida,28.8489,-82.4794
+Orange,37135,North Carolina,36.0611,-79.1207
+Rock Island,17161,Illinois,41.4673,-90.5674
+Douglas,13097,Georgia,33.7018,-84.768
+Coweta,13077,Georgia,33.3535,-84.7634
+Randolph,37151,North Carolina,35.7103,-79.806
+Sandoval,35043,New Mexico,35.6886,-106.8659
+Schuylkill,42107,Pennsylvania,40.7058,-76.216
+Jackson,28059,Mississippi,30.5423,-88.6357
+Comal,48091,Texas,29.8082,-98.2783
+Sussex,34037,New Jersey,41.1393,-74.6909
+Coconino,04005,Arizona,35.8387,-111.7705
+Canadian,40017,Oklahoma,35.5424,-97.9824
+Rowan,37159,North Carolina,35.6395,-80.5248
+Lebanon,42075,Pennsylvania,40.3672,-76.4577
+Napa,06055,California,38.5065,-122.3305
+Livingston,22063,Louisiana,30.4401,-90.7279
+Florence,45041,South Carolina,34.0245,-79.703
+Taylor,48441,Texas,32.3015,-99.8901
+Wilson,47189,Tennessee,36.1549,-86.2978
+Humboldt,06023,California,40.6993,-123.8756
+Marathon,55073,Wisconsin,44.8983,-89.7591
+Hampton,51650,Virginia,37.0551,-76.363
+Washington,55131,Wisconsin,43.3685,-88.2307
+Clark,39023,Ohio,39.9168,-83.7838
+Wright,27171,Minnesota,45.174,-93.9631
+Calhoun,26025,Michigan,42.2465,-85.0056
+Randall,48381,Texas,34.9659,-101.897
+Parker,48367,Texas,32.7777,-97.8051
+Tazewell,17179,Illinois,40.5075,-89.5134
+Cambria,42021,Pennsylvania,40.4953,-78.7137
+Spotsylvania,51177,Virginia,38.185,-77.6561
+Robeson,37155,North Carolina,34.6402,-79.1039
+Black Hawk,19013,Iowa,42.4701,-92.3088
+Harnett,37085,North Carolina,35.3686,-78.8694
+Tangipahoa,22105,Louisiana,30.6266,-90.4057
+Brunswick,37019,North Carolina,34.071,-78.2377
+Wichita,48485,Texas,33.9879,-98.7036
+Fayette,42051,Pennsylvania,39.9199,-79.6473
+Grayson,48181,Texas,33.6268,-96.6777
+Rapides,22079,Louisiana,31.1986,-92.5332
+Boone,21015,Kentucky,38.9699,-84.7278
+Wood,39173,Ohio,41.3617,-83.623
+Blount,47009,Tennessee,35.6872,-83.9255
+Madison,18095,Indiana,40.1616,-85.7194
+Strafford,33017,New Hampshire,43.297,-71.0289
+Warren,21227,Kentucky,36.9936,-86.4238
+Chautauqua,36013,New York,42.2282,-79.3663
+Washington,47179,Tennessee,36.2933,-82.4974
+Sebastian,05131,Arkansas,35.1993,-94.2742
+San Juan,35045,New Mexico,36.5085,-108.3206
+Bossier,22015,Louisiana,32.6789,-93.605
+Berkshire,25003,Massachusetts,42.3707,-73.2064
+Clarke,13059,Georgia,33.9512,-83.3673
+Washington,44009,Rhode Island,41.4697,-71.6226
+Kendall,17093,Illinois,41.5906,-88.4288
+Cochise,04003,Arizona,31.8796,-109.7512
+Skagit,53057,Washington,48.4794,-121.7302
+Linn,41043,Oregon,44.4889,-122.535
+Sumter,12119,Florida,28.7048,-82.081
+Hunterdon,34019,New Jersey,40.5673,-74.9122
+Cache,49005,Utah,41.7224,-111.7436
+Pickens,45077,South Carolina,34.8873,-82.7252
+Kaufman,48257,Texas,32.5993,-96.2878
+Faulkner,05045,Arkansas,35.147,-92.332
+Wayne,37191,North Carolina,35.364,-78.004
+Gregg,48183,Texas,32.4805,-94.817
+Blair,42013,Pennsylvania,40.481,-78.3486
+Ascension,22005,Louisiana,30.2036,-90.9113
+Comanche,40031,Oklahoma,34.6621,-98.4717
+Kennebec,23011,Maine,44.4091,-69.7673
+Richland,39139,Ohio,40.7747,-82.5365
+Douglas,20045,Kansas,38.8847,-95.2926
+Jasper,29097,Missouri,37.2036,-94.3406
+Potter,48375,Texas,35.4013,-101.8939
+Saline,05125,Arkansas,34.6466,-92.6765
+Morgan,01103,Alabama,34.4535,-86.8529
+Oswego,36075,New York,43.4269,-76.1414
+Tom Green,48451,Texas,31.4045,-100.4621
+La Crosse,55063,Wisconsin,43.9066,-91.1152
+Missoula,30063,Montana,47.0365,-113.9237
+Carroll,13045,Georgia,33.5828,-85.0798
+Windham,09015,Connecticut,41.83,-71.9874
+Clark,18019,Indiana,38.4772,-85.7073
+Allegan,26005,Michigan,42.5913,-85.8884
+Wayne,39169,Ohio,40.8289,-81.888
+Lowndes,13185,Georgia,30.8338,-83.2677
+Berkeley,54003,West Virginia,39.4641,-78.0275
+Sheboygan,55117,Wisconsin,43.7212,-87.9454
+Delaware,18035,Indiana,40.2275,-85.3969
+Henderson,37089,North Carolina,35.3363,-82.48
+Calhoun,01015,Alabama,33.7714,-85.826
+Bonneville,16019,Idaho,43.3877,-111.6148
+Lycoming,42081,Pennsylvania,41.3434,-77.0645
+Jefferson,36045,New York,44.0494,-75.921
+Fayette,13113,Georgia,33.414,-84.4942
+St. Mary's,24037,Maryland,38.3024,-76.6058
+Terrebonne,22109,Louisiana,29.4148,-90.8663
+Mercer,42085,Pennsylvania,41.3022,-80.2577
+Pennington,46103,South Dakota,44.0037,-102.8238
+Kankakee,17091,Illinois,41.1377,-87.8618
+LaPorte,18091,Indiana,41.546,-86.74
+Flagler,12035,Florida,29.4614,-81.3136
+LaSalle,17099,Illinois,41.344,-88.8859
+Ontario,36069,New York,42.8528,-77.2998
+Eaton,26045,Michigan,42.5961,-84.8383
+Navajo,04017,Arizona,35.3997,-110.3214
+Douglas,41019,Oregon,43.2797,-123.1665
+St. Lawrence,36089,New York,44.4964,-75.0691
+Hardin,21093,Kentucky,37.6979,-85.9634
+Newton,13217,Georgia,33.555,-83.8502
+Gallatin,30031,Montana,45.5404,-111.1704
+Androscoggin,23001,Maine,44.1658,-70.2065
+Vigo,18167,Indiana,39.4306,-87.39
+Albemarle,51003,Virginia,38.0229,-78.5567
+Craighead,05031,Arkansas,35.8308,-90.6328
+Cowlitz,53015,Washington,46.1932,-122.681
+Sumter,45085,South Carolina,33.9162,-80.3823
+Warren,34041,New Jersey,40.8572,-74.9973
+Bradley,47011,Tennessee,35.1541,-84.8596
+Hanover,51085,Virginia,37.7601,-77.4912
+Macon,17115,Illinois,39.86,-88.9616
+Monongalia,54061,West Virginia,39.6303,-80.0466
+Miami,39109,Ohio,40.0535,-84.2289
+Matanuska-Susitna,02170,Alaska,62.3162,-149.5714
+Bartow,13015,Georgia,34.2377,-84.8403
+Yamhill,41071,Oregon,45.2326,-123.3081
+Houston,01069,Alabama,31.1532,-85.3025
+Madison,28089,Mississippi,32.6347,-90.0337
+DeKalb,17037,Illinois,41.8935,-88.7703
+Whitfield,13313,Georgia,34.8056,-84.9672
+Bay,26017,Michigan,43.708,-83.9916
+Cass,29037,Missouri,38.647,-94.3549
+Eau Claire,55035,Wisconsin,44.7268,-91.286
+Highlands,12055,Florida,27.3433,-81.341
+Franklin,29071,Missouri,38.4111,-91.075
+Columbiana,39029,Ohio,40.7684,-80.7772
+Allen,39003,Ohio,40.7715,-84.1058
+Walworth,55127,Wisconsin,42.6685,-88.5419
+Etowah,01055,Alabama,34.0453,-86.0348
+Tompkins,36109,New York,42.452,-76.4736
+Fond du Lac,55039,Wisconsin,43.7536,-88.4883
+Woodbury,19193,Iowa,42.3897,-96.0448
+Cecil,24015,Maryland,39.5712,-75.9407
+Wicomico,24045,Maryland,38.3733,-75.6208
+Craven,37049,North Carolina,35.1249,-77.0939
+Adams,42001,Pennsylvania,39.8715,-77.2179
+Carver,27019,Minnesota,44.8208,-93.8026
+Platte,29165,Missouri,39.3803,-94.7738
+Daviess,21059,Kentucky,37.7318,-87.0873
+Flathead,30029,Montana,48.2951,-114.0497
+Nevada,06057,California,39.3014,-120.7685
+Roanoke,51770,Virginia,37.2785,-79.958
+Fairbanks North Star,02090,Alaska,64.8078,-146.5654
+Putnam,36079,New York,41.4267,-73.7495
+Garland,05051,Arkansas,34.5767,-93.1504
+Lenawee,26091,Michigan,41.8951,-84.0664
+Laramie,56021,Wyoming,41.307,-104.6895
+Montgomery,51121,Virginia,37.1743,-80.3872
+Lafourche,22057,Louisiana,29.5662,-90.4258
+Ashtabula,39007,Ohio,41.7075,-80.7483
+Madison,47113,Tennessee,35.6081,-88.8385
+Floyd,13115,Georgia,34.2632,-85.2143
+Moore,37125,North Carolina,35.3106,-79.4814
+Cleveland,37045,North Carolina,35.3341,-81.5555
+Rockwall,48397,Texas,32.8977,-96.4078
+Sevier,47155,Tennessee,35.7846,-83.5242
+Dubuque,19061,Iowa,42.4688,-90.8825
+Story,19169,Iowa,42.0362,-93.465
+Steuben,36101,New York,42.2678,-77.3838
+Sutter,06101,California,39.0346,-121.6948
+Marshall,01095,Alabama,34.367,-86.3066
+Grant,53025,Washington,47.2057,-119.4518
+Portsmouth,51740,Virginia,36.8468,-76.354
+Burleigh,38015,North Dakota,46.9775,-100.4687
+Limestone,01083,Alabama,34.8101,-86.9814
+Sherburne,27141,Minnesota,45.4439,-93.7746
+Cabell,54011,West Virginia,38.4203,-82.2417
+Hunt,48231,Texas,33.1236,-96.0855
+Nash,37127,North Carolina,35.9673,-77.9864
+Geauga,39055,Ohio,41.4996,-81.1786
+Roanoke,51161,Virginia,37.2693,-80.068
+Pottawattamie,19155,Iowa,41.3366,-95.5423
+Bowie,48037,Texas,33.4458,-94.4234
+Cape May,34009,New Jersey,39.149,-74.8002
+Campbell,21037,Kentucky,38.9465,-84.3795
+Lauderdale,01077,Alabama,34.9014,-87.654
+Tuscarawas,39157,Ohio,40.4409,-81.4738
+Lancaster,45057,South Carolina,34.6867,-80.7054
+Grand Traverse,26055,Michigan,44.6688,-85.5605
+Victoria,48469,Texas,28.7964,-96.9715
+Franklin,53021,Washington,46.5347,-118.8989
+Maury,47119,Tennessee,35.6169,-87.077
+Northumberland,42097,Pennsylvania,40.852,-76.7093
+Calvert,24009,Maryland,38.5434,-76.5687
+Walton,13297,Georgia,33.7816,-83.7339
+Rogers,40131,Oklahoma,36.3716,-95.6044
+Benton,41003,Oregon,44.4918,-123.4293
+Rockingham,37157,North Carolina,36.396,-79.775
+Madison,21151,Kentucky,37.7202,-84.278
+Wayne,36117,New York,43.1566,-77.0294
+Suffolk,51800,Virginia,36.6953,-76.6398
+Burke,37023,North Carolina,35.7496,-81.7048
+Grafton,33009,New Hampshire,43.9406,-71.8208
+Rockdale,13247,Georgia,33.6542,-84.0266
+Dougherty,13095,Georgia,31.5335,-84.2164
+St. Croix,55109,Wisconsin,45.0341,-92.4528
+Ozaukee,55089,Wisconsin,43.384,-87.9509
+Buchanan,29021,Missouri,39.6598,-94.8059
+Lapeer,26087,Michigan,43.0901,-83.2218
+St. Clair,01115,Alabama,33.7157,-86.3146
+Dodge,55027,Wisconsin,43.4163,-88.7075
+Orangeburg,45075,South Carolina,33.439,-80.8003
+Angelina,48005,Texas,31.2548,-94.6119
+Mendocino,06045,California,39.4402,-123.3915
+Dallas,19049,Iowa,41.6849,-94.0398
+Lawrence,42073,Pennsylvania,40.9912,-80.3347
+Frederick,51069,Virginia,39.2046,-78.2625
+Josephine,41033,Oregon,42.3655,-123.5555
+Muskingum,39119,Ohio,39.9654,-81.9444
+Bannock,16005,Idaho,42.6685,-112.2246
+Crawford,42039,Pennsylvania,41.6847,-80.1063
+Christian,29043,Missouri,36.9696,-93.1889
+Lee,28081,Mississippi,34.2899,-88.6804
+Indiana,42063,Pennsylvania,40.6521,-79.0875
+Wood,54107,West Virginia,39.2112,-81.515
+Chemung,36015,New York,42.1413,-76.76
+Twin Falls,16083,Idaho,42.356,-114.6672
+Jefferson,55055,Wisconsin,43.0208,-88.7759
+Bastrop,48021,Texas,30.1036,-97.312
+Glynn,13127,Georgia,31.2309,-81.5407
+Orange,48361,Texas,30.1213,-93.8939
+Liberty,48291,Texas,30.1516,-94.8122
+Midland,26111,Michigan,43.6468,-84.3881
+St. Landry,22097,Louisiana,30.5988,-92.0059
+Nassau,12089,Florida,30.6106,-81.8016
+Polk,41053,Oregon,44.9035,-123.4132
+Lincoln,37109,North Carolina,35.4856,-81.2235
+Island,53029,Washington,48.163,-122.5481
+Cullman,01043,Alabama,34.1319,-86.8676
+Newport,44005,Rhode Island,41.5564,-71.2368
+Bartholomew,18005,Indiana,39.206,-85.8976
+Howard,18067,Indiana,40.4836,-86.117
+Caldwell,37027,North Carolina,35.953,-81.5464
+Payne,40119,Oklahoma,36.0773,-96.9756
+Cascade,30013,Montana,47.308,-111.347
+Wilson,37195,North Carolina,35.7051,-77.9187
+Elmore,01051,Alabama,32.5966,-86.1492
+Henderson,48213,Texas,32.2119,-95.8536
+Leavenworth,20103,Kansas,39.1993,-95.038
+Clinton,36019,New York,44.7462,-73.6782
+Lynchburg,51680,Virginia,37.4003,-79.1909
+Talladega,01121,Alabama,33.3801,-86.1659
+Natrona,56025,Wyoming,42.9621,-106.7985
+Rockingham,51165,Virginia,38.512,-78.8758
+Bullitt,21029,Kentucky,37.9701,-85.6959
+Clearfield,42033,Pennsylvania,41.0002,-78.4741
+Manitowoc,55071,Wisconsin,44.1199,-87.8097
+Kosciusko,18085,Indiana,41.2441,-85.8607
+Barrow,13013,Georgia,33.9932,-83.7127
+Wagoner,40145,Oklahoma,35.9611,-95.5212
+White,05145,Arkansas,35.2563,-91.7455
+Cape Girardeau,29031,Missouri,37.384,-89.6845
+Clinton,26037,Michigan,42.9437,-84.6015
+Bedford,51019,Virginia,37.3152,-79.5242
+Lewis,53041,Washington,46.5778,-122.3927
+Vermilion,17183,Illinois,40.1834,-87.7328
+Oconee,45073,South Carolina,34.7534,-83.0658
+Putnam,47141,Tennessee,36.1408,-85.4952
+Cayuga,36011,New York,42.9175,-76.5545
+Floyd,18043,Indiana,38.3189,-85.9068
+Umatilla,41059,Oregon,45.5919,-118.7368
+Cattaraugus,36009,New York,42.2486,-78.6789
+Ross,39141,Ohio,39.3376,-83.057
+Cole,29051,Missouri,38.5054,-92.2816
+Yuba,06115,California,39.269,-121.3513
+Lauderdale,28075,Mississippi,32.4043,-88.6625
+Chelan,53007,Washington,47.8692,-120.619
+Bulloch,13031,Georgia,32.3968,-81.7432
+Anderson,47001,Tennessee,36.1185,-84.1985
+Cheshire,33005,New Hampshire,42.9194,-72.2512
+Scioto,39145,Ohio,38.804,-82.9928
+Valencia,35061,New Mexico,34.7155,-106.809
+Hancock,39063,Ohio,41.0019,-83.6665
+Monroe,12087,Florida,25.3156,-81.1106
+Clallam,53009,Washington,48.0493,-123.928
+Van Buren,26159,Michigan,42.2513,-86.0189
+Coryell,48099,Texas,31.3909,-97.7992
+Raleigh,54081,West Virginia,37.7714,-81.2486
+Forrest,28035,Mississippi,31.1889,-89.2579
+Hancock,18059,Indiana,39.8236,-85.7733
+Sullivan,36105,New York,41.7164,-74.7681
+Augusta,51015,Virginia,38.1644,-79.1338
+Riley,20161,Kansas,39.2966,-96.7352
+James City,51095,Virginia,37.3288,-76.7788
+Erie,39043,Ohio,41.3632,-82.6192
+Somerset,42111,Pennsylvania,39.9725,-79.0283
+Putnam,12107,Florida,29.6087,-81.7443
+Wood,55141,Wisconsin,44.4553,-90.0416
+Grays Harbor,53027,Washington,47.1503,-123.7735
+Lonoke,05085,Arkansas,34.7542,-91.8888
+McKinley,35031,New Mexico,35.5807,-108.2618
+Walker,48471,Texas,30.739,-95.5723
+Pottawatomie,40125,Oklahoma,35.2066,-96.9484
+Surry,37171,North Carolina,36.4148,-80.6881
+Iberia,22045,Louisiana,29.8965,-91.73
+Kauai,15007,Hawaii,22.0396,-159.5963
+Apache,04001,Arizona,35.3955,-109.4888
+Allegany,24001,Maryland,39.6215,-78.6976
+Creek,40037,Oklahoma,35.9026,-96.3708
+Christian,21047,Kentucky,36.8942,-87.4905
+Chatham,37037,North Carolina,35.7026,-79.2553
+DeKalb,01049,Alabama,34.4598,-85.8041
+Madison,36053,New York,42.9128,-75.6696
+Isabella,26073,Michigan,43.6406,-84.8468
+Portage,55097,Wisconsin,44.476,-89.5014
+Franklin,25011,Massachusetts,42.5831,-72.5918
+Greenwood,45047,South Carolina,34.1538,-82.1259
+Robertson,47147,Tennessee,36.5255,-86.8706
+Lea,35025,New Mexico,32.7921,-103.4125
+Grand Forks,38035,North Dakota,47.9219,-97.4569
+Columbia,12023,Florida,30.2242,-82.6215
+Morgan,18109,Indiana,39.4816,-86.4462
+Troup,13285,Georgia,33.0335,-85.0284
+Fauquier,51061,Virginia,38.7386,-77.8092
+Jefferson,05069,Arkansas,34.2688,-91.9315
+Carteret,37031,North Carolina,34.8357,-76.6589
+Walker,13295,Georgia,34.7356,-85.301
+Greene,47059,Tennessee,36.1753,-82.8458
+Ward,38101,North Dakota,48.2217,-101.5418
+Muskogee,40101,Oklahoma,35.6161,-95.3795
+Wilkes,37193,North Carolina,36.2063,-81.1634
+Jones,28067,Mississippi,31.6226,-89.1688
+Shiawassee,26155,Michigan,42.9537,-84.1467
+Walton,12131,Florida,30.6436,-86.1697
+Belmont,39013,Ohio,40.0158,-80.9885
+York,51199,Virginia,37.2432,-76.5636
+Harrison,54033,West Virginia,39.2835,-80.3799
+Broomfield,08014,Colorado,39.9541,-105.0527
+Jackson,13157,Georgia,34.1339,-83.5664
+Aroostook,23003,Maine,46.6589,-68.5989
+Lewis and Clark,30049,Montana,47.1224,-112.3904
+Tooele,49045,Utah,40.4488,-113.1311
+Williamson,17199,Illinois,37.7303,-88.9299
+Darlington,45031,South Carolina,34.3325,-79.9577
+San Patricio,48409,Texas,28.0091,-97.5186
+Klamath,41035,Oregon,42.6864,-121.6502
+Laurens,45059,South Carolina,34.4836,-82.0059
+Blue Earth,27013,Minnesota,44.0346,-94.067
+Catoosa,13047,Georgia,34.9036,-85.1382
+Butler,20015,Kansas,37.7812,-96.839
+Marquette,26103,Michigan,46.4314,-87.6416
+St. Francois,29187,Missouri,37.8102,-90.4722
+Rutherford,37161,North Carolina,35.4026,-81.9198
+Harrison,48203,Texas,32.5481,-94.3715
+Grant,18053,Indiana,40.5158,-85.6547
+Jefferson,39081,Ohio,40.385,-80.761
+Franklin,37069,North Carolina,36.0828,-78.2857
+Wayne,18177,Indiana,39.8644,-85.0098
+Wise,48497,Texas,33.2159,-97.6545
+Rice,27131,Minnesota,44.3543,-93.2967
+Otero,35035,New Mexico,32.6132,-105.7415
+Adams,17001,Illinois,39.9879,-91.1885
+Oldham,21185,Kentucky,38.3994,-85.4483
+Athens,39009,Ohio,39.3339,-82.0452
+Armstrong,42005,Pennsylvania,40.8123,-79.4645
+Columbia,42037,Pennsylvania,41.0487,-76.4052
+Boone,18011,Indiana,40.0508,-86.4687
+Nacogdoches,48347,Texas,31.616,-94.6159
+Spalding,13255,Georgia,33.2609,-84.2841
+Marion,39101,Ohio,40.5872,-83.1609
+McCracken,21145,Kentucky,37.054,-88.7127
+Chaves,35005,New Mexico,33.3633,-104.4669
+Kershaw,45055,South Carolina,34.3388,-80.5902
+Pulaski,21199,Kentucky,37.1039,-84.5773
+Ionia,26067,Michigan,42.9451,-85.0746
+Warren,36113,New York,43.561,-73.846
+Crow Wing,27035,Minnesota,46.4824,-94.0709
+Lake,06033,California,39.0996,-122.7532
+Hamblen,47063,Tennessee,36.2171,-83.2667
+Walker,01127,Alabama,33.8033,-87.2973
+Starr,48427,Texas,26.5621,-98.7387
+Sauk,55111,Wisconsin,43.4267,-89.9482
+Tehama,06103,California,40.1256,-122.2341
+Chippewa,55017,Wisconsin,45.0694,-91.2798
+Carbon,42025,Pennsylvania,40.9182,-75.7088
+Mason,53045,Washington,47.3484,-123.1927
+Pope,05115,Arkansas,35.4476,-93.0342
+Coos,41011,Oregon,43.1742,-124.0594
+Livingston,36051,New York,42.7281,-77.7755
+Clay,27027,Minnesota,46.8924,-96.4907
+Montcalm,26117,Michigan,43.311,-85.1525
+Sampson,37163,North Carolina,34.9915,-78.3714
+Salem,34033,New Jersey,39.5876,-75.3491
+Reno,20155,Kansas,37.953,-98.086
+Crawford,05033,Arkansas,35.5885,-94.2429
+Acadia,22001,Louisiana,30.2905,-92.412
+Warrick,18173,Indiana,38.0922,-87.2721
+Herkimer,36043,New York,43.4197,-74.9625
+Lamar,28073,Mississippi,31.206,-89.5087
+Georgetown,45043,South Carolina,33.4343,-79.3323
+Garfield,40047,Oklahoma,36.3791,-97.7827
+Washington,36115,New York,43.3137,-73.4308
+Stanly,37167,North Carolina,35.312,-80.251
+Knox,39083,Ohio,40.3988,-82.4215
+Tipton,47167,Tennessee,35.4969,-89.7592
+Liberty,13179,Georgia,31.8281,-81.4947
+Hall,31079,Nebraska,40.8726,-98.5022
+Pittsylvania,51143,Virginia,36.8213,-79.3971
+Haywood,37087,North Carolina,35.556,-82.9822
+Bradford,42015,Pennsylvania,41.7887,-76.5154
+Belknap,33001,New Hampshire,43.5179,-71.4227
+St. Joseph,26149,Michigan,41.9144,-85.5278
+Barry,26015,Michigan,42.595,-85.309
+Lee,37105,North Carolina,35.4752,-79.1715
+Effingham,13103,Georgia,32.3673,-81.3413
+Washington,39167,Ohio,39.4553,-81.4953
+Pender,37141,North Carolina,34.5248,-77.9051
+San Benito,06069,California,36.6057,-121.075
+Columbia,36021,New York,42.2501,-73.6318
+Walla Walla,53071,Washington,46.2298,-118.4784
+Laurel,21125,Kentucky,37.1107,-84.1178
+Lawrence,39087,Ohio,38.5984,-82.5368
+Otsego,36077,New York,42.6338,-75.0326
+Mercer,54055,West Virginia,37.4055,-81.1114
+Vermilion,22113,Louisiana,29.8465,-92.3238
+Pike,21195,Kentucky,37.4691,-82.3958
+Granville,37077,North Carolina,36.3041,-78.6527
+Cumberland,47035,Tennessee,35.9504,-84.9984
+Lowndes,28087,Mississippi,33.4729,-88.4433
+Garfield,08045,Colorado,39.5993,-107.904
+Sandusky,39143,Ohio,41.3563,-83.1462
+Duplin,37061,North Carolina,34.9365,-77.933
+Rutland,50021,Vermont,43.5801,-73.0366
+Kenai Peninsula,02122,Alaska,60.2654,-151.5652
+Washington,50023,Vermont,44.2734,-72.6149
+Huron,39077,Ohio,41.1462,-82.5984
+Hood,48221,Texas,32.43,-97.8323
+Otter Tail,27111,Minnesota,46.4088,-95.708
+Newton,29145,Missouri,36.9055,-94.3393
+Maverick,48323,Texas,28.7425,-100.3145
+Jackson,17077,Illinois,37.7851,-89.3821
+Russell,01113,Alabama,32.2884,-85.1849
+Anderson,48001,Texas,31.8133,-95.6525
+Genesee,36037,New York,43.0009,-78.1938
+Pickaway,39129,Ohio,39.6419,-83.0244
+Eddy,35015,New Mexico,32.4715,-104.3043
+Blount,01009,Alabama,33.9809,-86.5674
+Oxford,23017,Maine,44.4999,-70.7566
+Gordon,13129,Georgia,34.5032,-84.8759
+Columbia,55021,Wisconsin,43.4666,-89.3337
+Cherokee,45021,South Carolina,35.0481,-81.6205
+Lincoln,46083,South Dakota,43.2789,-96.7218
+Hardin,48199,Texas,30.3324,-94.3902
+Lenoir,37107,North Carolina,35.2388,-77.6412
+Union,39159,Ohio,40.2994,-83.3716
+Hawkins,47073,Tennessee,36.4412,-82.9447
+Putnam,54079,West Virginia,38.5086,-81.909
+Jefferson,54037,West Virginia,39.3076,-77.8628
+Lincoln,29113,Missouri,39.058,-90.9601
+Carter,47019,Tennessee,36.2928,-82.1275
+Marion,54049,West Virginia,39.51,-80.2434
+Franklin,51067,Virginia,36.992,-79.8811
+Columbus,37047,North Carolina,34.2656,-78.655
+Whiteside,17195,Illinois,41.7562,-89.9141
+La Plata,08067,Colorado,37.2866,-107.8433
+Pike,42103,Pennsylvania,41.332,-75.0338
+Autauga,01001,Alabama,32.5349,-86.6427
+Seneca,39147,Ohio,41.1239,-83.1277
+Chisago,27025,Minnesota,45.5025,-92.9083
+Windsor,50027,Vermont,43.58,-72.5862
+Campbell,51031,Virginia,37.2053,-79.0966
+Pearl River,28109,Mississippi,30.7688,-89.5896
+Coffee,47031,Tennessee,35.4906,-86.0748
+Taney,29213,Missouri,36.6548,-93.0411
+Van Zandt,48467,Texas,32.5637,-95.8365
+Grady,40051,Oklahoma,35.0169,-97.8841
+Watauga,37189,North Carolina,36.2311,-81.6964
+Carson City,32510,Nevada,39.1512,-119.7474
+Colbert,01033,Alabama,34.7005,-87.8049
+Saline,20169,Kansas,38.7838,-97.65
+Eagle,08037,Colorado,39.6278,-106.6954
+Scott,21209,Kentucky,38.2915,-84.5839
+Hancock,23009,Maine,44.6642,-68.3586
+Lyon,32019,Nevada,39.0203,-119.1891
+Washington,51191,Virginia,36.7244,-81.9598
+Tuolumne,06109,California,38.0276,-119.9548
+Hoke,37093,North Carolina,35.0175,-79.2373
+Box Elder,49003,Utah,41.521,-113.0821
+Rusk,48401,Texas,32.1077,-94.7619
+St. Martin,22099,Louisiana,30.1291,-91.6083
+Johnson,29101,Missouri,38.7441,-93.8064
+Jefferson,47089,Tennessee,36.051,-83.4463
+Fulton,36035,New York,43.1138,-74.4222
+Lafayette,28071,Mississippi,34.3567,-89.4849
+Gila,04007,Arizona,33.7997,-110.8117
+Boone,17007,Illinois,42.3231,-88.8234
+Ashland,39005,Ohio,40.846,-82.2707
+Harrisonburg,51660,Virginia,38.4361,-78.8735
+Camden,13039,Georgia,30.9306,-81.67
+Roane,47145,Tennessee,35.8479,-84.5232
+McMinn,47107,Tennessee,35.4248,-84.6175
+Jessamine,21113,Kentucky,37.8721,-84.5809
+Tuscola,26157,Michigan,43.4645,-83.4169
+St. Charles,22089,Louisiana,29.9055,-90.3582
+Dickson,47043,Tennessee,36.149,-87.3567
+Edgecombe,37065,North Carolina,35.9129,-77.5971
+Pulaski,29169,Missouri,37.8246,-92.2076
+Loudon,47105,Tennessee,35.7348,-84.3118
+Elko,32007,Nevada,41.1458,-115.3577
+Cherokee,48073,Texas,31.837,-95.1652
+Washington,40147,Oklahoma,36.7152,-95.9044
+Jackson,01071,Alabama,34.7795,-85.9994
+Kerr,48265,Texas,30.0615,-99.35
+Waller,48473,Texas,30.0108,-95.9877
+Venango,42121,Pennsylvania,41.401,-79.758
+Worcester,24047,Maryland,38.2128,-75.334
+Grant,55043,Wisconsin,42.8675,-90.7062
+Coffee,01031,Alabama,31.4027,-85.9882
+Cass,26027,Michigan,41.9154,-85.9935
+Darke,39037,Ohio,40.1333,-84.6194
+Wayne,42127,Pennsylvania,41.6487,-75.3033
+Columbia,41009,Oregon,45.9438,-123.0883
+Coles,17029,Illinois,39.5203,-88.2218
+Henry,51089,Virginia,36.6828,-79.874
+Waupaca,55135,Wisconsin,44.4705,-88.9648
+Iron,49021,Utah,37.8592,-113.2895
+Halifax,37083,North Carolina,36.2575,-77.6517
+Culpeper,51047,Virginia,38.486,-77.9558
+Ogle,17141,Illinois,42.0426,-89.3207
+St. Mary,22101,Louisiana,29.7047,-91.4432
+Winona,27169,Minnesota,43.9869,-91.7792
+Grundy,17063,Illinois,41.2851,-88.4185
+Franklin,21073,Kentucky,38.2392,-84.8771
+Somerset,23025,Maine,45.5139,-69.9589
+Knox,17095,Illinois,40.9318,-90.2132
+Franklin,36033,New York,44.5929,-74.3038
+Warren,19181,Iowa,41.3344,-93.5614
+Medina,48325,Texas,29.3557,-99.1102
+Le Flore,40079,Oklahoma,34.9003,-94.7034
+Calumet,55015,Wisconsin,44.0816,-88.2181
+Curry,35009,New Mexico,34.5742,-103.347
+Vernon,22115,Louisiana,31.1083,-93.1842
+Queen Anne's,24035,Maryland,39.068,-76.0203
+Lamar,48277,Texas,33.6673,-95.5712
+Atascosa,48013,Texas,28.8935,-98.5272
+Oktibbeha,28105,Mississippi,33.425,-88.8793
+Dearborn,18029,Indiana,39.1452,-84.9732
+Montgomery,36057,New York,42.9023,-74.4397
+Dale,01045,Alabama,31.4318,-85.611
+Henry,17073,Illinois,41.3531,-90.1314
+Whitman,53075,Washington,46.9012,-117.523
+Gibson,47053,Tennessee,35.9966,-88.9326
+Buffalo,31019,Nebraska,40.8552,-99.075
+Wilson,48493,Texas,29.174,-98.0866
+Franklin,50011,Vermont,44.8575,-72.912
+Navarro,48349,Texas,32.0469,-96.4725
+Val Verde,48465,Texas,29.8929,-101.1517
+Polk,48373,Texas,30.7927,-94.83
+Bristol,44001,Rhode Island,41.7173,-71.284
+Shelby,39149,Ohio,40.3316,-84.2048
+Tioga,36107,New York,42.1703,-76.3063
+Crittenden,05035,Arkansas,35.2079,-90.3089
+Cherokee,40021,Oklahoma,35.9067,-94.9997
+Lincoln,41041,Oregon,44.642,-123.8682
+Newaygo,26123,Michigan,43.5542,-85.8009
+Bedford,42009,Pennsylvania,40.0065,-78.4903
+Carter,40019,Oklahoma,34.2509,-97.2858
+Bedford,47003,Tennessee,35.5138,-86.4589
+Henry,18065,Indiana,39.9311,-85.3964
+Carroll,33003,New Hampshire,43.8738,-71.2031
+Douglas,32005,Nevada,38.9122,-119.6164
+Jackson,12063,Florida,30.7954,-85.2155
+Chenango,36017,New York,42.4935,-75.6116
+Cortland,36023,New York,42.595,-76.0703
+Boyd,21019,Kentucky,38.3596,-82.6878
+Noble,18113,Indiana,41.3986,-85.4175
+Greene,36039,New York,42.2765,-74.1227
+Campbell,56005,Wyoming,44.2482,-105.5482
+Laurens,13175,Georgia,32.4637,-82.9222
+Shelby,21211,Kentucky,38.2155,-85.1948
+Fremont,08043,Colorado,38.473,-105.4397
+Lincoln,22061,Louisiana,32.6016,-92.6648
+Osage,40113,Oklahoma,36.6292,-96.3985
+Beaufort,37013,North Carolina,35.494,-76.8598
+Charlottesville,51540,Virginia,38.0375,-78.4855
+Hancock,28045,Mississippi,30.416,-89.4885
+Clinton,19045,Iowa,41.898,-90.532
+Allegany,36003,New York,42.2574,-78.0276
+Logan,40083,Oklahoma,35.9193,-97.4433
+Burnet,48053,Texas,30.7883,-98.1824
+Warren,28149,Mississippi,32.3573,-90.852
+Santa Cruz,04023,Arizona,31.5259,-110.8465
+Marshall,18099,Indiana,41.3248,-86.2618
+Bryan,40013,Oklahoma,33.9623,-96.2598
+Washington,22117,Louisiana,30.8533,-90.0405
+Beltrami,27007,Minnesota,47.9738,-94.9377
+Mifflin,42087,Pennsylvania,40.6104,-77.617
+St. Bernard,22087,Louisiana,29.8693,-89.5552
+Goodhue,27049,Minnesota,44.4097,-92.7229
+Monroe,47123,Tennessee,35.4427,-84.2527
+Washington,28151,Mississippi,33.2838,-90.9475
+Perry,42099,Pennsylvania,40.3984,-77.2623
+Chesterfield,45025,South Carolina,34.6398,-80.1587
+Gadsden,12039,Florida,30.5795,-84.6136
+Kittitas,53037,Washington,47.1244,-120.6799
+Bingham,16011,Idaho,43.2166,-112.3981
+Henderson,21101,Kentucky,37.7958,-87.573
+Stokes,37169,North Carolina,36.4019,-80.2395
+Monroe,55081,Wisconsin,43.9457,-90.6178
+Hillsdale,26059,Michigan,41.8878,-84.5929
+Auglaize,39011,Ohio,40.5609,-84.2217
+Nelson,21179,Kentucky,37.8052,-85.466
+Lawrence,18093,Indiana,38.8412,-86.4835
+Calaveras,06009,California,38.2046,-120.5541
+Colquitt,13071,Georgia,31.1884,-83.7688
+Camden,29029,Missouri,38.027,-92.766
+Macoupin,17117,Illinois,39.261,-89.9245
+Huntingdon,42061,Pennsylvania,40.417,-77.9812
+Hopkins,21107,Kentucky,37.3088,-87.5408
+Logan,39091,Ohio,40.3885,-83.7658
+Barron,55005,Wisconsin,45.4237,-91.8483
+McDowell,37111,North Carolina,35.6817,-82.0493
+Itasca,27061,Minnesota,47.5095,-93.632
+Baldwin,13009,Georgia,33.0692,-83.2496
+Union,42119,Pennsylvania,40.963,-77.0622
+Stephenson,17177,Illinois,42.3518,-89.6623
+Richmond,37153,North Carolina,35.0059,-79.7478
+Delaware,36025,New York,42.1981,-74.9665
+Greene,05055,Arkansas,36.1176,-90.559
+Callaway,29027,Missouri,38.8355,-91.926
+Dunn,55033,Wisconsin,44.9466,-91.8964
+Stevens,53065,Washington,48.3991,-117.8552
+Thomas,13275,Georgia,30.8638,-83.9193
+Phelps,29161,Missouri,37.8772,-91.7923
+Habersham,13137,Georgia,34.631,-83.5311
+Vance,37181,North Carolina,36.3649,-78.4079
+Shelby,18145,Indiana,39.5237,-85.7917
+Kay,40071,Oklahoma,36.818,-97.1439
+Nye,32023,Nevada,38.0423,-116.4719
+Wood,48499,Texas,32.7864,-95.3821
+Pittsburg,40121,Oklahoma,34.9239,-95.7484
+Madison,39097,Ohio,39.894,-83.4002
+Chilton,01021,Alabama,32.8479,-86.7188
+Suwannee,12121,Florida,30.1956,-82.9915
+Jackson,18071,Indiana,38.9064,-86.0375
+Holmes,39075,Ohio,40.5612,-81.9293
+Barren,21009,Kentucky,36.9656,-85.9337
+Jefferson,42065,Pennsylvania,41.1282,-78.9994
+Kendall,48259,Texas,29.9447,-98.7116
+Stephens,40137,Oklahoma,34.4856,-97.8515
+Bonner,16017,Idaho,48.3,-116.6011
+Fayette,54019,West Virginia,38.0288,-81.0812
+Miller,05091,Arkansas,33.3121,-93.8916
+Brown,39015,Ohio,38.934,-83.8674
+Sweetwater,56037,Wyoming,41.6595,-108.8796
+Branch,26023,Michigan,41.9161,-85.059
+Siskiyou,06093,California,41.5927,-122.5404
+Polk,55095,Wisconsin,45.4614,-92.4414
+Lawrence,47099,Tennessee,35.2173,-87.3956
+Douglas,55031,Wisconsin,46.4329,-91.9162
+Mecosta,26107,Michigan,43.6408,-85.3246
+St. John the Baptist,22095,Louisiana,30.1265,-90.4709
+Shenandoah,51171,Virginia,38.8583,-78.5708
+Sullivan,33019,New Hampshire,43.3614,-72.2222
+Coffee,13069,Georgia,31.5493,-82.8492
+Highland,39071,Ohio,39.1847,-83.601
+Jackson,37099,North Carolina,35.2875,-83.1408
+DeKalb,18033,Indiana,41.3976,-84.9991
+Muscatine,19139,Iowa,41.4839,-91.1127
+Kandiyohi,27067,Minnesota,45.1524,-95.0047
+Cerro Gordo,19033,Iowa,43.0816,-93.2608
+Windham,50025,Vermont,42.9906,-72.7138
+Butler,29023,Missouri,36.7164,-90.4066
+Dubois,18037,Indiana,38.3643,-86.8798
+Ravalli,30081,Montana,46.0817,-114.1207
+Delaware,40041,Oklahoma,36.4082,-94.8026
+Pettis,29159,Missouri,38.7283,-93.2851
+Davie,37059,North Carolina,35.9291,-80.5445
+Fulton,39051,Ohio,41.6018,-84.1301
+Caldwell,48055,Texas,29.8371,-97.62
+Ohio,54069,West Virginia,40.0969,-80.6189
+Mississippi,05093,Arkansas,35.7638,-90.0542
+Douglas,53017,Washington,47.7361,-119.6918
+Pierce,55093,Wisconsin,44.7194,-92.4224
+Clinton,39027,Ohio,39.415,-83.8084
+Polk,13233,Georgia,34.0018,-85.1881
+Okanogan,53047,Washington,48.5488,-119.7408
+Erath,48143,Texas,32.2363,-98.2179
+Crawford,39033,Ohio,40.8508,-82.9198
+Franklin,47051,Tennessee,35.155,-86.0922
+Sequoyah,40135,Oklahoma,35.4954,-94.7552
+Montrose,08085,Colorado,38.4022,-108.2693
+Tazewell,51185,Virginia,37.125,-81.5606
+Wharton,48481,Texas,29.2779,-96.2221
+Baxter,05005,Arkansas,36.2872,-92.337
+McKean,42083,Pennsylvania,41.8077,-78.569
+Chambers,48071,Texas,29.7386,-94.611
+Sanilac,26151,Michigan,43.4236,-82.8201
+Manassas,51683,Virginia,38.7479,-77.4839
+Okeechobee,12093,Florida,27.3864,-80.8886
+Summit,49043,Utah,40.8682,-110.9557
+Preble,39135,Ohio,39.7415,-84.648
+Danville,51590,Virginia,36.5831,-79.4087
+Mayes,40097,Oklahoma,36.3019,-95.2308
+Upshur,48459,Texas,32.7363,-94.9415
+Jim Wells,48249,Texas,27.7314,-98.0899
+Susquehanna,42115,Pennsylvania,41.8214,-75.8007
+Tioga,42117,Pennsylvania,41.7722,-77.2543
+Gratiot,26057,Michigan,43.2927,-84.6049
+Orleans,36073,New York,43.2521,-78.2312
+Shawano,55115,Wisconsin,44.7892,-88.7654
+Mercer,39107,Ohio,40.5399,-84.6294
+Hendry,12051,Florida,26.5535,-81.1659
+Warren,47177,Tennessee,35.6787,-85.7785
+Avoyelles,22009,Louisiana,31.0762,-92.0014
+Ottawa,39123,Ohio,41.5381,-83.1409
+Tallapoosa,01123,Alabama,32.8624,-85.7975
+Tift,13277,Georgia,31.4574,-83.5266
+Snyder,42109,Pennsylvania,40.7698,-77.0702
+Levy,12075,Florida,29.3184,-82.7436
+Marinette,55075,Wisconsin,45.383,-88.0334
+Wyoming,36121,New York,42.7024,-78.2245
+Wayne,54099,West Virginia,38.1459,-82.427
+Nez Perce,16069,Idaho,46.3268,-116.7502
+Cheatham,47021,Tennessee,36.2611,-87.0867
+Fayette,47047,Tennessee,35.1971,-89.4144
+Benton,27009,Minnesota,45.6991,-93.9988
+Howell,29091,Missouri,36.774,-91.8865
+Cooke,48097,Texas,33.6393,-97.2126
+Marshall,19127,Iowa,42.0358,-92.9988
+Harrison,18061,Indiana,38.1952,-86.1113
+Fremont,56013,Wyoming,43.0405,-108.6305
+Mower,27099,Minnesota,43.6714,-92.7525
+Campbell,47013,Tennessee,36.4035,-84.1494
+Knox,23013,Maine,44.141,-69.1686
+Warren,42123,Pennsylvania,41.8145,-79.2741
+Murray,13213,Georgia,34.7884,-84.7481
+Waldo,23027,Maine,44.5028,-69.1454
+Pike,28113,Mississippi,31.1749,-90.4042
+Pasquotank,37139,North Carolina,36.2955,-76.284
+Latah,16057,Idaho,46.8162,-116.7117
+Warren,51187,Virginia,38.9087,-78.2085
+Union,05139,Arkansas,33.1713,-92.5972
+Isanti,27059,Minnesota,45.5615,-93.2951
+Des Moines,19057,Iowa,40.9232,-91.1815
+Person,37145,North Carolina,36.39,-78.9718
+McClain,40087,Oklahoma,35.0093,-97.4443
+Webster,22119,Louisiana,32.7135,-93.335
+LaGrange,18087,Indiana,41.6426,-85.4265
+Rio Arriba,35039,New Mexico,36.5096,-106.6931
+Dallas,01047,Alabama,32.326,-87.1065
+Guernsey,39059,Ohio,40.052,-81.4943
+Clatsop,41007,Oregon,45.9951,-123.6558
+Madison,16065,Idaho,43.7841,-111.6592
+Crawford,20037,Kansas,37.5073,-94.8518
+Franklin,17055,Illinois,37.9923,-88.9242
+Brown,46013,South Dakota,45.5898,-98.3516
+Clinton,42035,Pennsylvania,41.2341,-77.6382
+Champaign,39021,Ohio,40.1377,-83.7695
+Calloway,21035,Kentucky,36.621,-88.2722
+Natchitoches,22069,Louisiana,31.7235,-93.0962
+Okmulgee,40111,Oklahoma,35.6466,-95.9643
+Clarion,42031,Pennsylvania,41.1924,-79.421
+Woodford,17203,Illinois,40.7882,-89.2111
+Webster,29225,Missouri,37.2809,-92.8759
+Scott,29201,Missouri,37.053,-89.5685
+Wise,51195,Virginia,36.9752,-82.6212
+Amador,06005,California,38.4464,-120.6511
+Albany,56001,Wyoming,41.6545,-105.7238
+Pontotoc,40123,Oklahoma,34.7281,-96.6844
+Montgomery,18107,Indiana,40.0404,-86.8933
+Lawrence,29109,Missouri,37.1064,-93.833
+Newberry,45071,South Carolina,34.2898,-81.6001
+Defiance,39039,Ohio,41.3239,-84.4905
+Oconee,13219,Georgia,33.835,-83.4371
+Prince George,51149,Virginia,37.1865,-77.2242
+Graham,04009,Arizona,32.9326,-109.8875
+Jefferson,17081,Illinois,38.3005,-88.924
+Cass,18017,Indiana,40.7615,-86.346
+Brown,48049,Texas,31.7743,-98.9998
+Marion,17121,Illinois,38.6496,-88.919
+Oconto,55083,Wisconsin,45.0262,-88.2692
+Clinton,17027,Illinois,38.6065,-89.4225
+Chippewa,26033,Michigan,46.3053,-84.5777
+Yadkin,37197,North Carolina,36.1605,-80.6652
+Colleton,45029,South Carolina,32.8636,-80.6669
+Douglas,27041,Minnesota,45.9337,-95.4535
+Essex,36031,New York,44.1172,-73.7726
+Independence,05063,Arkansas,35.7415,-91.5697
+Dyer,47045,Tennessee,36.0591,-89.4138
+Putnam,18133,Indiana,39.6663,-86.845
+Boone,05009,Arkansas,36.3086,-93.0915
+Graves,21083,Kentucky,36.7231,-88.6512
+Gloucester,51073,Virginia,37.416,-76.5434
+Alexander,37003,North Carolina,35.921,-81.177
+Covington,01039,Alabama,31.2485,-86.4513
+Talbot,24041,Maryland,38.7713,-76.0971
+Alcorn,28003,Mississippi,34.8808,-88.5803
+Knox,18083,Indiana,38.6891,-87.418
+Bryan,13029,Georgia,32.0145,-81.4436
+Escambia,01053,Alabama,31.1261,-87.1616
+Beauregard,22011,Louisiana,30.6484,-93.3434
+Jasper,19099,Iowa,41.686,-93.0538
+DeSoto,12027,Florida,27.1864,-81.8095
+Green,55045,Wisconsin,42.68,-89.6022
+Addison,50001,Vermont,44.0309,-73.1408
+Greene,42059,Pennsylvania,39.8538,-80.2229
+Williams,39171,Ohio,41.5603,-84.5882
+Matagorda,48321,Texas,28.8212,-96.011
+Finney,20055,Kansas,38.0443,-100.737
+Steele,27147,Minnesota,44.0223,-93.226
+Dodge,31053,Nebraska,41.5779,-96.654
+Isle of Wight,51093,Virginia,36.8913,-76.7258
+Coshocton,39031,Ohio,40.3017,-81.92
+Webster,19187,Iowa,42.4279,-94.1818
+Hopkins,48223,Texas,33.1496,-95.564
+Floyd,21071,Kentucky,37.5571,-82.7457
+Huntington,18069,Indiana,40.8292,-85.4881
+Howard,48227,Texas,32.3062,-101.4356
+Dare,37055,North Carolina,35.7795,-75.798
+Whitley,21235,Kentucky,36.7581,-84.1452
+Uintah,49047,Utah,40.1248,-109.5186
+Scotts Bluff,31157,Nebraska,41.8506,-103.708
+Houghton,26061,Michigan,46.8978,-88.6874
+Louisa,51109,Virginia,37.9782,-77.9629
+Livingston,17105,Illinois,40.8916,-88.5577
+Delta,26041,Michigan,45.9191,-86.9242
+Perry,39127,Ohio,39.7371,-82.2361
+Orange,51137,Virginia,38.2462,-78.0137
+Clark,21049,Kentucky,37.9708,-84.1474
+McLeod,27085,Minnesota,44.8236,-94.2724
+Miami,18103,Indiana,40.7695,-86.045
+Bennington,50003,Vermont,43.0354,-73.093
+Hill,48217,Texas,31.9907,-97.1324
+Monroe,28095,Mississippi,33.8923,-88.4805
+Carlton,27017,Minnesota,46.5924,-92.677
+Marshall,28093,Mississippi,34.7623,-89.5031
+Ware,13299,Georgia,31.0538,-82.4237
+Greenup,21089,Kentucky,38.5457,-82.9223
+Cocke,47029,Tennessee,35.9254,-83.1212
+Laclede,29105,Missouri,37.6583,-92.5903
+Barry,29009,Missouri,36.7099,-93.8291
+Jasper,48241,Texas,30.744,-94.0251
+Sagadahoc,23023,Maine,43.9598,-69.8546
+Oneida,55085,Wisconsin,45.7056,-89.5218
+Adams,18001,Indiana,40.7457,-84.9366
+Cowley,20035,Kansas,37.2377,-96.8375
+Lincoln,31111,Nebraska,41.0477,-100.7453
+Williams,38105,North Dakota,48.3437,-103.4802
+Washington,48477,Texas,30.2145,-96.4034
+Greenbrier,54025,West Virginia,37.947,-80.453
+Wapello,19179,Iowa,41.0306,-92.4095
+Fulton,17057,Illinois,40.4728,-90.2075
+Madison,31119,Nebraska,41.9167,-97.6008
+Scotland,37165,North Carolina,34.8409,-79.4804
+Morrow,39117,Ohio,40.5241,-82.7941
+Lincoln,40081,Oklahoma,35.703,-96.8809
+Sioux,19167,Iowa,43.0826,-96.1779
+Macon,37113,North Carolina,35.1505,-83.4221
+Silver Bow,30093,Montana,45.9024,-112.6567
+Brookings,46011,South Dakota,44.3697,-96.7905
+Clark,55019,Wisconsin,44.7347,-90.6121
+Halifax,51083,Virginia,36.7669,-78.9366
+Fannin,48147,Texas,33.5938,-96.1069
+Harvey,20079,Kansas,38.0432,-97.4272
+Steuben,18151,Indiana,41.6439,-85.0009
+Warren,29219,Missouri,38.7646,-91.1607
+Seneca,36099,New York,42.7811,-76.8238
+Lee,17103,Illinois,41.7461,-89.3003
+Lincoln,28085,Mississippi,31.5324,-90.454
+Morgan,17137,Illinois,39.7156,-90.2015
+Lee,19111,Iowa,40.642,-91.4793
+Lincoln,23015,Maine,44.0664,-69.5435
+Panola,28107,Mississippi,34.3639,-89.9506
+Pulaski,51155,Virginia,37.0636,-80.7144
+Ford,20057,Kansas,37.6917,-99.888
+Monroe,17133,Illinois,38.2784,-90.1773
+Effingham,17049,Illinois,39.0598,-88.5899
+Harris,13145,Georgia,32.736,-84.9089
+Geary,20061,Kansas,39.0024,-96.7525
+Becker,27005,Minnesota,46.9347,-95.674
+Clarendon,45027,South Carolina,33.6658,-80.2164
+Nicollet,27103,Minnesota,44.3499,-94.2474
+Lincoln,47103,Tennessee,35.1405,-86.589
+Putnam,39137,Ohio,41.0221,-84.1317
+Hale,48189,Texas,34.0705,-101.8269
+Transylvania,37175,North Carolina,35.2021,-82.7982
+Whitley,18183,Indiana,41.1394,-85.5051
+Preston,54077,West Virginia,39.4693,-79.6682
+Chambers,01017,Alabama,32.9143,-85.392
+Gibson,18051,Indiana,38.3119,-87.5846
+Hot Spring,05059,Arkansas,34.3176,-92.946
+Evangeline,22039,Louisiana,30.729,-92.4059
+Weakley,47183,Tennessee,36.2983,-88.7178
+Jasper,18073,Indiana,41.023,-87.1161
+Miami,20121,Kansas,38.5635,-94.8381
+Bladen,37017,North Carolina,34.6146,-78.5636
+Botetourt,51023,Virginia,37.5571,-79.8123
+Pike,01109,Alabama,31.8027,-85.9409
+Wexford,26165,Michigan,44.3383,-85.5784
+Lyon,20111,Kansas,38.4562,-96.1526
+Platte,31141,Nebraska,41.5713,-97.5211
+Marion,19125,Iowa,41.3344,-93.0994
+Logan,54045,West Virginia,37.8315,-81.9353
+Bureau,17011,Illinois,41.4041,-89.5287
+Daviess,18027,Indiana,38.7024,-87.072
+Emmet,26047,Michigan,45.521,-84.8908
+Morrison,27097,Minnesota,46.0126,-94.2684
+Lawrence,01079,Alabama,34.5217,-87.311
+Caroline,24011,Maryland,38.8717,-75.8316
+McCurtain,40089,Oklahoma,34.1154,-94.7713
+Marshall,47117,Tennessee,35.4689,-86.765
+Christian,17021,Illinois,39.5458,-89.2773
+Iberville,22047,Louisiana,30.2585,-91.3493
+Taos,35055,New Mexico,36.5783,-105.631
+Rhea,47143,Tennessee,35.6087,-84.9244
+Accomack,51001,Virginia,37.7643,-75.6333
+Titus,48449,Texas,33.2166,-94.9657
+Bee,48025,Texas,28.4174,-97.7412
+Lafayette,29107,Missouri,39.0656,-93.7855
+Montgomery,20125,Kansas,37.1925,-95.7429
+Jackson,39079,Ohio,39.0196,-82.6184
+Lumpkin,13187,Georgia,34.5722,-84.0027
+Wakulla,12129,Florida,30.1673,-84.4007
+Chester,45023,South Carolina,34.692,-81.1595
+Randolph,17157,Illinois,38.0521,-89.8252
+Henry,47079,Tennessee,36.3318,-88.3013
+Clinton,18023,Indiana,40.3017,-86.4751
+Juneau,02110,Alaska,58.4546,-134.1739
+Jefferson,18077,Indiana,38.7858,-85.4385
+Greene,18055,Indiana,39.0364,-86.962
+Dorchester,24019,Maryland,38.4829,-76.0125
+Bolivar,28011,Mississippi,33.7956,-90.8804
+Amherst,51009,Virginia,37.6048,-79.1452
+Polk,29167,Missouri,37.6165,-93.4005
+Coos,33007,New Hampshire,44.6896,-71.3056
+Claiborne,47025,Tennessee,36.4859,-83.6604
+Wasatch,49051,Utah,40.3308,-111.1682
+Pontotoc,28115,Mississippi,34.2254,-89.0374
+Stone,29209,Missouri,36.7469,-93.456
+Adams,31001,Nebraska,40.5245,-98.5012
+Polk,27119,Minnesota,47.7739,-96.4019
+Washington,23029,Maine,45.0306,-67.6288
+Franklin,01059,Alabama,34.4417,-87.8437
+Ottawa,40115,Oklahoma,36.8355,-94.8104
+Jefferson Davis,22053,Louisiana,30.2677,-92.8141
+Hardin,39065,Ohio,40.6616,-83.6595
+Wabash,18169,Indiana,40.8457,-85.794
+Pickens,13227,Georgia,34.4643,-84.4656
+Knox,21121,Kentucky,36.8906,-83.854
+Petersburg,51730,Virginia,37.2043,-77.3913
+Huron,26063,Michigan,43.8334,-83.0232
+Williamsburg,45089,South Carolina,33.6199,-79.7277
+Marion,45067,South Carolina,34.0801,-79.3625
+Marshall,54051,West Virginia,39.8606,-80.6634
+Jefferson,53031,Washington,47.7489,-123.5952
+Adams,28001,Mississippi,31.4829,-91.3535
+Schoharie,36095,New York,42.5882,-74.4421
+Marshall,21157,Kentucky,36.8834,-88.3294
+Stark,38089,North Dakota,46.8107,-102.6551
+Kleberg,48273,Texas,27.4337,-97.7273
+Muhlenberg,21177,Kentucky,37.2158,-87.142
+Morton,38059,North Dakota,46.7161,-101.2811
+Lassen,06035,California,40.6736,-120.5943
+Smyth,51173,Virginia,36.8438,-81.537
+Mecklenburg,51117,Virginia,36.6804,-78.3627
+Dillon,45033,South Carolina,34.3915,-79.3789
+Clare,26035,Michigan,43.9879,-84.8478
+Summit,08117,Colorado,39.6342,-106.1164
+Vernon,55123,Wisconsin,43.5939,-90.8344
+Delta,08029,Colorado,38.8614,-107.8629
+McDonough,17109,Illinois,40.4562,-90.6779
+Freeborn,27047,Minnesota,43.6738,-93.3488
+Gilmer,13123,Georgia,34.6912,-84.4556
+Malheur,41045,Oregon,43.1934,-117.6231
+Caroline,51033,Virginia,38.0267,-77.3471
+Obion,47131,Tennessee,36.3582,-89.1488
+Elk,42047,Pennsylvania,41.4252,-78.6491
+Caledonia,50005,Vermont,44.4647,-72.1022
+Sheridan,56033,Wyoming,44.79,-106.8793
+Gallia,39053,Ohio,38.8247,-82.3169
+Sumter,13261,Georgia,32.0399,-84.197
+Cass,48067,Texas,33.0775,-94.3436
+Dunklin,29069,Missouri,36.2721,-90.0909
+Lake,30047,Montana,47.6459,-114.0893
+Franklin,23007,Maine,44.974,-70.444
+Boyle,21021,Kentucky,37.6244,-84.8668
+Marion,01093,Alabama,34.1366,-87.8871
+Sanpete,49039,Utah,39.3739,-111.5763
+Carroll,51035,Virginia,36.7316,-80.7339
+Wayne,13305,Georgia,31.5514,-81.9167
+Austin,48015,Texas,29.887,-96.2779
+Lee,13177,Georgia,31.7796,-84.1412
+Trempealeau,55121,Wisconsin,44.304,-91.3585
+White,13311,Georgia,34.6464,-83.7471
+Hancock,54029,West Virginia,40.5219,-80.5739
+Stoddard,29207,Missouri,36.8556,-89.9443
+Neshoba,28099,Mississippi,32.7535,-89.1176
+Giles,47055,Tennessee,35.2021,-87.0348
+Cass,27021,Minnesota,46.9496,-94.3254
+Caddo,40015,Oklahoma,35.1744,-98.3751
+Garrett,24023,Maryland,39.5289,-79.2729
+Haralson,13143,Georgia,33.7942,-85.211
+Pine,27115,Minnesota,46.1207,-92.7413
+Leflore,28083,Mississippi,33.5505,-90.3011
+Madison,13195,Georgia,34.1278,-83.209
+Custer,40039,Oklahoma,35.6388,-99.0015
+Park,56029,Wyoming,44.5205,-109.5879
+Logan,17107,Illinois,40.1245,-89.3675
+Mason,26105,Michigan,43.9952,-86.25
+Randolph,54083,West Virginia,38.7748,-79.8758
+Orange,50017,Vermont,44.0057,-72.3768
+Jackson,54035,West Virginia,38.8345,-81.6748
+Wythe,51197,Virginia,36.9171,-81.0787
+Montgomery,17135,Illinois,39.231,-89.4789
+Powhatan,51145,Virginia,37.5502,-77.9152
+Ellis,20051,Kansas,38.9147,-99.3173
+Jasper,45053,South Carolina,32.4367,-81.0315
+Fredericksburg,51630,Virginia,38.2992,-77.4872
+Fayette,39047,Ohio,39.5599,-83.4561
+Marion,29127,Missouri,39.8059,-91.6224
+Jones,13169,Georgia,33.0251,-83.5605
+McPherson,20113,Kansas,38.3917,-97.648
+Yazoo,28163,Mississippi,32.7803,-90.3964
+Palo Pinto,48363,Texas,32.7532,-98.313
+Marion,47115,Tennessee,35.1293,-85.622
+Jefferson,16051,Idaho,43.8201,-112.3113
+Alpena,26007,Michigan,45.0349,-83.6258
+Morgan,08087,Colorado,40.2626,-103.8097
+Union,28145,Mississippi,34.4905,-89.0039
+Copiah,28029,Mississippi,31.8693,-90.4488
+Dinwiddie,51053,Virginia,37.0759,-77.6323
+Tate,28137,Mississippi,34.6503,-89.9448
+Ripley,18137,Indiana,39.1035,-85.2624
+Hocking,39073,Ohio,39.4971,-82.4793
+Scott,28123,Mississippi,32.4064,-89.5376
+Van Wert,39161,Ohio,40.8554,-84.5861
+Le Sueur,27079,Minnesota,44.3714,-93.7301
+Baker,12003,Florida,30.3311,-82.2846
+Meade,21163,Kentucky,37.9697,-86.217
+San Jacinto,48407,Texas,30.5795,-95.1669
+Codington,46029,South Dakota,44.9779,-97.1886
+Wells,18179,Indiana,40.7292,-85.2212
+Pike,39131,Ohio,39.0773,-83.0668
+Grimes,48185,Texas,30.5435,-95.9855
+Henderson,47077,Tennessee,35.6542,-88.388
+Glenn,06021,California,39.5982,-122.392
+Cherokee,37039,North Carolina,35.1339,-84.0635
+Carroll,05015,Arkansas,36.341,-93.5382
+Winchester,51840,Virginia,39.1735,-78.1746
+Carroll,47017,Tennessee,35.9732,-88.4503
+Montgomery,21173,Kentucky,38.0335,-83.9131
+Washington,18175,Indiana,38.6,-86.1053
+Garvin,40049,Oklahoma,34.7046,-97.3093
+Iroquois,17075,Illinois,40.7473,-87.8243
+Adams,39001,Ohio,38.8456,-83.472
+Lincoln,55069,Wisconsin,45.3374,-89.7346
+San Miguel,35047,New Mexico,35.4804,-104.8158
+Meade,46093,South Dakota,44.5668,-102.7169
+Jennings,18079,Indiana,38.9969,-85.628
+Grant,35017,New Mexico,32.7389,-108.3824
+Del Norte,06015,California,41.7431,-123.8972
+Union,45087,South Carolina,34.6893,-81.6194
+Door,55029,Wisconsin,44.9473,-87.3135
+Carroll,39019,Ohio,40.5796,-81.0897
+Wyoming,42131,Pennsylvania,41.5184,-76.0166
+Bradford,12007,Florida,29.9499,-82.1688
+De Soto,22031,Louisiana,32.0554,-93.7372
+Montgomery,37123,North Carolina,35.3325,-79.9055
+Henry,39069,Ohio,41.3339,-84.0682
+Monroe,13207,Georgia,33.0139,-83.9187
+Mineral,54057,West Virginia,39.4147,-78.9438
+Carter,21043,Kentucky,38.3182,-83.0495
+Peach,13225,Georgia,32.5688,-83.8269
+Russell,51167,Virginia,36.9339,-82.0954
+Hardee,12049,Florida,27.4927,-81.81
+Toombs,13279,Georgia,32.1216,-82.3312
+Edgefield,45037,South Carolina,33.7722,-81.9664
+Uvalde,48463,Texas,29.3573,-99.7623
+Logan,21141,Kentucky,36.8597,-86.8789
+Orleans,50019,Vermont,44.8288,-72.2437
+Cibola,35006,New Mexico,34.9125,-107.9997
+Simpson,28127,Mississippi,31.9132,-89.9195
+Ashe,37009,North Carolina,36.4345,-81.5005
+Mason,54053,West Virginia,38.7697,-82.0266
+White,47185,Tennessee,35.9264,-85.4552
+Bell,21013,Kentucky,36.7306,-83.6741
+Marlboro,45069,South Carolina,34.602,-79.6786
+Elmore,16039,Idaho,43.354,-115.4693
+Harlan,21095,Kentucky,36.8569,-83.218
+Decatur,13087,Georgia,30.8783,-84.579
+Perry,21193,Kentucky,37.2443,-83.2215
+Fluvanna,51065,Virginia,37.8419,-78.2773
+Lewis,36049,New York,43.7847,-75.4488
+Decatur,18031,Indiana,39.307,-85.5011
+Juneau,55057,Wisconsin,43.9246,-90.1138
+Gillespie,48171,Texas,30.318,-98.9466
+Barton,20009,Kansas,38.479,-98.7565
+Geneva,01061,Alabama,31.0951,-85.8391
+Oceana,26127,Michigan,43.6409,-86.2676
+Tillamook,41057,Oregon,45.4637,-123.7127
+Johnson,05071,Arkansas,35.5701,-93.4599
+Boone,19015,Iowa,42.0365,-93.9316
+Currituck,37053,North Carolina,36.4031,-76.0059
+Union,41061,Oregon,45.3102,-118.0088
+Woodford,21239,Kentucky,38.0424,-84.7436
+Grayson,21085,Kentucky,37.4608,-86.3439
+Upson,13293,Georgia,32.8813,-84.2993
+Clay,18021,Indiana,39.3928,-87.1158
+King George,51099,Virginia,38.2733,-77.1572
+Charlevoix,26029,Michigan,45.3022,-85.1263
+Sunflower,28133,Mississippi,33.6023,-90.5886
+Wasco,41065,Oregon,45.16,-121.1678
+West Baton Rouge,22121,Louisiana,30.4634,-91.3127
+Montezuma,08083,Colorado,37.3386,-108.5966
+Lauderdale,47097,Tennessee,35.761,-89.6315
+Cherokee,01019,Alabama,34.1759,-85.6038
+St. Francis,05123,Arkansas,35.022,-90.7478
+Cass,31025,Nebraska,40.9097,-96.1409
+Mille Lacs,27095,Minnesota,45.938,-93.6301
+McNairy,47109,Tennessee,35.1755,-88.5636
+Hart,13147,Georgia,34.3508,-82.9642
+Lyon,27083,Minnesota,44.4135,-95.839
+Stephens,13257,Georgia,34.5539,-83.2935
+Somerset,24039,Maryland,38.1158,-75.7518
+Elbert,08039,Colorado,39.2866,-104.136
+Hardin,47071,Tennessee,35.1987,-88.1845
+Audrain,29007,Missouri,39.2157,-91.8416
+Benton,19011,Iowa,42.0802,-92.0657
+Allen,22003,Louisiana,30.6529,-92.8279
+Morehouse,22067,Louisiana,32.8202,-91.8018
+Texas,29215,Missouri,37.3173,-91.965
+Taylor,21217,Kentucky,37.3665,-85.3279
+Posey,18129,Indiana,38.0218,-87.8685
+Franklin,20059,Kansas,38.5645,-95.2859
+Lawrence,46081,South Dakota,44.3586,-103.7923
+Hardeman,47069,Tennessee,35.2068,-88.9931
+Dickinson,26043,Michigan,46.0091,-87.8702
+Cheboygan,26031,Michigan,45.4465,-84.4999
+Fannin,13111,Georgia,34.8641,-84.3198
+Tattnall,13267,Georgia,32.0458,-82.0581
+Adair,29001,Missouri,40.1906,-92.6007
+Barbour,01005,Alabama,31.8696,-85.3932
+Shelby,48419,Texas,31.7924,-94.145
+Lamoille,50015,Vermont,44.6058,-72.6414
+Salem,51775,Virginia,37.2864,-80.0555
+Gladwin,26051,Michigan,43.9907,-84.3883
+Prentiss,28117,Mississippi,34.6183,-88.5201
+Miller,29131,Missouri,38.2145,-92.4284
+Iosco,26069,Michigan,44.3558,-83.6359
+Brown,27015,Minnesota,44.2421,-94.7276
+Fayette,48149,Texas,29.8768,-96.9198
+Cleburne,05023,Arkansas,35.5381,-92.0267
+Nicholas,54067,West Virginia,38.2917,-80.7994
+Routt,08107,Colorado,40.4851,-106.9913
+Plymouth,19149,Iowa,42.7378,-96.2141
+Jackson,40065,Oklahoma,34.588,-99.4148
+Yates,36123,New York,42.6334,-77.1055
+Marion,28091,Mississippi,31.2308,-89.8224
+Grant,21081,Kentucky,38.6488,-84.6246
+Randolph,18135,Indiana,40.1576,-85.0114
+Anson,37007,North Carolina,34.9738,-80.1027
+Randolph,29175,Missouri,39.4401,-92.4971
+Bremer,19017,Iowa,42.7746,-92.3181
+Washington,29221,Missouri,37.9617,-90.8774
+Seminole,40133,Oklahoma,35.1675,-96.6155
+Grady,13131,Georgia,30.8747,-84.2344
+Hickman,47081,Tennessee,35.8032,-87.4733
+Chattooga,13055,Georgia,34.475,-85.3453
+Milam,48331,Texas,30.7863,-96.9768
+Washington,12133,Florida,30.6106,-85.6653
+Abbeville,45001,South Carolina,34.2226,-82.4592
+Juniata,42067,Pennsylvania,40.5311,-77.4022
+Dawson,13085,Georgia,34.4443,-84.1706
+Teller,08119,Colorado,38.8822,-105.1618
+Rowan,21205,Kentucky,38.1963,-83.4211
+Upshur,54097,West Virginia,38.8978,-80.2334
+Todd,27153,Minnesota,46.0706,-94.8976
+Otsego,26137,Michigan,45.0214,-84.599
+Lincoln,21137,Kentucky,37.4554,-84.6608
+Aransas,48007,Texas,28.1249,-96.9934
+Manistee,26101,Michigan,44.333,-86.0568
+Staunton,51790,Virginia,38.1593,-79.0611
+Mingo,54059,West Virginia,37.7264,-82.1347
+Churchill,32001,Nevada,39.5809,-118.3358
+Waushara,55137,Wisconsin,44.1131,-89.2429
+Crawford,29055,Missouri,37.9764,-91.3039
+White,18181,Indiana,40.7498,-86.8655
+Clarke,01025,Alabama,31.6767,-87.8308
+Butts,13035,Georgia,33.2879,-83.9572
+Luna,35029,New Mexico,32.1822,-107.7498
+Ohio,21183,Kentucky,37.4782,-86.8489
+Hertford,37091,North Carolina,36.3591,-76.982
+Saline,17165,Illinois,37.7531,-88.5407
+Sabine,22085,Louisiana,31.564,-93.5546
+Lee,51105,Virginia,36.7054,-83.1286
+George,28039,Mississippi,30.8626,-88.644
+Poinsett,05111,Arkansas,35.574,-90.663
+Roscommon,26143,Michigan,44.3356,-84.6116
+Pottawatomie,20149,Kansas,39.379,-96.3424
+Macon,47111,Tennessee,36.532,-86.0073
+Ouachita,05103,Arkansas,33.5934,-92.8819
+Page,51139,Virginia,38.6194,-78.4844
+Winston,01133,Alabama,34.1492,-87.3737
+Columbia,05027,Arkansas,33.2143,-93.2273
+Scott,18143,Indiana,38.6851,-85.7475
+Dawson,31047,Nebraska,40.8699,-99.8196
+Jerome,16053,Idaho,42.6899,-114.2639
+Cassia,16031,Idaho,42.2839,-113.6001
+Iowa,55049,Wisconsin,43.0005,-90.1354
+Jefferson,41031,Oregon,44.6294,-121.1762
+Fairfax,51600,Virginia,38.8531,-77.2998
+Itawamba,28057,Mississippi,34.28,-88.3613
+Limestone,48293,Texas,31.5455,-96.5805
+Plaquemines,22075,Louisiana,29.4405,-89.6097
+Panola,48365,Texas,32.1624,-94.3056
+Hampshire,54027,West Virginia,39.3171,-78.6141
+Osceola,26133,Michigan,43.9898,-85.3253
+Union,13291,Georgia,34.8341,-83.9907
+Teton,56039,Wyoming,43.9347,-110.5898
+Payette,16075,Idaho,44.0067,-116.7608
+Coahoma,28027,Mississippi,34.2292,-90.6027
+Hood River,41027,Oregon,45.519,-121.651
+Antrim,26009,Michigan,44.9991,-85.1402
+Fayette,18041,Indiana,39.64,-85.1788
+Sumner,20191,Kansas,37.2373,-97.4765
+Meeker,27093,Minnesota,45.1231,-94.5273
+Grainger,47057,Tennessee,36.2763,-83.5096
+Meigs,39105,Ohio,39.0822,-82.0229
+Menominee,26109,Michigan,45.58,-87.5566
+Hockley,48219,Texas,33.6076,-102.3432
+Crook,41013,Oregon,44.1422,-120.3566
+Saline,29195,Missouri,39.1368,-93.2018
+Houston,48225,Texas,31.3177,-95.4227
+Starke,18149,Indiana,41.2809,-86.6476
+Prince Edward,51147,Virginia,37.2243,-78.4411
+Ray,29177,Missouri,39.3524,-93.9899
+Goochland,51075,Virginia,37.7217,-77.916
+Martin,37117,North Carolina,35.8432,-77.1092
+Leake,28079,Mississippi,32.7535,-89.524
+McDonald,29119,Missouri,36.6287,-94.3483
+Franklin,18047,Indiana,39.4149,-85.0602
+Franklin,13119,Georgia,34.3754,-83.2292
+Yankton,46135,South Dakota,43.009,-97.3948
+Crisp,13081,Georgia,31.9229,-83.7681
+Caswell,37033,North Carolina,36.3932,-79.3335
+Curry,41015,Oregon,42.4576,-124.1568
+Randolph,01111,Alabama,33.2938,-85.4591
+Johnson,21115,Kentucky,37.8466,-82.8315
+Rockbridge,51163,Virginia,37.8145,-79.4473
+Fairfield,45039,South Carolina,34.3951,-81.1212
+Emanuel,13107,Georgia,32.5897,-82.3017
+Burke,13033,Georgia,33.0611,-82.0009
+Bibb,01007,Alabama,32.9986,-87.1265
+Assumption,22007,Louisiana,29.9008,-91.0626
+Brooke,54009,West Virginia,40.2739,-80.5765
+Hopewell,51670,Virginia,37.2915,-77.2985
+Asotin,53003,Washington,46.1918,-117.203
+Gray,48179,Texas,35.4012,-100.8126
+Anderson,21005,Kentucky,38.0039,-84.991
+Clark,05019,Arkansas,34.051,-93.1764
+Logan,08075,Colorado,40.7247,-103.1101
+Blaine,16013,Idaho,43.4119,-113.9802
+Boone,54005,West Virginia,38.023,-81.7112
+Nodaway,29147,Missouri,40.3607,-94.8834
+Union,22111,Louisiana,32.8318,-92.3748
+Seward,20175,Kansas,37.1933,-100.8513
+Grant,22043,Louisiana,31.5997,-92.5595
+Letcher,21133,Kentucky,37.1212,-82.8553
+Beckham,40009,Oklahoma,35.2687,-99.682
+Mitchell,13205,Georgia,31.2253,-84.1943
+Adair,40001,Oklahoma,35.8839,-94.6587
+Bandera,48019,Texas,29.7472,-99.2463
+Mahaska,19123,Iowa,41.3352,-92.6409
+Waynesboro,51820,Virginia,38.0674,-78.9014
+Washington,19183,Iowa,41.3356,-91.7179
+Overton,47133,Tennessee,36.345,-85.2881
+Tippah,28139,Mississippi,34.7684,-88.9089
+Pointe Coupee,22077,Louisiana,30.7094,-91.6008
+Wyandot,39175,Ohio,40.8424,-83.3044
+Scott,47151,Tennessee,36.4285,-84.5035
+Jersey,17083,Illinois,39.0855,-90.3565
+Scott,51169,Virginia,36.7143,-82.6029
+Taylor,12123,Florida,30.047,-83.6035
+Hempstead,05057,Arkansas,33.7353,-93.6685
+Buchanan,51027,Virginia,37.2666,-82.036
+Vilas,55125,Wisconsin,46.0529,-89.5148
+Shelby,17173,Illinois,39.3911,-88.8055
+Henry,29083,Missouri,38.3852,-93.7928
+Nobles,27105,Minnesota,43.6742,-95.7534
+Klickitat,53039,Washington,45.8738,-120.7891
+Putnam,13237,Georgia,33.3218,-83.3728
+Pacific,53049,Washington,46.5557,-123.7041
+New Kent,51127,Virginia,37.5052,-76.9973
+Calhoun,48057,Texas,28.5067,-96.602
+Logan,05083,Arkansas,35.2153,-93.7162
+Leelanau,26089,Michigan,44.9386,-85.8118
+Gage,31067,Nebraska,40.2619,-96.6894
+Mercer,21167,Kentucky,37.811,-84.8745
+Willacy,48489,Texas,26.4696,-97.6611
+Jo Daviess,17085,Illinois,42.3658,-90.2125
+Fayette,17051,Illinois,39.0002,-89.0241
+Morgan,47129,Tennessee,36.135,-84.6492
+Wabasha,27157,Minnesota,44.2843,-92.2303
+Tyler,48457,Texas,30.7712,-94.3766
+Madison,37115,North Carolina,35.858,-82.7058
+Yell,05149,Arkansas,35.0026,-93.4112
+McDuffie,13189,Georgia,33.4829,-82.4814
+Colusa,06011,California,39.1775,-122.237
+Moore,48341,Texas,35.8377,-101.893
+Newton,28101,Mississippi,32.4002,-89.1188
+Barnwell,45011,South Carolina,33.266,-81.435
+Hutchinson,48233,Texas,35.84,-101.3547
+St. James,22093,Louisiana,30.0263,-90.7963
+Wyoming,54109,West Virginia,37.6096,-81.5492
+Sevier,49041,Utah,38.7478,-111.8044
+Monroe,01099,Alabama,31.5709,-87.3655
+Perry,17145,Illinois,38.0837,-89.367
+Colorado,48089,Texas,29.6208,-96.5263
+Saunders,31155,Nebraska,41.2264,-96.6374
+Buchanan,19019,Iowa,42.4708,-91.8379
+Meriwether,13199,Georgia,33.0407,-84.6883
+Grenada,28043,Mississippi,33.7699,-89.8019
+Llano,48299,Texas,30.7057,-98.6841
+Greene,37079,North Carolina,35.485,-77.6758
+Hubbard,27057,Minnesota,47.1086,-94.9166
+Stutsman,38093,North Dakota,46.9793,-98.9588
+Fillmore,27045,Minnesota,43.674,-92.0902
+Allen,21003,Kentucky,36.7513,-86.1904
+Ogemaw,26129,Michigan,44.335,-84.1264
+Lampasas,48281,Texas,31.1962,-98.2415
+Conway,05029,Arkansas,35.2622,-92.7013
+Lincoln,54043,West Virginia,38.1753,-82.0704
+Jay,18075,Indiana,40.438,-85.0057
+Owen,18119,Indiana,39.3128,-86.8377
+Dodge,13091,Georgia,32.1722,-83.1684
+Texas,40139,Oklahoma,36.7479,-101.4901
+La Paz,04012,Arizona,33.7294,-113.9816
+Gonzales,48177,Texas,29.4567,-97.4925
+Sullivan,18153,Indiana,39.0888,-87.4147
+Woodward,40153,Oklahoma,36.4227,-99.2651
+Gaines,48165,Texas,32.7408,-102.6352
+Minidoka,16067,Idaho,42.8543,-113.6375
+Dodge,27039,Minnesota,44.0226,-92.862
+Vernon,29217,Missouri,37.8506,-94.3424
+Jones,19105,Iowa,42.1212,-91.1315
+Polk,37149,North Carolina,35.2793,-82.1697
+Wayne,21231,Kentucky,36.8013,-84.8286
+Jackson,55053,Wisconsin,44.3192,-90.8052
+Clinton,29049,Missouri,39.6018,-94.4046
+Worth,13321,Georgia,31.5515,-83.8509
+Uinta,56041,Wyoming,41.2876,-110.5476
+Spencer,18147,Indiana,38.0141,-87.0077
+Washington,13303,Georgia,32.9695,-82.7959
+Kewaunee,55061,Wisconsin,44.5161,-87.6153
+Wayne,28153,Mississippi,31.6408,-88.6958
+Clay,21051,Kentucky,37.1597,-83.7147
+Washington,31177,Nebraska,41.5311,-96.222
+Richland,22083,Louisiana,32.4178,-91.7635
+DeWitt,48123,Texas,29.0821,-97.3567
+Taylor,55119,Wisconsin,45.2116,-90.5012
+Carbon,49007,Utah,39.6481,-110.5887
+Saluda,45081,South Carolina,34.0061,-81.7269
+Carroll,19027,Iowa,42.0362,-94.8606
+Morgan,29141,Missouri,38.4237,-92.886
+Ashley,05003,Arkansas,33.1912,-91.7685
+Winneshiek,19191,Iowa,43.2906,-91.8437
+Pickens,01107,Alabama,33.2808,-88.0888
+Franklin,22041,Louisiana,32.1332,-91.6738
+Cherokee,20021,Kansas,37.1693,-94.8463
+Breckinridge,21027,Kentucky,37.7734,-86.4293
+Dakota,31043,Nebraska,42.3911,-96.5646
+Duchesne,49013,Utah,40.2982,-110.4252
+Labette,20099,Kansas,37.1913,-95.2976
+Fulton,18049,Indiana,41.047,-86.2635
+Adams,55001,Wisconsin,43.9695,-89.7704
+Polk,05113,Arkansas,34.4859,-94.2281
+Carroll,18015,Indiana,40.5828,-86.5635
+Buena Vista,19021,Iowa,42.7355,-95.1511
+Bourbon,21017,Kentucky,38.2067,-84.2172
+Lavaca,48285,Texas,29.3843,-96.9301
+Northampton,37131,North Carolina,36.4178,-77.3969
+Jones,48253,Texas,32.7399,-99.8788
+Henry,19087,Iowa,40.988,-91.5445
+Warren,37185,North Carolina,36.3965,-78.1067
+Frio,48163,Texas,28.8678,-99.1082
+Davison,46035,South Dakota,43.6747,-98.146
+Martin,27091,Minnesota,43.6743,-94.5512
+DeKalb,47041,Tennessee,35.9799,-85.8328
+Butler,01013,Alabama,31.7524,-86.6803
+Fayette,19065,Iowa,42.8626,-91.8444
+Concordia,22029,Louisiana,31.4459,-91.6401
+Smith,47159,Tennessee,36.2505,-85.9567
+McIntosh,40091,Oklahoma,35.3736,-95.6668
+Freestone,48161,Texas,31.7049,-96.1491
+Clay,28025,Mississippi,33.6557,-88.7815
+Douglas,17041,Illinois,39.7694,-88.2174
+Adams,53001,Washington,46.9834,-118.5606
+Hampton,45049,South Carolina,32.7763,-81.1407
+Chaffee,08015,Colorado,38.747,-106.1941
+Orange,18117,Indiana,38.5418,-86.495
+Lincoln,30053,Montana,48.5424,-115.4051
+Kent,24029,Maryland,39.2545,-76.0399
+Greene,51079,Virginia,38.2976,-78.4669
+Montague,48337,Texas,33.6757,-97.7246
+Union,47173,Tennessee,36.2879,-83.8375
+Lincoln,35027,New Mexico,33.7453,-105.4593
+Tishomingo,28141,Mississippi,34.7404,-88.2393
+Holmes,12059,Florida,30.8679,-85.814
+Jackson,19097,Iowa,42.1717,-90.5743
+Bertie,37015,North Carolina,36.0662,-76.9787
+East Feliciana,22037,Louisiana,30.8451,-91.0455
+Marengo,01091,Alabama,32.2477,-87.7895
+Lincoln,56023,Wyoming,42.2639,-110.656
+Pierce,13229,Georgia,31.3588,-82.2128
+Marion,21155,Kentucky,37.5525,-85.2696
+Adair,21001,Kentucky,37.1042,-85.2806
+Perry,29157,Missouri,37.7072,-89.8244
+Elbert,13105,Georgia,34.1168,-82.8401
+Berrien,13019,Georgia,31.276,-83.2296
+Langlade,55067,Wisconsin,45.2624,-89.0719
+Benton,29015,Missouri,38.2948,-93.2879
+Perry,18123,Indiana,38.0796,-86.638
+Covington,28031,Mississippi,31.6332,-89.5526
+Crawford,17033,Illinois,39.0027,-87.7596
+Jefferson,20087,Kansas,39.2358,-95.3834
+Roosevelt,35041,New Mexico,34.0212,-103.48
+Dickinson,20041,Kansas,38.8665,-97.1527
+Paulding,39125,Ohio,41.1166,-84.5802
+Brantley,13025,Georgia,31.1969,-81.9819
+Green Lake,55047,Wisconsin,43.8004,-89.0449
+Waseca,27161,Minnesota,44.0221,-93.5873
+Deaf Smith,48117,Texas,34.966,-102.605
+Hart,21099,Kentucky,37.2999,-85.8847
+Harrison,21097,Kentucky,38.4418,-84.3314
+Macon,01087,Alabama,32.3859,-85.6927
+Banks,13011,Georgia,34.3541,-83.4974
+Long,13183,Georgia,31.7526,-81.7457
+Spencer,21215,Kentucky,38.0325,-85.3278
+Lamar,13171,Georgia,33.0765,-84.1395
+McDowell,54047,West Virginia,37.3785,-81.6536
+Plumas,06063,California,40.0046,-120.8385
+Houston,27055,Minnesota,43.6714,-91.4929
+Los Alamos,35028,New Mexico,35.8694,-106.3074
+Phillips,05107,Arkansas,34.4283,-90.848
+Morgan,13211,Georgia,33.5909,-83.4923
+Madison,12079,Florida,30.4441,-83.4701
+Cedar,19031,Iowa,41.7723,-91.1324
+Pike,29163,Missouri,39.3438,-91.1714
+Appling,13001,Georgia,31.7492,-82.2889
+Attala,28007,Mississippi,33.0863,-89.5815
+Humphreys,47085,Tennessee,36.0408,-87.7756
+Drew,05043,Arkansas,33.5895,-91.72
+Poweshiek,19157,Iowa,41.6864,-92.5315
+Beadle,46005,South Dakota,44.4145,-98.2781
+Pike,13231,Georgia,33.0923,-84.3892
+Bosque,48035,Texas,31.9004,-97.6343
+Otero,08089,Colorado,37.9026,-103.7165
+Stone,28131,Mississippi,30.79,-89.1177
+Eastland,48133,Texas,32.3271,-98.8323
+Montour,42093,Pennsylvania,41.0279,-76.6586
+Winston,28159,Mississippi,33.0885,-89.0344
+Fentress,47049,Tennessee,36.3805,-84.9324
+Wright,29229,Missouri,37.2702,-92.4687
+Simpson,21213,Kentucky,36.742,-86.5822
+Jefferson,19101,Iowa,41.0318,-91.9489
+Bethel,02050,Alaska,60.9132,-159.818
+Grant,05053,Arkansas,34.29,-92.4236
+Burleson,48051,Texas,30.4925,-96.6214
+Young,48503,Texas,33.1766,-98.6878
+Andrews,48003,Texas,32.305,-102.6377
+Hancock,17067,Illinois,40.4037,-91.1647
+Inyo,06027,California,36.5111,-117.4107
+Gilchrist,12041,Florida,29.7258,-82.8004
+Pitkin,08097,Colorado,39.2171,-106.9166
+Schuyler,36097,New York,42.3938,-76.8752
+Arkansas,05001,Arkansas,34.2908,-91.3749
+Southampton,51175,Virginia,36.7204,-77.1061
+Park,08093,Colorado,39.1193,-105.7171
+Ste. Genevieve,29186,Missouri,37.8944,-90.1945
+Unicoi,47171,Tennessee,36.1107,-82.4323
+Russell,21207,Kentucky,36.9911,-85.0587
+Yancey,37199,North Carolina,35.8989,-82.3076
+Johnson,47091,Tennessee,36.4549,-81.8518
+Westmoreland,51193,Virginia,38.1119,-76.8041
+Patrick,51141,Virginia,36.6783,-80.2844
+Franklin,05047,Arkansas,35.5123,-93.8906
+Holmes,28051,Mississippi,33.1235,-90.0921
+Morgan,54065,West Virginia,39.5604,-78.2578
+Randolph,05121,Arkansas,36.3415,-91.0277
+Radford,51750,Virginia,37.1229,-80.5587
+Cooper,29053,Missouri,38.8435,-92.8101
+Clayton,19043,Iowa,42.8447,-91.3414
+Haywood,47075,Tennessee,35.5832,-89.2838
+Benzie,26019,Michigan,44.6387,-86.0155
+Hughes,46065,South Dakota,44.389,-99.996
+Kalkaska,26079,Michigan,44.6847,-85.0902
+New Madrid,29143,Missouri,36.5946,-89.6517
+Avery,37011,North Carolina,36.0765,-81.9226
+Andrew,29003,Missouri,39.9835,-94.8021
+McCreary,21147,Kentucky,36.7371,-84.4842
+Richland,55103,Wisconsin,43.3756,-90.4295
+Garrard,21079,Kentucky,37.6396,-84.5377
+Colonial Heights,51570,Virginia,37.265,-77.3969
+Mariposa,06043,California,37.5815,-119.9054
+Edgar,17045,Illinois,39.6786,-87.7456
+Lee,45061,South Carolina,34.1633,-80.2545
+Greene,13133,Georgia,33.5788,-83.1667
+Gem,16045,Idaho,44.0616,-116.3975
+Dukes,25007,Massachusetts,41.3961,-70.6501
+Falls,48145,Texas,31.2533,-96.9359
+Leon,48289,Texas,31.2965,-95.9957
+Chickasaw,28017,Mississippi,33.9208,-88.9479
+Chester,47023,Tennessee,35.4217,-88.6135
+Delaware,19055,Iowa,42.4712,-91.3673
+Cook,13075,Georgia,31.154,-83.4305
+Seward,31159,Nebraska,40.8724,-97.1395
+Warren,17187,Illinois,40.8488,-90.615
+Sharp,05135,Arkansas,36.1612,-91.4799
+Henry,01067,Alabama,31.5147,-85.2414
+Dickinson,19059,Iowa,43.3779,-95.1509
+Mason,21161,Kentucky,38.5952,-83.8241
+Scurry,48415,Texas,32.7463,-100.9164
+Sevier,05133,Arkansas,33.9972,-94.2412
+Hardin,19083,Iowa,42.3839,-93.2404
+Buckingham,51029,Virginia,37.5722,-78.5288
+Lee,48287,Texas,30.3107,-96.9657
+Crawford,19047,Iowa,42.0372,-95.382
+Ben Hill,13017,Georgia,31.7598,-83.2205
+Tama,19171,Iowa,42.0798,-92.5326
+Jackson,05067,Arkansas,35.5992,-91.2145
+Robertson,48395,Texas,31.0271,-96.5128
+Manassas Park,51685,Virginia,38.7719,-77.445
+Union,17181,Illinois,37.4713,-89.2551
+Parke,18121,Indiana,39.7736,-87.2064
+Bristol,51520,Virginia,36.618,-82.1606
+Taylor,54091,West Virginia,39.336,-80.0462
+Socorro,35053,New Mexico,34.0072,-106.9302
+Piscataquis,23021,Maine,45.8373,-69.2846
+Humboldt,32013,Nevada,41.4068,-118.112
+Cross,05037,Arkansas,35.2957,-90.7712
+Rockcastle,21203,Kentucky,37.3651,-84.316
+Polk,47139,Tennessee,35.1199,-84.5233
+Potter,42105,Pennsylvania,41.7449,-77.8958
+Gunnison,08051,Colorado,38.6668,-107.0316
+San Juan,53055,Washington,48.5782,-122.965
+Giles,51071,Virginia,37.3142,-80.7029
+Lafayette,55065,Wisconsin,42.6605,-90.1317
+Wayne,47181,Tennessee,35.2399,-87.7881
+King William,51101,Virginia,37.7066,-77.0886
+Pemiscot,29155,Missouri,36.2114,-89.7854
+Rabun,13241,Georgia,34.8817,-83.4021
+Van Buren,05141,Arkansas,35.5806,-92.5157
+Rush,18139,Indiana,39.62,-85.4658
+Barbour,54001,West Virginia,39.133,-80.003
+Dallas,29059,Missouri,37.6804,-93.0237
+Dixie,12029,Florida,29.6082,-83.1588
+Bond,17005,Illinois,38.8868,-89.4356
+Lawrence,05075,Arkansas,36.0412,-91.1071
+Washington,01129,Alabama,31.4076,-88.2078
+Brunswick,51025,Virginia,36.7648,-77.859
+Marshall,40095,Oklahoma,34.0245,-96.7691
+Jasper,28061,Mississippi,32.0191,-89.1188
+Fayette,01057,Alabama,33.7212,-87.7389
+Marion,05089,Arkansas,36.2684,-92.6842
+Hill,30041,Montana,48.6282,-110.1112
+Fountain,18045,Indiana,40.1209,-87.242
+Pawnee,40117,Oklahoma,36.3169,-96.6992
+Idaho,16049,Idaho,45.8441,-115.4675
+Wayne,17191,Illinois,38.4296,-88.4256
+Piatt,17147,Illinois,40.0103,-88.5911
+Sawyer,55113,Wisconsin,45.88,-91.1445
+Park,30067,Montana,45.4884,-110.5267
+Bates,29013,Missouri,38.2573,-94.34
+Atchison,20005,Kansas,39.5318,-95.3135
+Richland,38077,North Dakota,46.2646,-96.9483
+Crawford,55023,Wisconsin,43.2395,-90.931
+Clay,19041,Iowa,43.0826,-95.1509
+Madison,05087,Arkansas,36.011,-93.7245
+Dade,13083,Georgia,34.8546,-85.5045
+Iowa,19095,Iowa,41.6863,-92.0655
+Lewis,54041,West Virginia,38.9959,-80.5022
+Benton,47005,Tennessee,36.0698,-88.0683
+Neosho,20133,Kansas,37.5585,-95.3068
+Alamosa,08003,Colorado,37.5729,-105.7883
+Kanabec,27065,Minnesota,45.9452,-93.2934
+Moniteau,29135,Missouri,38.6328,-92.5831
+Telfair,13271,Georgia,31.9298,-82.939
+Lawrence,17101,Illinois,38.72,-87.7268
+Baker,41001,Oregon,44.7092,-117.6753
+Madison,19121,Iowa,41.3307,-94.0155
+Smith,28129,Mississippi,32.0177,-89.5067
+Claiborne,22027,Louisiana,32.8226,-92.9958
+Otoe,31131,Nebraska,40.6485,-96.1348
+De Witt,17039,Illinois,40.1746,-88.9041
+Henry,21103,Kentucky,38.4485,-85.1189
+Casey,21045,Kentucky,37.3223,-84.9283
+Osage,20139,Kansas,38.6523,-95.7269
+Jackson,22049,Louisiana,32.3021,-92.5578
+Aitkin,27001,Minnesota,46.6082,-93.4154
+Pecos,48371,Texas,30.781,-102.7235
+Floyd,19067,Iowa,43.0599,-92.789
+Clarke,28023,Mississippi,32.0414,-88.6894
+Richland,17159,Illinois,38.7124,-88.0851
+Grayson,51077,Virginia,36.6566,-81.2248
+Clark,17023,Illinois,39.3336,-87.7877
+Appomattox,51011,Virginia,37.3723,-78.8126
+Floyd,51063,Virginia,36.9316,-80.3625
+Kingfisher,40073,Oklahoma,35.9454,-97.9421
+Washburn,55129,Wisconsin,45.8992,-91.7912
+Pike,17149,Illinois,39.6225,-90.8863
+Lawrence,21127,Kentucky,38.0679,-82.7348
+Jefferson,13163,Georgia,33.0549,-82.4182
+Ashland,55003,Wisconsin,46.3161,-90.6779
+Brooks,13027,Georgia,30.842,-83.5802
+Mercer,17131,Illinois,41.2053,-90.7414
+Gulf,12045,Florida,29.9555,-85.2266
+Dent,29065,Missouri,37.6066,-91.5079
+Karnes,48255,Texas,28.9057,-97.8594
+Vermillion,18165,Indiana,39.8538,-87.464
+Torrance,35057,New Mexico,34.6405,-105.8508
+Reeves,48389,Texas,31.323,-103.693
+Wetzel,54103,West Virginia,39.6053,-80.6391
+Nottoway,51135,Virginia,37.143,-78.0513
+West Feliciana,22125,Louisiana,30.8798,-91.42
+Union,46127,South Dakota,42.8326,-96.656
+Roseau,27135,Minnesota,48.7751,-95.8108
+Marquette,55077,Wisconsin,43.8196,-89.3987
+Grand,08049,Colorado,40.1026,-106.1183
+Union,12125,Florida,30.0439,-82.3714
+San Juan,49037,Utah,37.626,-109.8045
+Burnett,55013,Wisconsin,45.8627,-92.3676
+Page,19145,Iowa,40.7391,-95.1502
+Redwood,27127,Minnesota,44.4037,-95.2538
+Knott,21119,Kentucky,37.354,-82.9541
+Carbon,56007,Wyoming,41.6944,-106.9307
+Harrison,39067,Ohio,40.2938,-81.0911
+Macon,29121,Missouri,39.8308,-92.5646
+Tipton,18159,Indiana,40.3113,-86.0519
+Alleghany,51005,Virginia,37.7878,-80.0062
+Gooding,16047,Idaho,42.971,-114.8115
+Livingston,29117,Missouri,39.7821,-93.5483
+Arenac,26011,Michigan,44.0647,-83.894
+Brown,18013,Indiana,39.1962,-86.2274
+Gogebic,26053,Michigan,46.4089,-89.6944
+Jeff Davis,13161,Georgia,31.8056,-82.6368
+Mills,19129,Iowa,41.0334,-95.6213
+Missaukee,26113,Michigan,44.3374,-85.0947
+Mitchell,37121,North Carolina,36.0133,-82.1636
+Hamilton,19079,Iowa,42.3838,-93.7068
+Bayfield,55007,Wisconsin,46.5238,-91.2008
+Kossuth,19109,Iowa,43.2042,-94.2067
+LaSalle,22059,Louisiana,31.6768,-92.1605
+Oglethorpe,13221,Georgia,33.8807,-83.0807
+Williamsburg,51830,Virginia,37.2692,-76.7076
+Cleburne,01029,Alabama,33.6745,-85.5188
+Nolan,48353,Texas,32.3035,-100.406
+Sibley,27143,Minnesota,44.5795,-94.2321
+Clay,05021,Arkansas,36.3683,-90.4175
+Bledsoe,47007,Tennessee,35.5964,-85.2052
+Nelson,51125,Virginia,37.7874,-78.8868
+Jackson,48239,Texas,28.9542,-96.5776
+Sequatchie,47153,Tennessee,35.3712,-85.4106
+Hale,01065,Alabama,32.7627,-87.6291
+Choctaw,40023,Oklahoma,34.0266,-95.5522
+Dickenson,51051,Virginia,37.1258,-82.3504
+Gasconade,29073,Missouri,38.4409,-91.5079
+Calhoun,45017,South Carolina,33.6749,-80.7803
+Renville,27129,Minnesota,44.7268,-94.9471
+Moultrie,17139,Illinois,39.6415,-88.6193
+Morgan,39115,Ohio,39.6204,-81.8527
+Union,21225,Kentucky,37.6585,-87.9453
+Butler,19023,Iowa,42.7316,-92.7902
+Trinity,48455,Texas,31.0888,-95.1355
+Bourbon,20011,Kansas,37.8552,-94.8493
+Pendleton,21191,Kentucky,38.6956,-84.3603
+Fleming,21069,Kentucky,38.3701,-83.6967
+Rolette,38079,North Dakota,48.7724,-99.8409
+Fulton,42057,Pennsylvania,39.9254,-78.1127
+Calhoun,28013,Mississippi,33.9365,-89.3365
+Walthall,28147,Mississippi,31.1484,-90.1061
+Carroll,17015,Illinois,42.0687,-89.9343
+Trigg,21221,Kentucky,36.8064,-87.8734
+Clarke,51043,Virginia,39.1123,-77.9967
+Noble,39121,Ohio,39.766,-81.4556
+Crockett,47033,Tennessee,35.8135,-89.1395
+Craig,40035,Oklahoma,36.7618,-95.2085
+Bamberg,45009,South Carolina,33.2148,-81.0542
+Calhoun,12013,Florida,30.406,-85.1972
+Oglala Lakota,46102,South Dakota,43.3355,-102.5516
+Hamilton,12047,Florida,30.4964,-82.9479
+Winn,22127,Louisiana,31.9443,-92.6367
+Mono,06051,California,37.9391,-118.8868
+Zapata,48505,Texas,27.0008,-99.1686
+Saline,31151,Nebraska,40.5241,-97.1409
+Las Animas,08071,Colorado,37.3158,-104.0386
+Swain,37173,North Carolina,35.4868,-83.4928
+Estill,21065,Kentucky,37.6924,-83.9643
+Massac,17127,Illinois,37.219,-88.7077
+Larue,21123,Kentucky,37.5458,-85.6979
+Madison,48313,Texas,30.9655,-95.9284
+Braxton,54007,West Virginia,38.6999,-80.7193
+Pennington,27113,Minnesota,48.0662,-96.0367
+Cannon,47015,Tennessee,35.8087,-86.0618
+McIntosh,13191,Georgia,31.4967,-81.4085
+Jefferson,12065,Florida,30.4375,-83.8953
+Tallahatchie,28135,Mississippi,33.9505,-90.1732
+Rusk,55107,Wisconsin,45.4751,-91.1332
+Falls Church,51610,Virginia,38.8847,-77.1751
+Chowan,37041,North Carolina,36.1508,-76.6079
+Harrison,19085,Iowa,41.6829,-95.8168
+Washington,17189,Illinois,38.3522,-89.4105
+Cedar,29039,Missouri,37.7239,-93.8566
+Roane,54087,West Virginia,38.714,-81.3483
+Newton,18111,Indiana,40.9558,-87.3976
+Screven,13251,Georgia,32.7506,-81.6119
+Clay,46027,South Dakota,42.9147,-96.9756
+Murray,40099,Oklahoma,34.4823,-97.0679
+Monroe,39111,Ohio,39.7274,-81.0829
+Converse,56009,Wyoming,42.9723,-105.5072
+Jasper,13159,Georgia,33.3165,-83.688
+Newton,48351,Texas,30.7863,-93.7448
+Crawford,26039,Michigan,44.6837,-84.6103
+Lamar,01075,Alabama,33.7791,-88.097
+White,17193,Illinois,38.0875,-88.1796
+Callahan,48059,Texas,32.2976,-99.3735
+Crenshaw,01041,Alabama,31.7315,-86.3135
+O'Brien,19141,Iowa,43.0838,-95.6249
+Atoka,40005,Oklahoma,34.3736,-96.0378
+Allamakee,19005,Iowa,43.2843,-91.3781
+Hardy,54031,West Virginia,39.0075,-78.8579
+Faribault,27043,Minnesota,43.6739,-93.9479
+Ketchikan Gateway,02130,Alaska,55.5852,-130.9288
+York,31185,Nebraska,40.8727,-97.5971
+Dooly,13093,Georgia,32.1572,-83.7988
+Glacier,30035,Montana,48.7051,-112.9947
+Wadena,27159,Minnesota,46.5858,-94.9694
+Greene,28041,Mississippi,31.2142,-88.6392
+Mason,17125,Illinois,40.2396,-89.9168
+Osage,29151,Missouri,38.4604,-91.8618
+Mississippi,29133,Missouri,36.8281,-89.2911
+Izard,05065,Arkansas,36.0949,-91.9134
+Ripley,29181,Missouri,36.6528,-90.8638
+Bienville,22013,Louisiana,32.3472,-93.056
+Comanche,48093,Texas,31.948,-98.5582
+Glades,12043,Florida,26.9564,-81.1891
+Franklin,16041,Idaho,42.1811,-111.8132
+Lincoln,05079,Arkansas,33.9575,-91.7333
+Kodiak Island,02150,Alaska,57.677,-153.7806
+Perquimans,37143,North Carolina,36.2058,-76.4411
+Stewart,47161,Tennessee,36.5012,-87.8384
+Lewis,21135,Kentucky,38.5316,-83.3781
+Price,55099,Wisconsin,45.6804,-90.3614
+Monroe,54063,West Virginia,37.5604,-80.5505
+Big Horn,30003,Montana,45.4234,-107.4898
+Pend Oreille,53051,Washington,48.5323,-117.274
+Hughes,40063,Oklahoma,35.0484,-96.2502
+Jackson,21109,Kentucky,37.4198,-84.0058
+Grundy,47061,Tennessee,35.3884,-85.7226
+Goshen,56015,Wyoming,42.0879,-104.3533
+Clay,01027,Alabama,33.269,-85.8606
+McKenzie,38053,North Dakota,47.7402,-103.3953
+Howard,05061,Arkansas,34.0888,-93.9935
+Douglas,29067,Missouri,36.9326,-92.4988
+Macon,13193,Georgia,32.3584,-84.0425
+Morgan,21175,Kentucky,37.9223,-83.2589
+Clay,17025,Illinois,38.7542,-88.4902
+Ford,17053,Illinois,40.5972,-88.2233
+Jackson,20085,Kansas,39.4168,-95.7937
+Archuleta,08007,Colorado,37.1935,-107.0483
+Wayne,29223,Missouri,37.1126,-90.4614
+Madison,51113,Virginia,38.4137,-78.2792
+Greene,17061,Illinois,39.3562,-90.3905
+Moffat,08081,Colorado,40.6184,-108.2074
+Buffalo,55011,Wisconsin,44.3798,-91.7545
+Lamb,48279,Texas,34.0686,-102.3517
+Cass,19029,Iowa,41.3315,-94.9278
+Vinton,39163,Ohio,39.251,-82.4853
+Webster,21233,Kentucky,37.5184,-87.6832
+Charlton,13049,Georgia,30.7817,-82.1379
+Fremont,16043,Idaho,44.2288,-111.4819
+Breathitt,21025,Kentucky,37.5216,-83.3241
+Amelia,51007,Virginia,37.336,-77.9761
+Choctaw,01023,Alabama,32.0198,-88.2632
+Camp,48063,Texas,32.9732,-94.9785
+Millard,49027,Utah,39.0732,-113.1006
+Martinsville,51690,Virginia,36.6827,-79.8636
+Summers,54089,West Virginia,37.6559,-80.8586
+Wilbarger,48487,Texas,34.0808,-99.241
+Dawson,48115,Texas,32.7426,-101.9476
+Bleckley,13023,Georgia,32.4344,-83.3279
+Sumter,01119,Alabama,32.5911,-88.1988
+Butler,21031,Kentucky,37.2073,-86.6816
+Wright,19197,Iowa,42.7331,-93.7351
+Lake,46079,South Dakota,44.0221,-97.1294
+Presque Isle,26141,Michigan,45.3402,-83.9176
+Caldwell,21033,Kentucky,37.1454,-87.8679
+Pamlico,37137,North Carolina,35.1435,-76.7407
+Trinity,06105,California,40.6507,-123.1126
+Haskell,40061,Oklahoma,35.2248,-95.1166
+Lawrence,28077,Mississippi,31.5502,-90.107
+Shoshone,16079,Idaho,47.3529,-115.8924
+Pulaski,18131,Indiana,41.0419,-86.6988
+Allen,20001,Kansas,37.8857,-95.3014
+Terry,48445,Texas,33.1738,-102.3352
+DeKalb,29063,Missouri,39.8932,-94.4047
+Koochiching,27071,Minnesota,48.2453,-93.7834
+Johnson,17087,Illinois,37.4597,-88.8809
+Cass,17017,Illinois,39.9735,-90.2474
+Magoffin,21153,Kentucky,37.7065,-83.0649
+Stone,05137,Arkansas,35.8599,-92.1567
+Appanoose,19007,Iowa,40.7432,-92.8686
+Amite,28005,Mississippi,31.1744,-90.8044
+Conecuh,01035,Alabama,31.4292,-86.9937
+Pike,18125,Indiana,38.3988,-87.2322
+Morris,48343,Texas,33.1135,-94.7327
+Yalobusha,28161,Mississippi,34.0282,-89.7077
+Union,19175,Iowa,41.0277,-94.2424
+Bath,21011,Kentucky,38.145,-83.7427
+Little River,05081,Arkansas,33.7005,-94.2343
+Crawford,13079,Georgia,32.7145,-83.9863
+Todd,21219,Kentucky,36.8357,-87.1792
+Menard,17129,Illinois,40.0274,-89.8022
+Powell,21197,Kentucky,37.8311,-83.8237
+Grundy,19075,Iowa,42.4019,-92.7914
+Lunenburg,51111,Virginia,36.9462,-78.2406
+Fulton,05049,Arkansas,36.3817,-91.8182
+Bollinger,29017,Missouri,37.3222,-90.0259
+Northumberland,51133,Virginia,37.8876,-76.4197
+Madison,29123,Missouri,37.478,-90.345
+Red River,48387,Texas,33.6207,-95.0503
+Colfax,35007,New Mexico,36.6061,-104.6468
+Live Oak,48297,Texas,28.3514,-98.1248
+Edmonson,21061,Kentucky,37.2088,-86.2384
+Linn,29115,Missouri,39.8702,-93.1072
+Meigs,47121,Tennessee,35.5128,-84.8134
+Poquoson,51735,Virginia,37.1318,-76.3569
+Okfuskee,40107,Oklahoma,35.4655,-96.3228
+Charlotte,51037,Virginia,37.0116,-78.6616
+Zavala,48507,Texas,28.8662,-99.7606
+Lewis,47101,Tennessee,35.5273,-87.4931
+Chickasaw,19037,Iowa,43.0601,-92.3177
+Washington,21229,Kentucky,37.7534,-85.1748
+Prowers,08099,Colorado,37.9552,-102.3934
+Blackford,18009,Indiana,40.4736,-85.3248
+Perry,28111,Mississippi,31.172,-88.9924
+Marion,20115,Kansas,38.3589,-97.0969
+Chippewa,27023,Minnesota,45.0224,-95.5667
+Washington,37187,North Carolina,35.8226,-76.5775
+Jefferson,30043,Montana,46.1485,-112.0938
+Northampton,51131,Virginia,37.343,-75.877
+Big Horn,56003,Wyoming,44.5267,-107.9952
+Lake,26085,Michigan,43.9901,-85.8016
+Boundary,16021,Idaho,48.7669,-116.4629
+Franklin,12037,Florida,29.8765,-84.814
+Barton,29011,Missouri,37.5023,-94.3471
+Lyon,19119,Iowa,43.3805,-96.2102
+Rains,48379,Texas,32.8703,-95.7934
+Skamania,53059,Washington,46.023,-121.9147
+Heard,13149,Georgia,33.297,-85.1283
+Custer,30017,Montana,46.2527,-105.5717
+Desha,05041,Arkansas,33.8333,-91.254
+Decatur,47039,Tennessee,35.603,-88.1088
+Jackson,47087,Tennessee,36.3592,-85.6732
+Sanders,30089,Montana,47.6748,-115.1333
+Marshall,17123,Illinois,41.0332,-89.3448
+Morgan,49029,Utah,41.0893,-111.5732
+Ward,48475,Texas,31.5095,-103.1025
+Martin,21159,Kentucky,37.8016,-82.5132
+Towns,13281,Georgia,34.9167,-83.7373
+Grant,54023,West Virginia,39.1051,-79.1956
+Shelby,19165,Iowa,41.6851,-95.3102
+Ramsey,38071,North Dakota,48.2689,-98.7201
+Owyhee,16073,Idaho,42.5815,-116.1699
+Gates,37073,North Carolina,36.4449,-76.7005
+Wabash,17185,Illinois,38.4461,-87.8443
+Greensville,51081,Virginia,36.6759,-77.5596
+Montgomery,29139,Missouri,38.9415,-91.4702
+Blanco,48031,Texas,30.2664,-98.3999
+Teton,16081,Idaho,43.7594,-111.2076
+Sussex,51183,Virginia,36.9217,-77.2618
+Cherokee,19035,Iowa,42.7356,-95.6238
+Jefferson Davis,28065,Mississippi,31.5697,-89.823
+Noble,40103,Oklahoma,36.3886,-97.2305
+Madison,22065,Louisiana,32.3644,-91.2426
+Rio Grande,08105,Colorado,37.5825,-106.3832
+Morrow,41049,Oregon,45.4189,-119.5844
+Juab,49023,Utah,39.7027,-112.7848
+Cottonwood,27033,Minnesota,44.0071,-95.1812
+Duval,48131,Texas,27.6814,-98.5089
+Washita,40149,Oklahoma,35.2904,-98.9922
+Fergus,30027,Montana,47.2636,-109.2245
+Pulaski,13235,Georgia,32.2323,-83.476
+Bacon,13005,Georgia,31.5537,-82.4527
+Richland,30083,Montana,47.7879,-104.5614
+Louisa,19115,Iowa,41.2185,-91.2596
+Roosevelt,30085,Montana,48.2945,-105.0164
+Nantucket,25019,Massachusetts,41.2831,-70.0692
+Iron,26071,Michigan,46.2087,-88.5305
+Pushmataha,40127,Oklahoma,34.4162,-95.3759
+Johnston,40069,Oklahoma,34.3165,-96.6606
+Pope,27121,Minnesota,45.586,-95.4445
+West Carroll,22123,Louisiana,32.7885,-91.4568
+Sierra,35051,New Mexico,33.1305,-107.1924
+Alleghany,37005,North Carolina,36.4913,-81.1279
+Essex,51057,Virginia,37.9434,-76.9514
+Green,21087,Kentucky,37.264,-85.5531
+Watonwan,27165,Minnesota,43.9784,-94.6141
+Box Butte,31013,Nebraska,42.2198,-103.0857
+Clay,37043,North Carolina,35.0572,-83.7502
+Bradley,05011,Arkansas,33.4664,-92.1624
+Cumberland,17035,Illinois,39.2734,-88.2402
+Custer,31041,Nebraska,41.3943,-99.7261
+Candler,13043,Georgia,32.4034,-82.0737
+Hancock,19081,Iowa,43.0819,-93.7343
+Owen,21187,Kentucky,38.5197,-84.8281
+Mackinac,26097,Michigan,46.0802,-85.0868
+Red Willow,31145,Nebraska,40.1758,-100.4769
+Coosa,01037,Alabama,32.9362,-86.2477
+Pike,05109,Arkansas,34.1635,-93.6563
+Walsh,38099,North Dakota,48.3695,-97.7213
+Lancaster,51103,Virginia,37.7345,-76.4632
+Franklin,48159,Texas,33.1755,-95.2184
+Colfax,31037,Nebraska,41.574,-97.0865
+Valley,16085,Idaho,44.7666,-115.5663
+Barnes,38003,North Dakota,46.9361,-98.0716
+Noxubee,28103,Mississippi,33.1101,-88.5697
+Evans,13109,Georgia,32.1568,-81.8869
+Switzerland,18155,Indiana,38.8262,-85.037
+Wilcox,01131,Alabama,31.9893,-87.3082
+Middlesex,51119,Virginia,37.6303,-76.5697
+Carroll,21041,Kentucky,38.6678,-85.1236
+Guthrie,19077,Iowa,41.6837,-94.5011
+Oregon,29149,Missouri,36.6867,-91.4033
+Monroe,21171,Kentucky,36.7122,-85.7165
+Chicot,05017,Arkansas,33.2672,-91.294
+Mitchell,19131,Iowa,43.3564,-92.789
+Carbon,30009,Montana,45.2274,-109.0281
+Lincoln,53043,Washington,47.5763,-118.4187
+Crawford,18025,Indiana,38.2924,-86.4517
+Lake,27075,Minnesota,47.6409,-91.4457
+Chattahoochee,13053,Georgia,32.347,-84.787
+Camden,37029,North Carolina,36.3877,-76.2064
+Winnebago,19189,Iowa,43.3775,-93.7341
+Sabine,48403,Texas,31.3432,-93.8517
+Dimmit,48127,Texas,28.4225,-99.7566
+Clay,48077,Texas,33.7855,-98.2085
+Lanier,13173,Georgia,31.0379,-83.0628
+Scott,05127,Arkansas,34.8608,-94.0633
+Perry,05105,Arkansas,34.9474,-92.9315
+Alcona,26001,Michigan,44.6854,-83.5937
+Latimer,40077,Oklahoma,34.876,-95.2504
+Nowata,40105,Oklahoma,36.7985,-95.6174
+Mountrail,38061,North Dakota,48.2013,-102.3557
+Early,13099,Georgia,31.3228,-84.9037
+St. Helena,22091,Louisiana,30.822,-90.7103
+Roberts,46109,South Dakota,45.6296,-96.9461
+Leslie,21131,Kentucky,37.0941,-83.3811
+Runnels,48399,Texas,31.8311,-99.9762
+Bullock,01011,Alabama,32.1005,-85.7157
+Ralls,29173,Missouri,39.5277,-91.522
+Trousdale,47169,Tennessee,36.3921,-86.1568
+Butte,46019,South Dakota,44.9058,-103.5079
+Martin,18101,Indiana,38.708,-86.8031
+Todd,46121,South Dakota,43.1934,-100.7185
+Clinton,21053,Kentucky,36.7274,-85.1362
+Keokuk,19107,Iowa,41.3365,-92.1786
+Holt,31089,Nebraska,42.4557,-98.7838
+Iron,29093,Missouri,37.5552,-90.7735
+Franklin,19069,Iowa,42.7325,-93.2625
+Ochiltree,48357,Texas,36.2784,-100.8157
+Nemaha,20131,Kansas,39.7834,-96.0141
+Emery,49015,Utah,38.9968,-110.7006
+Lowndes,01085,Alabama,32.1547,-86.6501
+Carroll,28015,Mississippi,33.4485,-89.9202
+Montgomery,28097,Mississippi,33.494,-89.6164
+Love,40085,Oklahoma,33.9499,-97.2441
+Howard,29089,Missouri,39.1425,-92.6963
+Washington,16087,Idaho,44.4524,-116.7847
+Montgomery,19137,Iowa,41.0302,-95.1564
+Metcalfe,21169,Kentucky,36.9905,-85.6292
+Marion,48315,Texas,32.798,-94.3572
+Yuma,08125,Colorado,40.0029,-102.4242
+Caldwell,22021,Louisiana,32.0923,-92.1166
+Grundy,29079,Missouri,40.1139,-93.5653
+Nome,02180,Alaska,64.9111,-164.0272
+Tunica,28143,Mississippi,34.652,-90.3755
+Lewis,29111,Missouri,40.0969,-91.7221
+Jackson,27063,Minnesota,43.6741,-95.154
+Kemper,28069,Mississippi,32.7546,-88.6412
+Sublette,56035,Wyoming,42.7669,-109.9147
+Ritchie,54085,West Virginia,39.1783,-81.063
+Wilkes,13317,Georgia,33.7819,-82.7432
+Cumberland,51049,Virginia,37.5121,-78.2449
+Yellow Medicine,27173,Minnesota,44.7163,-95.8684
+Sac,19161,Iowa,42.3862,-95.1054
+North Slope,02185,Alaska,69.3122,-153.481
+Stevens,27149,Minnesota,45.5861,-96.0003
+Webster,28155,Mississippi,33.6131,-89.2848
+Catahoula,22025,Louisiana,31.6661,-91.8471
+Marshall,20117,Kansas,39.7836,-96.5229
+Calhoun,19025,Iowa,42.3852,-94.6404
+Parmer,48369,Texas,34.5301,-102.7845
+Johnson,13167,Georgia,32.7015,-82.6601
+White Pine,32033,Nevada,39.4421,-114.9016
+Linn,20107,Kansas,38.2123,-94.843
+Rice,20159,Kansas,38.3472,-98.201
+Grand,49019,Utah,38.982,-109.5699
+Brown,20013,Kansas,39.8265,-95.5642
+Cheyenne,31033,Nebraska,41.2198,-102.995
+Jones,37103,North Carolina,35.0217,-77.3552
+Jasper,17079,Illinois,39.0101,-88.1538
+McLean,38055,North Dakota,47.6069,-101.3218
+Blaine,40011,Oklahoma,35.8752,-98.4334
+Humboldt,19091,Iowa,42.7765,-94.2072
+McCormick,45065,South Carolina,33.8996,-82.3099
+Greenlee,04011,Arizona,33.2152,-109.2402
+Clear Creek,08019,Colorado,39.6891,-105.6444
+Stillwater,30095,Montana,45.669,-109.3952
+Pratt,20151,Kansas,37.6477,-98.7396
+Emmet,19063,Iowa,43.3779,-94.6784
+Beaverhead,30001,Montana,45.1327,-112.8988
+Hickory,29085,Missouri,37.9408,-93.3207
+Rock,27133,Minnesota,43.6747,-96.2532
+Marshall,27089,Minnesota,48.3581,-96.3685
+St. Clair,29185,Missouri,38.0372,-93.776
+Stephens,48429,Texas,32.7359,-98.8362
+Clarke,19039,Iowa,41.029,-93.7852
+Swift,27151,Minnesota,45.2827,-95.6814
+Charles Mix,46023,South Dakota,43.2079,-98.5879
+Wayne,31179,Nebraska,42.2093,-97.1193
+Irwin,13155,Georgia,31.6022,-83.2764
+Perry,01105,Alabama,32.6385,-87.2944
+McLean,21149,Kentucky,37.5292,-87.2636
+Montmorency,26119,Michigan,45.0276,-84.1272
+Valdez-Cordova,02261,Alaska,61.562,-144.4686
+Livingston,21139,Kentucky,37.2096,-88.3537
+Brewster,48043,Texas,29.8119,-103.2517
+Howard,19089,Iowa,43.3568,-92.3172
+Hamilton,31081,Nebraska,40.873,-98.0229
+Ozark,29153,Missouri,36.6493,-92.4447
+Lee,05077,Arkansas,34.7806,-90.7821
+Pipestone,27117,Minnesota,44.023,-96.2586
+Rosebud,30087,Montana,46.2297,-106.7307
+Alger,26003,Michigan,46.4086,-86.604
+Benewah,16009,Idaho,47.2176,-116.6587
+Deer Lodge,30023,Montana,46.0607,-113.0679
+Phelps,31137,Nebraska,40.5111,-99.4145
+Claiborne,28021,Mississippi,31.9737,-90.9118
+Montgomery,13209,Georgia,32.1734,-82.5348
+Woods,40151,Oklahoma,36.7669,-98.8651
+Caldwell,29025,Missouri,39.6557,-93.9827
+Allendale,45005,South Carolina,32.9881,-81.3583
+Dawson,30021,Montana,47.2664,-104.8995
+Wilkinson,13319,Georgia,32.8024,-83.1712
+Palo Alto,19147,Iowa,43.0821,-94.6781
+Crittenden,21055,Kentucky,37.3527,-88.0972
+Forest,55041,Wisconsin,45.6673,-88.7704
+Cuming,31039,Nebraska,41.9164,-96.7874
+Montgomery,05097,Arkansas,34.5388,-93.6596
+Greene,19073,Iowa,42.0362,-94.3968
+Cloud,20029,Kansas,39.4803,-97.6493
+Davis,19051,Iowa,40.7477,-92.4097
+Modoc,06049,California,41.5898,-120.725
+Kiowa,40075,Oklahoma,34.9164,-98.9809
+Richmond,51159,Virginia,37.9434,-76.7269
+Wilkinson,28157,Mississippi,31.1611,-91.3109
+Somervell,48425,Texas,32.2223,-97.7744
+Jack,48237,Texas,33.2335,-98.1725
+Wilcox,13315,Georgia,31.9729,-83.4323
+Clearwater,27029,Minnesota,47.5775,-95.379
+Tyler,54095,West Virginia,39.4653,-80.8848
+Dawes,31045,Nebraska,42.7197,-103.1354
+Maries,29125,Missouri,38.1616,-91.9249
+Jenkins,13165,Georgia,32.7924,-81.9635
+Mathews,51115,Virginia,37.4354,-76.3436
+Carroll,29033,Missouri,39.427,-93.5052
+Terrell,13273,Georgia,31.777,-84.437
+Gallatin,21077,Kentucky,38.7569,-84.8593
+Monona,19133,Iowa,42.0516,-95.9599
+Hancock,21091,Kentucky,37.8415,-86.7779
+Custer,46033,South Dakota,43.6776,-103.4515
+Archer,48009,Texas,33.6153,-98.6877
+Clay,54015,West Virginia,38.4625,-81.0751
+Wilson,20205,Kansas,37.5593,-95.7434
+Benton,18007,Indiana,40.6063,-87.3109
+Clearwater,16035,Idaho,46.6736,-115.6567
+Sitka,02220,Alaska,57.2401,-135.3153
+Lafayette,12067,Florida,29.9855,-83.1811
+Yoakum,48501,Texas,33.173,-102.8278
+Monroe,29137,Missouri,39.4955,-92.0007
+Lucas,19117,Iowa,41.0294,-93.3277
+Platte,56031,Wyoming,42.1331,-104.9659
+Red River,22081,Louisiana,32.0931,-93.3399
+Doddridge,54017,West Virginia,39.2692,-80.707
+Trimble,21223,Kentucky,38.613,-85.3375
+Mitchell,48335,Texas,32.3062,-100.9211
+Hancock,13141,Georgia,33.2704,-83.0007
+Graham,37075,North Carolina,35.3502,-83.8335
+Cedar,31027,Nebraska,42.5993,-97.2524
+Harrison,29081,Missouri,40.3547,-93.992
+Johnson,56019,Wyoming,44.0388,-106.5846
+Mercer,38057,North Dakota,47.3092,-101.8315
+Pocahontas,54075,West Virginia,38.3318,-80.0078
+Marion,13197,Georgia,32.3534,-84.5247
+Knox,31107,Nebraska,42.6368,-97.8919
+Baraga,26013,Michigan,46.6626,-88.3652
+Humphreys,28053,Mississippi,33.1287,-90.5266
+Webster,54101,West Virginia,38.4947,-80.4219
+Nevada,05099,Arkansas,33.664,-93.3072
+Liberty,12077,Florida,30.2414,-84.8829
+Coleman,48083,Texas,31.7732,-99.4536
+Hamilton,48193,Texas,31.7048,-98.1107
+Quay,35037,New Mexico,35.1043,-103.5498
+Greene,01063,Alabama,32.8531,-87.9522
+Seminole,13253,Georgia,30.9388,-84.8688
+Bracken,21023,Kentucky,38.6888,-84.0901
+Madison,30057,Montana,45.3007,-111.9203
+Turner,46125,South Dakota,43.3109,-97.1487
+Murray,27101,Minnesota,44.0222,-95.7633
+Daviess,29061,Missouri,39.9608,-93.9855
+San Augustine,48405,Texas,31.3942,-94.1682
+Choctaw,28019,Mississippi,33.3473,-89.2484
+Lyon,21143,Kentucky,37.0191,-88.0832
+Coffey,20031,Kansas,38.2369,-95.7341
+Kusilvak,02158,Alaska,62.155,-163.3826
+Oscoda,26135,Michigan,44.6818,-84.1298
+Atkinson,13003,Georgia,31.2971,-82.8801
+Warren,18171,Indiana,40.3469,-87.3533
+Benton,28009,Mississippi,34.8173,-89.1885
+Twiggs,13289,Georgia,32.6672,-83.4271
+Shannon,29203,Missouri,37.1574,-91.4005
+Prairie,05117,Arkansas,34.8298,-91.5528
+Hamilton,17065,Illinois,38.0815,-88.5391
+Houston,47083,Tennessee,36.286,-87.717
+Franklin,51620,Virginia,36.6831,-76.9386
+Cleveland,05025,Arkansas,33.8984,-92.1852
+Conejos,08021,Colorado,37.2007,-106.1916
+Taylor,13269,Georgia,32.5555,-84.2505
+Clay,20027,Kansas,39.3497,-97.1652
+Keith,31101,Nebraska,41.1989,-101.6613
+McCulloch,48307,Texas,31.1989,-99.3476
+San Miguel,08113,Colorado,38.0038,-108.4057
+Schoolcraft,26153,Michigan,46.1966,-86.1997
+Gilmer,54021,West Virginia,38.924,-80.8571
+Ballard,21007,Kentucky,37.0585,-88.9993
+Butler,31023,Nebraska,41.2261,-97.1318
+Washakie,56043,Wyoming,43.905,-107.6827
+Traill,38097,North Dakota,47.4542,-97.1616
+Decatur,19053,Iowa,40.7377,-93.7863
+Perry,47135,Tennessee,35.6426,-87.8589
+Richardson,31147,Nebraska,40.125,-95.7175
+Turner,13287,Georgia,31.7164,-83.6241
+Wheeler,13309,Georgia,32.1171,-82.7246
+Searcy,05129,Arkansas,35.9109,-92.6996
+Winkler,48495,Texas,31.85,-103.0483
+Lincoln,13181,Georgia,33.7936,-82.4512
+Lemhi,16059,Idaho,44.9433,-113.9333
+Lake,41037,Oregon,42.7935,-120.3874
+Anderson,20003,Kansas,38.2142,-95.2933
+Newton,05101,Arkansas,35.92,-93.2179
+Thomas,20193,Kansas,39.3509,-101.0556
+Monroe,19135,Iowa,41.0298,-92.869
+Merrick,31121,Nebraska,41.169,-98.038
+Lake,08065,Colorado,39.2025,-106.3448
+Franklin,28037,Mississippi,31.4772,-90.8979
+Northwest Arctic,02188,Alaska,67.053,-159.721
+Major,40093,Oklahoma,36.3116,-98.5359
+Doniphan,20043,Kansas,39.7881,-95.1468
+Castro,48069,Texas,34.5299,-102.2617
+Power,16077,Idaho,42.6937,-112.8407
+Clay,47027,Tennessee,36.5511,-85.5439
+Dade,29057,Missouri,37.4321,-93.8503
+Ferry,53019,Washington,48.4703,-118.5166
+Goliad,48175,Texas,28.6571,-97.4264
+Elliott,21063,Kentucky,38.1179,-83.0976
+Kane,49025,Utah,37.2851,-111.8878
+Chariton,29041,Missouri,39.5151,-92.9626
+Pleasants,54073,West Virginia,39.371,-81.1606
+Crook,56011,Wyoming,44.5885,-104.5699
+Valley,30105,Montana,48.3653,-106.6674
+Grant,20067,Kansas,37.5623,-101.308
+Kit Carson,08063,Colorado,39.3055,-102.603
+Worth,19195,Iowa,43.3774,-93.2608
+Swisher,48437,Texas,34.5304,-101.735
+La Salle,48283,Texas,28.3451,-99.0996
+Tillman,40141,Oklahoma,34.3728,-98.9242
+Lake,47095,Tennessee,36.3352,-89.4935
+Boise,16015,Idaho,43.9891,-115.7304
+Rappahannock,51157,Virginia,38.6848,-78.1592
+Kingman,20095,Kansas,37.5589,-98.1363
+Forest,42053,Pennsylvania,41.513,-79.236
+Hutchinson,46067,South Dakota,43.3349,-97.7544
+Dallam,48111,Texas,36.2779,-102.6022
+Calhoun,54013,West Virginia,38.8445,-81.1176
+Dallas,05039,Arkansas,33.9698,-92.6544
+Harney,41025,Oregon,43.0641,-118.968
+Pepin,55091,Wisconsin,44.5829,-92.0016
+Childress,48075,Texas,34.5291,-100.2076
+Lexington,51678,Virginia,37.7825,-79.444
+Jefferson,28063,Mississippi,31.7343,-91.0373
+Wolfe,21237,Kentucky,37.7393,-83.4932
+Grant,41023,Oregon,44.4916,-119.0073
+Quitman,28119,Mississippi,34.2514,-90.2891
+Thurston,31173,Nebraska,42.1582,-96.544
+Nicholas,21181,Kentucky,38.3356,-84.0153
+Van Buren,19177,Iowa,40.7532,-91.95
+Grant,46051,South Dakota,45.1719,-96.7677
+Refugio,48391,Texas,28.3253,-97.1657
+Jefferson,31095,Nebraska,40.1757,-97.1427
+Pierce,31139,Nebraska,42.2644,-97.6013
+Brooks,48047,Texas,27.0316,-98.2187
+Union,18161,Indiana,39.6256,-84.9251
+Bailey,48017,Texas,34.0686,-102.8299
+East Carroll,22035,Louisiana,32.7325,-91.2351
+Adair,19001,Iowa,41.3307,-94.471
+Monroe,05095,Arkansas,34.6778,-91.2039
+Weston,56045,Wyoming,43.8404,-104.5676
+King and Queen,51097,Virginia,37.7186,-76.8953
+Grand Isle,50013,Vermont,44.7968,-73.2949
+Charles City,51036,Virginia,37.3567,-77.0622
+Wallowa,41063,Oregon,45.5799,-117.1811
+Pendleton,54071,West Virginia,38.6807,-79.3509
+Tucker,54093,West Virginia,39.1136,-79.565
+Presidio,48377,Texas,29.9998,-104.2405
+Nemaha,31127,Nebraska,40.3877,-95.8498
+Randolph,13243,Georgia,31.7626,-84.7542
+Schuyler,17169,Illinois,40.158,-90.6151
+Caribou,16029,Idaho,42.7705,-111.5623
+Russell,20167,Kansas,38.9148,-98.7624
+Pembina,38067,North Dakota,48.7675,-97.5518
+Fremont,19071,Iowa,40.7456,-95.6047
+Cameron,22023,Louisiana,29.8754,-93.1938
+Bon Homme,46009,South Dakota,42.9885,-97.8846
+Ida,19093,Iowa,42.3869,-95.5135
+Wabaunsee,20197,Kansas,38.9533,-96.205
+Lee,21129,Kentucky,37.5948,-83.7162
+Southeast Fairbanks,02240,Alaska,63.8763,-143.2118
+Benson,38005,North Dakota,48.0694,-99.366
+Powell,30077,Montana,46.8564,-112.9361
+Henderson,17071,Illinois,40.818,-90.9251
+Lafayette,05073,Arkansas,33.2409,-93.6071
+Pocahontas,19151,Iowa,42.7342,-94.6787
+Treutlen,13283,Georgia,32.4039,-82.5673
+Clark,29045,Missouri,40.4103,-91.7384
+Fall River,46047,South Dakota,43.2394,-103.5275
+Lac qui Parle,27073,Minnesota,44.9955,-96.1735
+Blaine,30005,Montana,48.4327,-108.9586
+Cumberland,21057,Kentucky,36.7866,-85.3885
+Clinch,13065,Georgia,30.915,-82.7063
+Huerfano,08055,Colorado,37.6847,-104.9606
+Pawnee,20145,Kansas,38.1813,-99.2367
+Brown,17009,Illinois,39.9618,-90.7504
+Gentry,29075,Missouri,40.2121,-94.4099
+Pershing,32027,Nevada,40.4404,-118.4044
+Saguache,08109,Colorado,38.0805,-106.2815
+Hancock,47067,Tennessee,36.5236,-83.2219
+Woodruff,05147,Arkansas,35.1863,-91.2431
+Kearney,31099,Nebraska,40.5067,-98.948
+Surry,51181,Virginia,37.1098,-76.9002
+Norman,27107,Minnesota,47.3265,-96.4553
+Beaver,49001,Utah,38.357,-113.2355
+Galax,51640,Virginia,36.6661,-80.9176
+Burt,31021,Nebraska,41.8515,-96.3286
+Moody,46101,South Dakota,44.022,-96.6709
+Bottineau,38009,North Dakota,48.7922,-100.8333
+Buena Vista,51530,Virginia,37.7319,-79.3569
+Spink,46115,South Dakota,44.938,-98.3462
+Edwards,17047,Illinois,38.4165,-88.0533
+Menifee,21165,Kentucky,37.9414,-83.5989
+Wayne,19185,Iowa,40.7395,-93.3274
+Howard,31093,Nebraska,41.2201,-98.5171
+Prince of Wales-Hyder,02198,Alaska,55.7997,-133.0192
+Bland,51021,Virginia,37.134,-81.1302
+Rio Blanco,08103,Colorado,39.9798,-108.2171
+Moore,47127,Tennessee,35.2846,-86.3587
+Calhoun,13037,Georgia,31.5292,-84.6245
+Antelope,31003,Nebraska,42.1769,-98.0667
+Luce,26095,Michigan,46.4707,-85.5444
+Talbot,13263,Georgia,32.6995,-84.533
+Stewart,13259,Georgia,32.0785,-84.8352
+Wilkin,27167,Minnesota,46.3571,-96.4683
+Reynolds,29179,Missouri,37.3623,-90.9691
+Alexander,17003,Illinois,37.1915,-89.3375
+Sullivan,29211,Missouri,40.2106,-93.1115
+Ellsworth,20053,Kansas,38.6966,-98.2047
+Clay,31035,Nebraska,40.5244,-98.0513
+Essex,50009,Vermont,44.728,-71.7362
+Taylor,19173,Iowa,40.7374,-94.6964
+Jefferson,40067,Oklahoma,34.111,-97.8358
+Carter,29035,Missouri,36.9412,-90.9623
+Mitchell,20123,Kansas,39.3933,-98.2094
+Sullivan,42113,Pennsylvania,41.4462,-76.5122
+Fulton,21075,Kentucky,36.554,-89.1873
+Teton,30099,Montana,47.8371,-112.2409
+Greenwood,20073,Kansas,37.8778,-96.2326
+Garza,48169,Texas,33.1799,-101.2985
+Osceola,19143,Iowa,43.3786,-95.6237
+Gray,20069,Kansas,37.7382,-100.4379
+Hamlin,46057,South Dakota,44.6738,-97.1883
+Gilpin,08047,Colorado,39.8575,-105.5226
+Shelby,29205,Missouri,39.7978,-92.0766
+Carson,48065,Texas,35.4035,-101.3542
+Bear Lake,16007,Idaho,42.2848,-111.3297
+Pondera,30073,Montana,48.2277,-112.2263
+San Saba,48411,Texas,31.1552,-98.8176
+Stanton,31167,Nebraska,41.9169,-97.1939
+Broadwater,30007,Montana,46.3324,-111.4955
+Sherman,20181,Kansas,39.3514,-101.72
+Grant,27051,Minnesota,45.9341,-96.0122
+McHenry,38049,North Dakota,48.2346,-100.6363
+Ontonagon,26131,Michigan,46.6645,-89.3149
+Ohio,18115,Indiana,38.9501,-84.9651
+Greer,40055,Oklahoma,34.9357,-99.5608
+Cotton,40033,Oklahoma,34.2902,-98.3722
+Alfalfa,40003,Oklahoma,36.7311,-98.324
+Crosby,48107,Texas,33.6147,-101.3
+Dewey,46041,South Dakota,45.1566,-100.8718
+Lynn,48305,Texas,33.1768,-101.8161
+Ottawa,20143,Kansas,39.1325,-97.6502
+Floyd,48153,Texas,34.0724,-101.3032
+Wirt,54105,West Virginia,39.0224,-81.3787
+Miller,13201,Georgia,31.164,-84.7308
+Bent,08011,Colorado,37.9551,-103.0717
+Cherry,31031,Nebraska,42.545,-101.1186
+Van Buren,47175,Tennessee,35.696,-85.4526
+Crowley,08025,Colorado,38.3266,-103.7845
+Chouteau,30015,Montana,47.8806,-110.4352
+Haskell,48207,Texas,33.1782,-99.7303
+Putnam,17155,Illinois,41.2045,-89.2858
+Dixon,31051,Nebraska,42.4932,-96.8678
+Aleutians West,02016,Alaska,52.798,-106.6061
+Iron,55051,Wisconsin,46.2623,-90.2421
+Lincoln,27081,Minnesota,44.4126,-96.2671
+Hartley,48205,Texas,35.84,-102.6029
+Martin,48317,Texas,32.306,-101.9513
+Lander,32015,Nevada,39.9337,-117.038
+Stevens,20189,Kansas,37.1923,-101.3121
+Covington,51580,Virginia,37.7785,-79.9868
+Harper,20077,Kansas,37.1916,-98.0755
+Lincoln,08073,Colorado,38.9881,-103.514
+Coal,40029,Oklahoma,34.5882,-96.2978
+Audubon,19009,Iowa,41.6846,-94.9058
+Morris,20127,Kansas,38.6874,-96.6499
+McCook,46087,South Dakota,43.6743,-97.3685
+Fillmore,31059,Nebraska,40.5247,-97.5965
+Hansford,48195,Texas,36.2774,-101.3546
+Pulaski,17153,Illinois,37.223,-89.1266
+Mahnomen,27087,Minnesota,47.3253,-95.809
+Washington,20201,Kansas,39.7842,-97.0875
+Day,46037,South Dakota,45.3671,-97.6074
+Tripp,46123,South Dakota,43.3459,-99.884
+Walworth,46129,South Dakota,45.4299,-100.0315
+Stark,17175,Illinois,41.0934,-89.7975
+Norton,20137,Kansas,39.7844,-99.9035
+Emporia,51595,Virginia,36.6953,-77.5356
+Yukon-Koyukuk,02290,Alaska,65.5086,-151.3896
+Beaver,40007,Oklahoma,36.7496,-100.4768
+Cook,27031,Minnesota,47.9026,-90.5346
+Lincoln,16063,Idaho,43.0024,-114.1383
+Phillips,20147,Kansas,39.7846,-99.347
+Wheeler,48483,Texas,35.4012,-100.2698
+Ransom,38073,North Dakota,46.4562,-97.6574
+Warren,13301,Georgia,33.4089,-82.6768
+Boone,31011,Nebraska,41.7068,-98.0672
+Brule,46015,South Dakota,43.7181,-99.0809
+Delta,48119,Texas,33.3863,-95.6724
+Jim Hogg,48247,Texas,27.0434,-98.6973
+Sheridan,31161,Nebraska,42.5048,-102.4089
+Atchison,29005,Missouri,40.4308,-95.4281
+Polk,31143,Nebraska,41.1869,-97.5684
+Schley,13249,Georgia,32.2617,-84.3148
+Hyde,37095,North Carolina,35.5305,-76.2508
+Calhoun,05013,Arkansas,33.558,-92.503
+Lincoln,32017,Nevada,37.6433,-114.8775
+Johnson,31097,Nebraska,40.3926,-96.2651
+Craig,51045,Virginia,37.4817,-80.2114
+Pickett,47137,Tennessee,36.5584,-85.0749
+Gallatin,17059,Illinois,37.7627,-88.2304
+Thayer,31169,Nebraska,40.1762,-97.595
+Rooks,20163,Kansas,39.3502,-99.325
+Scott,17171,Illinois,39.6441,-90.4747
+Garfield,49017,Utah,37.8549,-111.4431
+Big Stone,27011,Minnesota,45.4261,-96.4109
+Ringgold,19159,Iowa,40.7352,-94.244
+Dillingham,02070,Alaska,59.7991,-158.2351
+Kingsbury,46077,South Dakota,44.3696,-97.4915
+Dickey,38021,North Dakota,46.1102,-98.5047
+Dewey,40043,Oklahoma,35.9876,-99.0079
+Scott,20171,Kansas,38.4822,-100.9069
+Scotland,29199,Missouri,40.4526,-92.1471
+Toole,30101,Montana,48.6554,-111.6956
+Marshall,46091,South Dakota,45.7586,-97.5986
+Mills,48333,Texas,31.4952,-98.5955
+Washington,08121,Colorado,39.971,-103.2012
+Calhoun,17013,Illinois,39.1693,-90.6676
+Crane,48103,Texas,31.4286,-102.5156
+Ouray,08091,Colorado,38.1555,-107.7693
+Carlisle,21039,Kentucky,36.8532,-88.971
+Putnam,29171,Missouri,40.4789,-93.0162
+Morrill,31123,Nebraska,41.716,-103.0106
+Custer,08027,Colorado,38.1087,-105.3675
+Musselshell,30065,Montana,46.4966,-108.3981
+Furnas,31065,Nebraska,40.1764,-99.9123
+Republic,20157,Kansas,39.8278,-97.6506
+Barber,20007,Kansas,37.2289,-98.6848
+Cameron,42023,Pennsylvania,41.4368,-78.2039
+Hot Springs,56017,Wyoming,43.719,-108.4422
+Tensas,22107,Louisiana,32.0017,-91.3401
+Menominee,55078,Wisconsin,45.0044,-88.71
+Schuyler,29197,Missouri,40.4703,-92.521
+Mora,35033,New Mexico,36.0104,-104.9448
+Hamilton,36041,New York,43.6611,-74.4974
+Hickman,21105,Kentucky,36.6781,-88.9762
+Mineral,32021,Nevada,38.5388,-118.4351
+Owsley,21189,Kentucky,37.4192,-83.6831
+Holt,29087,Missouri,40.0944,-95.2155
+Hudspeth,48229,Texas,31.4562,-105.3865
+Sharkey,28125,Mississippi,32.8799,-90.8132
+Grant,40053,Oklahoma,36.7961,-97.7861
+Dunn,38025,North Dakota,47.3568,-102.6182
+Oneida,16071,Idaho,42.195,-112.5394
+Kimble,48267,Texas,30.4868,-99.7487
+Sioux,38085,North Dakota,46.1127,-101.0404
+Guadalupe,35019,New Mexico,34.8633,-104.7907
+Deuel,46039,South Dakota,44.76,-96.668
+Florence,55037,Wisconsin,45.8485,-88.3981
+Kittson,27069,Minnesota,48.7766,-96.7829
+Bath,51017,Virginia,38.0587,-79.7411
+Hidalgo,35023,New Mexico,31.914,-108.7148
+Phillips,08095,Colorado,40.594,-102.3576
+Wahkiakum,53069,Washington,46.2918,-123.4244
+Mineral,30061,Montana,47.1472,-114.9983
+Nuckolls,31129,Nebraska,40.1764,-98.0472
+Valley,31175,Nebraska,41.5673,-98.9819
+Pope,17151,Illinois,37.4127,-88.5615
+Mason,48319,Texas,30.7177,-99.2261
+Gregory,46053,South Dakota,43.1924,-99.1856
+Stafford,20185,Kansas,38.031,-98.7174
+Meade,20119,Kansas,37.2381,-100.3663
+Custer,16037,Idaho,44.2411,-114.2817
+Corson,46031,South Dakota,45.7086,-101.1969
+Union,35059,New Mexico,36.4816,-103.471
+Pierce,38069,North Dakota,48.2496,-99.9718
+LaMoure,38045,North Dakota,46.4569,-98.5355
+Adams,16003,Idaho,44.8896,-116.4538
+Tyrrell,37177,North Carolina,35.8172,-76.209
+Phillips,30071,Montana,48.2592,-107.9132
+Haskell,20081,Kansas,37.5622,-100.8712
+Red Lake,27125,Minnesota,47.8717,-96.0953
+Ellis,40045,Oklahoma,36.2183,-99.7546
+Hemphill,48211,Texas,35.8375,-100.2706
+Columbia,53013,Washington,46.2975,-117.9078
+Storey,32029,Nevada,39.4469,-119.5293
+Echols,13101,Georgia,30.7101,-82.894
+Wells,38103,North Dakota,47.5875,-99.6609
+Norton,51720,Virginia,36.9314,-82.6262
+Knox,29103,Missouri,40.1282,-92.1481
+Hardeman,48197,Texas,34.2902,-99.7457
+Hardin,17069,Illinois,37.5182,-88.2668
+Edmunds,46045,South Dakota,45.4188,-99.2153
+Kearny,20093,Kansas,38.0003,-101.3199
+Sargent,38081,North Dakota,46.1078,-97.6306
+Fisher,48151,Texas,32.7428,-100.4022
+Lyman,46085,South Dakota,43.8958,-99.8474
+Lewis,16061,Idaho,46.237,-116.4263
+Sutton,48435,Texas,30.4984,-100.5382
+Cavalier,38019,North Dakota,48.7723,-98.4648
+Chase,31029,Nebraska,40.5242,-101.698
+Lake of the Woods,27077,Minnesota,48.7712,-94.9046
+Reagan,48383,Texas,31.3661,-101.5231
+Harper,40059,Oklahoma,36.7888,-99.6674
+Costilla,08023,Colorado,37.2781,-105.4282
+Knox,48275,Texas,33.6061,-99.7414
+Clark,46025,South Dakota,44.8582,-97.7295
+Adams,19003,Iowa,41.029,-94.6992
+Sweet Grass,30097,Montana,45.8139,-109.941
+Roger Mills,40129,Oklahoma,35.6883,-99.6958
+Upton,48461,Texas,31.3688,-102.0431
+Kinney,48271,Texas,29.3501,-100.418
+Mercer,29129,Missouri,40.4223,-93.5686
+Kimball,31105,Nebraska,41.1978,-103.7149
+Smith,20183,Kansas,39.7852,-98.7855
+Baylor,48023,Texas,33.6165,-99.2135
+Baca,08009,Colorado,37.3192,-102.5604
+Nance,31125,Nebraska,41.3973,-97.9922
+Webster,31181,Nebraska,40.1764,-98.5
+Osborne,20141,Kansas,39.3503,-98.7679
+Catron,35003,New Mexico,33.9152,-108.4046
+Crockett,48105,Texas,30.7231,-101.412
+Sheridan,30091,Montana,48.7212,-104.5047
+Bennett,46007,South Dakota,43.195,-101.664
+Harlan,31083,Nebraska,40.1765,-99.4046
+Real,48385,Texas,29.8318,-99.8222
+Hanson,46061,South Dakota,43.6748,-97.7873
+Lipscomb,48295,Texas,36.2776,-100.2731
+Aleutians East,02013,Alaska,55.3665,-161.9813
+Donley,48129,Texas,34.9654,-100.814
+Chautauqua,20019,Kansas,37.15,-96.2454
+Granite,30039,Montana,46.4045,-113.4403
+Traverse,27155,Minnesota,45.7722,-96.4716
+Emmons,38029,North Dakota,46.2851,-100.2387
+Coke,48081,Texas,31.8886,-100.5299
+Shackelford,48417,Texas,32.7359,-99.3541
+Jackson,46071,South Dakota,43.6943,-101.6281
+Concho,48095,Texas,31.3266,-99.864
+Foster,38031,North Dakota,47.4571,-98.883
+Petersburg,02195,Alaska,57.1195,-132.9345
+Hand,46059,South Dakota,44.5478,-99.0049
+Woodson,20207,Kansas,37.8867,-95.7401
+Bowman,38011,North Dakota,46.1126,-103.5206
+Baker,13007,Georgia,31.3262,-84.4447
+Sherman,48421,Texas,36.2777,-101.8934
+Hall,48191,Texas,34.5308,-100.6811
+Lincoln,20105,Kansas,39.0453,-98.2077
+Sierra,06091,California,39.5803,-120.516
+Sherman,31163,Nebraska,41.2206,-98.9762
+Rush,20165,Kansas,38.5231,-99.3092
+Stanley,46117,South Dakota,44.4123,-100.7359
+Brown,31017,Nebraska,42.43,-99.9295
+Glascock,13125,Georgia,33.2293,-82.6107
+Franklin,31061,Nebraska,40.1763,-98.9528
+Schleicher,48413,Texas,30.8974,-100.5383
+Collingsworth,48087,Texas,34.9648,-100.27
+Clay,13061,Georgia,31.6263,-84.9801
+Douglas,46043,South Dakota,43.3869,-98.3661
+Fallon,30025,Montana,46.334,-104.4174
+Perkins,31135,Nebraska,40.851,-101.6497
+Perkins,46105,South Dakota,45.4905,-102.4757
+Nelson,38063,North Dakota,47.9217,-98.192
+Cochran,48079,Texas,33.6042,-102.8285
+Jewell,20089,Kansas,39.7847,-98.2183
+Ness,20135,Kansas,38.4794,-99.9161
+Edwards,20047,Kansas,37.8876,-99.3122
+Decatur,20039,Kansas,39.7847,-100.4599
+Trego,20195,Kansas,38.9143,-99.8728
+Hitchcock,31087,Nebraska,40.1763,-101.0423
+Logan,20109,Kansas,38.9173,-101.1484
+Ziebach,46137,South Dakota,44.9804,-101.6658
+Aurora,46003,South Dakota,43.718,-98.5616
+Morton,20129,Kansas,37.1914,-101.7992
+Harmon,40057,Oklahoma,34.7441,-99.8462
+Wayne,49055,Utah,38.3244,-110.9039
+Cheyenne,20023,Kansas,39.7859,-101.7313
+Pawnee,31133,Nebraska,40.1315,-96.2371
+Gove,20063,Kansas,38.9161,-100.483
+Frontier,31063,Nebraska,40.5301,-100.3942
+Chase,20017,Kansas,38.302,-96.5939
+Webster,13307,Georgia,32.0466,-84.551
+McIntosh,38051,North Dakota,46.1118,-99.4412
+Hamilton,20075,Kansas,37.9991,-101.7912
+Butte,16023,Idaho,43.7229,-113.1721
+Hettinger,38041,North Dakota,46.4325,-102.4603
+Elk,20049,Kansas,37.4537,-96.2441
+Graham,20065,Kansas,39.3497,-99.8832
+Haines,02100,Alaska,59.1199,-135.5
+Sheridan,20179,Kansas,39.3503,-100.4418
+Kiowa,20097,Kansas,37.5582,-99.2861
+Wrangell,02275,Alaska,56.3317,-132.0223
+Rawlins,20153,Kansas,39.7852,-101.0759
+Kidder,38043,North Dakota,46.9801,-99.7801
+Renville,38075,North Dakota,48.719,-101.6578
+Niobrara,56027,Wyoming,43.0564,-104.4754
+Griggs,38039,North Dakota,47.4573,-98.237
+Rich,49033,Utah,41.6323,-111.2445
+Greeley,31077,Nebraska,41.5674,-98.5212
+Sanborn,46111,South Dakota,44.0234,-98.0913
+Grant,38037,North Dakota,46.3583,-101.6397
+Liberty,30051,Montana,48.5617,-111.0246
+Divide,38023,North Dakota,48.8149,-103.4872
+Sedgwick,08115,Colorado,40.8759,-102.3518
+Potter,46107,South Dakota,45.0645,-99.9572
+Faulk,46049,South Dakota,45.071,-99.1453
+Adams,38001,North Dakota,46.0968,-102.5284
+Eddy,38027,North Dakota,47.7176,-98.9016
+McPherson,46089,South Dakota,45.7664,-99.2214
+Quitman,13239,Georgia,31.8673,-85.0188
+Denali,02068,Alaska,63.6716,-150.0117
+Jeff Davis,48243,Texas,30.7154,-104.14
+Garfield,53023,Washington,46.4316,-117.5452
+Towner,38095,North Dakota,48.6855,-99.2457
+Culberson,48109,Texas,31.4471,-104.5173
+Miner,46097,South Dakota,44.0219,-97.6102
+Highland,51091,Virginia,38.3623,-79.5686
+Dickens,48125,Texas,33.6165,-100.7789
+Burke,38013,North Dakota,48.791,-102.5182
+Cimarron,40025,Oklahoma,36.7483,-102.5177
+Wheatland,30107,Montana,46.4663,-109.8446
+Hoonah-Angoon,02105,Alaska,58.2884,-135.643
+Wichita,20203,Kansas,38.4821,-101.3474
+Robertson,21201,Kentucky,38.5188,-84.052
+Menard,48327,Texas,30.8898,-99.8206
+Keweenaw,26083,Michigan,47.6279,-88.4346
+Oldham,48359,Texas,35.405,-102.6028
+Mellette,46095,South Dakota,43.5813,-100.76
+Stanton,20187,Kansas,37.563,-101.7842
+De Baca,35011,New Mexico,34.3425,-104.412
+Worth,29227,Missouri,40.4791,-94.4221
+Cheyenne,08017,Colorado,38.828,-102.6035
+Clark,20025,Kansas,37.2355,-99.8203
+Buffalo,46017,South Dakota,44.0763,-99.2048
+Haakon,46055,South Dakota,44.2945,-101.5399
+Jerauld,46073,South Dakota,44.0663,-98.6296
+Gosper,31073,Nebraska,40.5148,-99.8307
+Garfield,31071,Nebraska,41.9144,-98.9914
+Armstrong,48011,Texas,34.9649,-101.3574
+Judith Basin,30045,Montana,47.0454,-110.266
+Boyd,31015,Nebraska,42.8997,-98.7665
+Edwards,48137,Texas,29.9827,-100.3048
+Dundy,31057,Nebraska,40.1762,-101.6879
+Meagher,30059,Montana,46.5982,-110.8857
+Gilliam,41021,Oregon,45.3783,-120.2108
+Hodgeman,20083,Kansas,38.0875,-99.8979
+Logan,38047,North Dakota,46.4573,-99.4774
+Piute,49031,Utah,38.3367,-112.1274
+Garden,31069,Nebraska,41.6194,-102.3355
+Eureka,32011,Nevada,39.9839,-116.2686
+Dolores,08033,Colorado,37.7517,-108.5174
+Golden Valley,38033,North Dakota,46.9402,-103.8466
+Oliver,38065,North Dakota,47.1153,-101.3403
+Deuel,31049,Nebraska,41.1116,-102.3338
+McCone,30055,Montana,47.6452,-105.7954
+Steele,38091,North Dakota,47.4562,-97.7246
+Comanche,20033,Kansas,37.1913,-99.2718
+Daniels,30019,Montana,48.7838,-105.5485
+Sherman,41055,Oregon,45.4052,-120.6894
+Cottle,48101,Texas,34.0776,-100.2788
+Irion,48235,Texas,31.3039,-100.9824
+Taliaferro,13265,Georgia,33.5661,-82.8788
+Powder River,30075,Montana,45.395,-105.6302
+Wallace,20199,Kansas,38.9167,-101.7636
+Lane,20101,Kansas,38.4813,-100.4664
+Glasscock,48173,Texas,31.8694,-101.5208
+Kiowa,08061,Colorado,38.4327,-102.7403
+Campbell,46021,South Dakota,45.7712,-100.0516
+Stonewall,48433,Texas,33.1792,-100.2534
+Briscoe,48045,Texas,34.5303,-101.2086
+Throckmorton,48447,Texas,33.1775,-99.2124
+Wheeler,41069,Oregon,44.726,-120.0275
+Rock,31149,Nebraska,42.4213,-99.4499
+Sheridan,38083,North Dakota,47.5755,-100.3456
+Lake and Peninsula,02164,Alaska,58.6529,-156.1868
+Issaquena,28055,Mississippi,32.7414,-90.9892
+Carter,30011,Montana,45.5168,-104.5362
+Hyde,46069,South Dakota,44.5473,-99.4871
+Harding,46063,South Dakota,45.5803,-103.4958
+Sully,46119,South Dakota,44.7156,-100.1322
+Foard,48155,Texas,33.9746,-99.778
+Jackson,08057,Colorado,40.6664,-106.3428
+Motley,48345,Texas,34.0741,-100.7798
+Prairie,30079,Montana,46.8605,-105.378
+Sterling,48431,Texas,31.8278,-101.05
+Sioux,31165,Nebraska,42.4876,-103.7589
+Greeley,20071,Kansas,38.4806,-101.806
+Wibaux,30109,Montana,46.9653,-104.249
+Skagway,02230,Alaska,59.563,-135.3363
+Camas,16025,Idaho,43.4633,-114.8058
+Alpine,06003,California,38.5972,-119.8207
+Garfield,30033,Montana,47.2776,-106.9929
+Esmeralda,32009,Nevada,37.7847,-117.6323
+Logan,31113,Nebraska,41.5665,-100.4829
+Billings,38007,North Dakota,47.0236,-103.3763
+Clark,16033,Idaho,44.2839,-112.3512
+Terrell,48443,Texas,30.225,-102.0765
+Hayes,31085,Nebraska,40.5248,-101.0619
+Bristol Bay,02060,Alaska,58.7439,-156.7
+Hinsdale,08053,Colorado,37.8213,-107.3003
+Mineral,08079,Colorado,37.6689,-106.9241
+Roberts,48393,Texas,35.8384,-100.8136
+Jones,46075,South Dakota,43.9606,-100.6897
+Wheeler,31183,Nebraska,41.9148,-98.5282
+McMullen,48311,Texas,28.3527,-98.5679
+Keya Paha,31103,Nebraska,42.8789,-99.7124
+Slope,38087,North Dakota,46.4472,-103.4599
+Golden Valley,30037,Montana,46.3812,-109.1752
+Grant,31075,Nebraska,41.915,-101.7405
+Banner,31007,Nebraska,41.546,-103.7105
+Hooker,31091,Nebraska,41.9161,-101.1353
+Treasure,30103,Montana,46.2115,-107.2716
+Yakutat,02282,Alaska,59.8889,-140.3577
+Kent,48263,Texas,33.1813,-100.7776
+Thomas,31171,Nebraska,41.9136,-100.5558
+Borden,48033,Texas,32.7436,-101.4317
+Daggett,49009,Utah,40.8873,-109.5077
+Loup,31115,Nebraska,41.9139,-99.4544
+San Juan,08111,Colorado,37.764,-107.6762
+Kenedy,48261,Texas,26.9285,-97.7017
+Blaine,31009,Nebraska,41.9128,-99.9768
+Petroleum,30069,Montana,47.1175,-108.2502
+Harding,35021,New Mexico,35.8579,-103.8203
+Arthur,31005,Nebraska,41.5689,-101.6958
+McPherson,31117,Nebraska,41.5682,-101.0605
+King,48269,Texas,33.6166,-100.2558
+Loving,48301,Texas,31.8493,-103.5799
+Kalawao,15005,Hawaii,21.1709,-156.9475
