@@ -18,6 +18,9 @@
 | *county_mask_mandate_data.csv* | county_fips state_fips | mask mandates in counties in the United States defined by whether a mask mandate was implemented | XXX | 
 | *elec_results_2020.csv* | state_fips | designation of red/blue states by 2020 presidential election | XXX | 
 
+## ***Requirement***
+
+BEN A : Panda, Python, Tableau.... 
 
 ## ***EDA***
 Pandas used to clean datasets.
