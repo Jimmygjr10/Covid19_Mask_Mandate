@@ -68,6 +68,12 @@ Without an accurate Machine Learning model, we took a more simplified approach w
 
 [2020 COVID-19 Analysis.  Cases, Deaths & Mandates via Tableau](https://public.tableau.com/app/profile/jason.goddard/viz/COVID-19MaskMandateFP/Story1?publish=yes "Red Zone's COVID-19 Mask Mandate Intro")
 
+*Consider:* <br>
+&nbsp;&nbsp;-Filtering *Mask Mandates* map down to 0-5% as well as 10-29% <br>
+&nbsp;&nbsp;-Highlighting *Case %* and *Death %* maps by mask mandate  <br>
+
+These are the visualizations that tell the story aligned with the linear association.  
+
 ## ***Exported CSV***
 - *POPULATION_TEST.csv* <br>
 &nbsp;&nbsp;-via XXXX <br>
