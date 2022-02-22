@@ -5,7 +5,7 @@
 **Members:** Jimmy Greer, Ben Altshur, TeKisha Sampson &amp; Jason Goddard
 
 
-**Objective:** Did counties with mask mandates see fewer COVID-19 cases / deaths than those without?  Can we find other more relevant features that suggest a relation between factors and death rate?  The analysis will be a function of the cases / deaths as a percentage of the population.  
+**Objective:** Did counties with mask mandates see fewer COVID-19 cases / deaths than those without?  Can we find other more relevant features that suggest a relation between factors and death rate?  The analysis will be based on the cases / deaths as a percentage of the population.  
 
 **Intro Deck:** [Red Zone's COVID-19 Mask Mandate Intro](https://docs.google.com/presentation/d/16n0RSISNJ638HoVZlOlderMXyFtMTKz3fehBtG4oSqQ/edit#slide=id.p "Red Zone's COVID-19 Mask Mandate Intro") 
 
@@ -19,7 +19,7 @@
 | *POPULATION_TEST.csv* | state_fips | designation of red/blue states by 2020 presidential election | XXX | 
 
 
-## ***Requirement***
+## ***Requirements***
 
 BEN A : Panda, Python, Tableau.... 
 
@@ -49,17 +49,25 @@ Pandas used to clean datasets.
 
 Merging on *fips* keys
 
-*While much of the merging was done in Python, the below shows a simple ERD of the mapping that we could work from.*  
+*Note: while much of the merging was done in Python, the below shows a simple ERD of the mapping that we could work from.*  
 ![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/main/database_covid_rev2.png)
 
 ## ***Machine Learning***
-We will cluster counties based on mandate and deaths using a classification model, Logistic Regression, in an effort to see how communties fared across the state (does the data group by **state (string would have to be converted (perhaps red/blue on last election, east/west or size on median)** or county size, or were the counties simply grouped by the mandate).  Because of the manageable size of the data, we believe that we can employ **(TBD)** from the start.  
+Using a classification model, **Logistic Regression**, we'd like to see if we can predict the likelihood of infection (or potentially death) in a county with a mask mandate.  We'd like to pinpoint correlation by adding population size & 2020 presidential election results as features.  Because of the manageable size of the data, we believe that we can employ Logistic Regression from the start.  
 
+*Logistic Regression Classification Reports:* <br>
 
-We ran Logistical Regression on *Deaths* and *Cases*, and as expected Cases made more sense for our research and our goals.  
+![alt text]() <br>
+![alt text]() <br>
+
+As you can see, the acuracy does not give us much, and we certainly coulnd't use this as a predictive model.  
+
+Based on these results, we ran the data through a **Random Forest** model.  The results were not enough of an improvement to use the model as a predicter:
+
+![alt text]()
 
 ## ***Additonal Analysis***
-Without an accurate Machine Learning model, we took a more simplified approach with linear association.  The results closely matched what we perceived in the data visualization.  
+Without an accurate Machine Learning model, we took a more simplified approach with **linear association**.  The results closely matched what we perceived in the data visualization.  
 
 ![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/Resources/CaseCorr.png)
 ![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/Resources/DeathCorr.png)
