@@ -2,7 +2,7 @@
 
 ## Team: Red Zone
 
-**Members:** Jimmy Greer, Ben Altshur, TeKisha Sampson &amp; Jason Goddard
+**Members:** Jimmy Greer, Ben Altshuler, TeKisha Sampson &amp; Jason Goddard
 
 
 **Objective:** Did counties with mask mandates see fewer COVID-19 cases / deaths than those without?  Can we find other more relevant features that suggest a relation between factors and death rate?  The analysis will be based on the cases / deaths as a percentage of the population.  
@@ -21,10 +21,10 @@
 
 ## ***Requirements***
 
-BEN A : Panda, Python, Tableau.... 
+Pandas, Matplotlib, Sklearn, PostgreSQL 13.x, Numpy
 
 ## ***EDA***
-Python Pandas used to clean datasets.
+Most source data in csv format. Pandas reads in from the sources as separate dataframes before being cleaned and merged. The merge of county population takes place in SQL on the Postgres instance initiated by the user. Finally, a complete csv is passed to the ML segment. 
 
 - **County Mask Mandate** <br>
 &nbsp;&nbsp;-dropping multiple columns <br>
