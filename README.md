@@ -43,7 +43,7 @@ Pandas used to clean datasets.
 &nbsp;&nbsp;-ETL strip <br>
 &nbsp;&nbsp;-merge by category into County Mask Mandate data on *state_fips*
 
-![alt_text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/Resources/Flow_Chart.png)
+![alt_text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/Resources/FlowChart.png)
 
 ## ***SQL***
 
