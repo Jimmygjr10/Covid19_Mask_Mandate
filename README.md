@@ -1,4 +1,4 @@
-# COVID Mandated County Analysis
+# COVID-19 County Mask Mandate Analysis
 
 ## Team: Red Zone
 
