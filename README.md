@@ -11,12 +11,12 @@
 
 ## ***Datasets***
 
-| CSV | Keys | Summary | *OTHER?* | 
-| :---: | :---: | :---: | :---: | 
-| *co-est2020.csv* | FIPS | population in 2020 by county in the United States | XXX | 
-| *us-counties.csv* | FIPS | the cumulative daily 2020 cases and deaths by county taken on the last day of the year | XXX | 
-| *county_mask_mandate_data.csv* | county_fips state_fips | mask mandates in counties in the United States defined by whether a mask mandate was implemented | XXX | 
-| *POPULATION_TEST.csv* | state_fips | designation of red/blue states by 2020 presidential election | XXX | 
+| CSV | Keys | Summary |
+| :---: | :---: | :---: |
+| *POPULATION_TEST.csv* | FIPS | population in 2020 by county in the United States |
+| *us-counties.csv* | FIPS | the cumulative daily 2020 cases and deaths by county taken on the last day of the year |
+| *county_mask_mandate_data.csv* | county_fips state_fips | mask mandates in counties in the United States defined by whether a mask mandate was implemented | 
+| *elec_results_2020.csv* | state_fips | designation of red/blue states by 2020 presidential election |
 
 
 ## ***Requirements***
@@ -35,7 +35,7 @@ Pandas used to clean datasets.
 &nbsp;&nbsp;-dropping multiple columns <br>
 &nbsp;&nbsp;-groupby *counties* to get sum of cases and deaths
 
-- **Co Est2020** <br>
+- **Population Test** <br>
 &nbsp;&nbsp;-concantenate state and county codes into *fips*
 
 
