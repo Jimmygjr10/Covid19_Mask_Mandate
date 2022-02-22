@@ -24,7 +24,7 @@
 BEN A : Panda, Python, Tableau.... 
 
 ## ***EDA***
-Pandas used to clean datasets.
+Python Pandas used to clean datasets.
 
 - **County Mask Mandate** <br>
 &nbsp;&nbsp;-dropping multiple columns <br>
