@@ -47,7 +47,7 @@ Pandas used to clean datasets.
 
 ## ***SQL***
 
-Merging on *fips* keys
+Merging on *fips* keys to bring in population in order to fairly measure features against the percentages of cases in counties.
 
 *Note: while much of the merging was done in Python, the below shows a simple ERD of the mapping that we could work from.*  
 ![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/main/database_covid_rev2.png)
