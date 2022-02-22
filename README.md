@@ -28,7 +28,7 @@ Pandas used to clean datasets.
 
 - **County Mask Mandate** <br>
 &nbsp;&nbsp;-dropping multiple columns <br>
-&nbsp;&nbsp;-*county_start_date* to 1 or 0 <br>
+&nbsp;&nbsp;-*county_start_date* to 1 or 0 in new column <br>
 &nbsp;&nbsp;-add column for duration 
 
 - **US Counties** <br>
