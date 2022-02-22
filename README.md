@@ -61,8 +61,8 @@ We ran Logistical Regression on *Deaths* and *Cases*, and as expected Cases made
 ## ***Additonal Analysis***
 Without an accurate Machine Learning model, we took a more simplified approach with linear association.  The results closely matched what we perceived in the data visualization.  
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/Resources/CaseCorr.png)
+![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/Resources/DeathCorr.png)
 
 ## ***Dashboard***
 
