@@ -1,11 +1,12 @@
 # COVID-19 County Mask Mandate Analysis
+*See Election2_dataset.ipynb, final.csv and covidRegressionandRF.ipynb*
 
 ## Team: Red Zone
 
 **Members:** Jimmy Greer, Ben Altshuler, TeKisha Sampson &amp; Jason Goddard
 
 
-**Objective:** Did counties with mask mandates see fewer COVID-19 cases / deaths than those without?  Can we find other more relevant features that suggest a relation between factors and death rate?  The analysis will be based on the cases / deaths as a percentage of the population.  
+**Objective:** Did counties with mask mandates see fewer COVID-19 cases than those without?  Can we find other more relevant features that suggest a relation between factors and death rate?  The analysis will be based on the cases as a percentage of the population.  
 
 **Intro Deck:** [Red Zone's COVID-19 Mask Mandate Intro](https://docs.google.com/presentation/d/16n0RSISNJ638HoVZlOlderMXyFtMTKz3fehBtG4oSqQ/edit#slide=id.p "Red Zone's COVID-19 Mask Mandate Intro") 
 
@@ -21,7 +22,7 @@
 
 ## ***Requirements***
 
-Pandas, Matplotlib, Sklearn, PostgreSQL 13.x, Numpy
+Pandas, Matplotlib, Sklearn, PostgreSQL 13.x & Numpy
 
 ## ***EDA***
 Most source data in csv format. Pandas reads in from the sources as separate dataframes before being cleaned and merged. The merge of county population takes place in SQL on the Postgres instance initiated by the user. Finally, a complete csv is passed to the ML segment. 
@@ -36,7 +37,7 @@ Most source data in csv format. Pandas reads in from the sources as separate dat
 &nbsp;&nbsp;-groupby *counties* to get sum of cases and deaths
 
 - **Population Test** <br>
-&nbsp;&nbsp;-concantenate state and county codes into *fips*
+&nbsp;&nbsp;-concatenate state and county codes into *fips*
 
 
 - **Election Results** <br>
@@ -49,25 +50,23 @@ Most source data in csv format. Pandas reads in from the sources as separate dat
 
 Merging on *fips* keys to bring in population in order to fairly measure features against the percentages of cases in counties.
 
-*Note: while much of the merging was done in Python, the below shows a simple ERD of the mapping that we could work from.*  
+*Note: while much of the merging was done in Python, the below shows a simple ERD of the mapping that we could work from throughout.*  
 ![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/main/database_covid_rev2.png)
 
 ## ***Machine Learning***
-Using a classification model, **Logistic Regression**, we'd like to see if we can predict the likelihood of infection (or potentially death) in a county with a mask mandate.  We'd like to pinpoint correlation by adding population size & 2020 presidential election results as features.  Because of the manageable size of the data, we believe that we can employ Logistic Regression from the start.  
+*See covidRegressionandRF.ipynb*
+Using a classification model, **Logistic Regression**, we'd like to see if we can predict the likelihood of infection in a county with a mask mandate.  We'd like to pinpoint correlation by adding population size & 2020 presidential election results as features.  Because of the manageable size of the data, we believe that we can employ Logistic Regression from the start.  
 
 *Logistic Regression Classification Reports:* <br>
 
-![alt text]() <br>
-![alt text]() <br>
+![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/Resources/ClassReport.png) <br>
 
-As you can see, the acuracy does not give us much, and we certainly coulnd't use this as a predictive model.  
+As you can see, with high f1-scores across the bins and a accuracy rate of 92.9%, this would be a good predictive model given that we have the mask mandate, Blue/Red State status and the population of a given county.  
 
-Based on these results, we ran the data through a **Random Forest** model.  The results were not enough of an improvement to use the model as a predicter:
-
-![alt text]()
+Additionally, we ran a **Random Forest** model.  With an f1-score of .60, we would lean towards the **Logistic Regression** above.  
 
 ## ***Additonal Analysis***
-Without an accurate Machine Learning model, we took a more simplified approach with **linear association**.  The results closely matched what we perceived in the data visualization.  
+To narrow down the causation, we took a simple approach with **linear association**.  The results closely matched what we perceived in the data visualization and gave insight into the driving feature in the dataset (mask mandate).  
 
 ![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/Resources/CaseCorr.png)
 ![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/Resources/DeathCorr.png)
@@ -83,8 +82,6 @@ Without an accurate Machine Learning model, we took a more simplified approach w
 These are the visualizations that tell the story aligned with the linear association.  
 
 ## ***Exported CSV***
-- *POPULATION_TEST.csv* <br>
-&nbsp;&nbsp;-via XXXX <br>
+- *final.csv* <br>
+&nbsp;&nbsp;-via *Election2_dataset.ipynb* <br>
 
-- *mega_merged_df.csv* <br>
-&nbsp;&nbsp;-via XXX 
