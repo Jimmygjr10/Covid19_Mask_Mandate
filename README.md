@@ -1,5 +1,5 @@
 # COVID-19 County Mask Mandate Analysis
-*See Election2_dataset.ipynb, final.csv and covidRegressionandRF.ipynb*
+*See Election2_dataset.ipynb, final.csv & covidRegressionandRF.ipynb*
 
 ## Team: Red Zone
 
