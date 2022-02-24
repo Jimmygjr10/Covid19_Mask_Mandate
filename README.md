@@ -5,6 +5,11 @@
 
 **Members:** Jimmy Greer, Ben Altshuler, TeKisha Sampson &amp; Jason Goddard
 
+## Comm Protocol
+- Trello for PM, Slack, Group-Text, email
+- Use one of the above as heads-up on working status, new branches, major commits, new files, pull requests, and merge conflicts
+
+
 
 **Objective:** Did counties with mask mandates see fewer COVID-19 cases than those without?  Can we find other more relevant features that suggest a relation between factors and death rate?  The analysis will be based on the cases as a percentage of the population.  
 
