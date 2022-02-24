@@ -5,11 +5,9 @@
 
 **Members:** Jimmy Greer, Ben Altshuler, TeKisha Sampson &amp; Jason Goddard
 
-## Comm Protocol
+**Comm Protocol:**
 - Trello for PM, Slack, Group-Text, email
 - Use one of the above as heads-up on working status, new branches, major commits, new files, pull requests, and merge conflicts
-
-
 
 **Objective:** Did counties with mask mandates see fewer COVID-19 cases than those without?  Can we find other more relevant features that suggest a relation between factors and death rate?  The analysis will be based on the cases as a percentage of the population.  
 
@@ -56,10 +54,10 @@ Most source data in csv format. Pandas reads in from the sources as separate dat
 Merging on *fips* keys to bring in population in order to fairly measure features against the percentages of cases in counties.
 
 *Note: while much of the merging was done in Python, the below shows a simple ERD of the mapping that we could work from throughout.*  
-![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/main/database_covid_rev2.png)
+![alt text](https://github.com/Jimmygjr10/Covid19_Mask_Mandate/blob/READ.ME/database_covid_rev2.png)
 
 ## ***Machine Learning***
-*See covidRegressionandRF.ipynb*
+*See covidRegressionandRF.ipynb* <br>
 Using a classification model, **Logistic Regression**, we'd like to see if we can predict the likelihood of infection in a county with a mask mandate.  We'd like to pinpoint correlation by adding population size & 2020 presidential election results as features.  Because of the manageable size of the data, we believe that we can employ Logistic Regression from the start.  
 
 *Logistic Regression Classification Reports:* <br>
