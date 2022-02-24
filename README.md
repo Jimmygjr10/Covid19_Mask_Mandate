@@ -82,7 +82,7 @@ To narrow down the causation, we took a simple approach with **linear associatio
 &nbsp;&nbsp;-Filtering *Mask Mandates* map down to 0-5% as well as 10-29% <br>
 &nbsp;&nbsp;-Highlighting *Case %* and *Death %* maps by mask mandate  <br>
 
-These are the visualizations that tell the story aligned with the linear association.  
+These visualizations that tell a story that aligns with the data analysis.  
 
 ## ***Exported CSV***
 - *final.csv* <br>
